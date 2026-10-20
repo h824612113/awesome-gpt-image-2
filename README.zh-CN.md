@@ -519,7 +519,14 @@ GOOGLE_ANALYTICS_REFRESH_TOKEN=
 
 ## 致谢与来源说明
 
-本项目在整理与研究过程中，参考并使用了 [YouMind](https://youmind.com/) 与 [OpenNana](https://opennana.com/) 的公开提示词库内容，仅用于学习、归纳与方法论研究。相关内容版权归原作者或原平台所有，如有侵权或不当使用请联系处理，我们将第一时间修正或下线。
+本项目在整理与研究过程中，参考并借鉴了以下优秀的开源社区提示词库与项目内容：
+- [YouMind](https://youmind.com/) 与 [OpenNana](https://opennana.com/)
+- [Evolink-AI/awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts) - API 场景化提示词案例
+- [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image) - 写实与影视镜头提示词
+- [youart-open-source/awesome-gpt-image-2-5-prompts](https://github.com/youart-open-source/awesome-gpt-image-2-5-prompts) - 结构化设计提示词规范
+- [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) - 模块化模板方案
+
+相关内容版权归原作者或原平台所有，仅用于学习、归纳与方法论研究。如有侵权或不当使用请联系处理，我们将第一时间修正或下线。
 
 ## 声明 (Disclaimer)
 

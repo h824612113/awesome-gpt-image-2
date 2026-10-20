@@ -18,6 +18,14 @@ const targetDefinitions = {
   agents: {
     label: 'Shared agent skills',
     root: join(process.env.AGENTS_HOME || join(homedir(), '.agents'), 'skills')
+  },
+  workbuddy: {
+    label: 'WorkBuddy',
+    root: join(homedir(), '.workbuddy', 'skills')
+  },
+  'workbuddy-ai': {
+    label: 'WorkBuddy AI',
+    root: join(homedir(), '.workbuddy-ai', 'skills')
   }
 };
 const targetAliases = {
@@ -26,7 +34,9 @@ const targetAliases = {
   claude: ['claude-code'],
   'claude-code': ['claude-code'],
   agents: ['agents'],
-  shared: ['agents']
+  shared: ['agents'],
+  workbuddy: ['workbuddy'],
+  'workbuddy-ai': ['workbuddy-ai']
 };
 const rawTargets = process.argv.slice(2);
 

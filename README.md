@@ -523,7 +523,14 @@ The full template library lives in [`docs/templates.md`](docs/templates.md). Use
 
 ## Acknowledgements & Sources
 
-During collection and research, this project references public prompt-library content from [YouMind](https://youmind.com/) and [OpenNana](https://opennana.com/) for learning, summarization, and methodology research. Copyright belongs to the original authors or platforms. If any content is infringing or inappropriate, please contact us and we will correct or remove it promptly.
+During collection and research, this project references and builds upon public prompt-library content from the open-source community:
+- [YouMind](https://youmind.com/) & [OpenNana](https://opennana.com/)
+- [Evolink-AI/awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts)
+- [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
+- [youart-open-source/awesome-gpt-image-2-5-prompts](https://github.com/youart-open-source/awesome-gpt-image-2-5-prompts)
+- [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+Copyright belongs to the original authors or platforms. If any content is infringing or inappropriate, please contact us and we will correct or remove it promptly.
 
 ## Disclaimer
 

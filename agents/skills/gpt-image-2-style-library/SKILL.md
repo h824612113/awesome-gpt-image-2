@@ -34,6 +34,18 @@ Example request: `用 gpt-image-2-style-library 技能生成城市生命系统�
    - constraints and negative details
 6. Include the selected template name and any useful example case IDs.
 
+## Integration with Image Generation (openai-image-gateway)
+
+When the user asks to **actually generate an image** or save it to a file (not just write a prompt):
+1. Use this skill (`gpt-image-2-style-library`) first to compose the high-quality industrial prompt.
+2. Directly chain into `openai-image-gateway` to execute the generation:
+   ```bash
+   python3 ~/.codex/skills/openai-image-gateway/scripts/openai_image_gateway.py generate \
+     --prompt "<composed_prompt>" \
+     --out "<target_path>"
+   ```
+3. Report both the selected style template/case and the final saved image path.
+
 ## Output Defaults
 
 - Provide a copyable prompt first.
