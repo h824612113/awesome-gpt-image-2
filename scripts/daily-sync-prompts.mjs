@@ -1,9 +1,10 @@
 #!/usr/bin/env node
 import { execSync } from 'node:child_process';
-import { existsSync, mkdirSync, readFileSync, readdirSync, appendFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, appendFileSync } from 'node:fs';
 import { homedir } from 'node:os';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { collectCandidates, TRACKED_SOURCES } from './lib/prompt-sources.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -102,27 +103,9 @@ function evaluatePromptQuality(candidate) {
 const extReposCacheDir = join(homedir(), '.cache', 'awesome-gpt-image-sync-repos');
 mkdirSync(extReposCacheDir, { recursive: true });
 
-const trackedSources = [
-  {
-    name: 'awesome-gpt-image',
-    url: 'https://github.com/ZeroLu/awesome-gpt-image.git',
-    type: 'zerolu'
-  },
-  {
-    name: 'awesome-gpt-image-2-5-prompts',
-    url: 'https://github.com/youart-open-source/awesome-gpt-image-2-5-prompts.git',
-    type: 'youart'
-  },
-  {
-    name: 'awesome-gpt-image-2-API-Prompts',
-    url: 'https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts.git',
-    type: 'evolink'
-  }
-];
-
 // 如果 /tmp/ext_repos 存在且缓存目录为空，先迁移已存在的本地仓库加速
 if (existsSync('/tmp/ext_repos')) {
-  for (const src of trackedSources) {
+  for (const src of TRACKED_SOURCES) {
     const srcTmpPath = join('/tmp/ext_repos', src.name);
     const targetPath = join(extReposCacheDir, src.name);
     if (existsSync(srcTmpPath) && !existsSync(targetPath)) {
@@ -134,7 +117,7 @@ if (existsSync('/tmp/ext_repos')) {
 }
 
 // 确保仓库存在并每日更新
-for (const src of trackedSources) {
+for (const src of TRACKED_SOURCES) {
   const repoPath = join(extReposCacheDir, src.name);
   if (!existsSync(repoPath)) {
     console.log(`克隆外部参考仓库 [${src.name}]...`);
@@ -152,78 +135,9 @@ for (const src of trackedSources) {
   }
 }
 
-const rawCandidates = [];
-
-// 解析 1: ZeroLu/awesome-gpt-image (Markdown 标题与代码块)
-try {
-  const zeroluPath = join(extReposCacheDir, 'awesome-gpt-image', 'README.md');
-  if (existsSync(zeroluPath)) {
-    const content = readFileSync(zeroluPath, 'utf8');
-    const sections = content.split(/\n(?=###?\s+)/);
-    for (const sec of sections) {
-      const titleMatch = sec.match(/^###?\s+([^\n]+)/);
-      const codeMatch = sec.match(/```(?:text|json)?\n([\s\S]*?)\n```/);
-      if (titleMatch && codeMatch) {
-        const title = titleMatch[1].replace(/\[(.*?)\]\(.*?\)/g, '$1').trim();
-        if (title.toLowerCase().includes('sponsor')) continue;
-        rawCandidates.push({
-          title,
-          prompt: codeMatch[1].trim(),
-          source: 'ZeroLu/awesome-gpt-image'
-        });
-      }
-    }
-  }
-} catch (err) {
-  console.warn('解析 ZeroLu 仓库出错:', err.message);
-}
-
-// 解析 2: youart-open-source/awesome-gpt-image-2-5-prompts (data/prompts.json)
-try {
-  const youartJson = join(extReposCacheDir, 'awesome-gpt-image-2-5-prompts', 'data', 'prompts.json');
-  if (existsSync(youartJson)) {
-    const d = JSON.parse(readFileSync(youartJson, 'utf8'));
-    const list = Array.isArray(d) ? d : (d.prompts || []);
-    for (const item of list) {
-      if (item.prompt) {
-        rawCandidates.push({
-          title: item.title || 'Creative Prompt',
-          prompt: item.prompt.trim(),
-          source: item.authorUrl || item.sourceUrl || 'youart-open-source/awesome-gpt-image-2-5-prompts'
-        });
-      }
-    }
-  }
-} catch (err) {
-  console.warn('解析 YouArt 仓库出错:', err.message);
-}
-
-// 解析 3: Evolink-AI/awesome-gpt-image-2-API-Prompts (cases/*.md)
-try {
-  const evolinkCasesDir = join(extReposCacheDir, 'awesome-gpt-image-2-API-Prompts', 'cases');
-  if (existsSync(evolinkCasesDir)) {
-    const files = readdirSync(evolinkCasesDir).filter((f) => f.endsWith('_zh-CN.md') || (!f.includes('_') && f.endsWith('.md')));
-    for (const file of files) {
-      const content = readFileSync(join(evolinkCasesDir, file), 'utf8');
-      const sections = content.split(/\n(?=###\s+Case\s+\d+:)/);
-      for (const sec of sections) {
-        const titleMatch = sec.match(/###\s+Case\s+\d+:\s*(?:\[(.*?)\]\((.*?)\)|([^\n]+))/);
-        const codeMatch = sec.match(/```(?:text|json)?\n([\s\S]*?)\n```/);
-        if (titleMatch && codeMatch) {
-          const title = (titleMatch[1] || titleMatch[3] || '').trim();
-          const sourceUrl = titleMatch[2] || '';
-          rawCandidates.push({
-            title: title || 'Curated Prompt',
-            prompt: codeMatch[1].trim(),
-            source: sourceUrl || 'Evolink-AI/awesome-gpt-image-2-API-Prompts'
-          });
-        }
-      }
-    }
-  }
-} catch (err) {
-  console.warn('解析 Evolink 仓库出错:', err.message);
-}
+// 三个源（ZeroLu / YouArt / Evolink）的解析逻辑收敛在 scripts/lib/prompt-sources.mjs，
+// 与历史补图脚本共用，避免两处正则各改各的。
+const rawCandidates = collectCandidates(extReposCacheDir);
 
 console.log(`从各外部监控源累计提取出 ${rawCandidates.length} 条原始提示词候选。`);
 console.log('执行多维质量审计（指纹排重、细节密度、视觉控制因子）...');
@@ -239,6 +153,7 @@ for (const candidate of rawCandidates) {
       title: candidate.title,
       prompt: res.prompt,
       source: candidate.source,
+      image: candidate.image || '',
       fingerprint: res.fingerprint
     });
   } else {
@@ -253,7 +168,9 @@ if (acceptedCandidates.length > 0) {
   let mdToAppend = '\n\n';
   for (const item of acceptedCandidates) {
     maxId++;
-    mdToAppend += `***\n\n<a name="case-${maxId}"></a>\n\n### 例 ${maxId}：${item.title}\n\n**来源：** ${item.source}\n\n**提示词：**\n\n\`\`\`text\n${item.prompt}\n\`\`\`\n\n`;
+    const altText = (item.title || `Case ${maxId}`).replace(/[[\]]/g, '').trim();
+    const imageLine = item.image ? `![${altText}](${item.image})\n\n` : '';
+    mdToAppend += `***\n\n<a name="case-${maxId}"></a>\n\n### 例 ${maxId}：${item.title}\n\n${imageLine}**来源：** ${item.source}\n\n**提示词：**\n\n\`\`\`text\n${item.prompt}\n\`\`\`\n\n`;
   }
   appendFileSync(join(rootDir, 'docs', 'gallery-part-2.md'), mdToAppend, 'utf8');
 }

@@ -5320,86 +5320,6 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 ***
 
-<a name="case-330"></a>
-
-### 例 330：月下美女直播画面
-
-![月下美女直播画面](../data/images/case330.png)
-
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
-
-**提示词：**
-
-```text
-生成一张直播间的图片，直播间氛围是月下美女跳舞的画面，直播间有很多人评论
-```
-
-***
-
-<a name="case-331"></a>
-
-### 例 331：西安手绘水彩城市地图
-
-![西安手绘水彩城市地图](../data/images/case331.png)
-
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
-
-**提示词：**
-
-```text
-生成一张手绘水彩风格的「西安」城市地图，包含当地特色美食、地标建筑及城市特色
-```
-
-***
-
-<a name="case-332"></a>
-
-### 例 332：茶π产品宣传海报
-
-![茶π产品宣传海报](../data/images/case332.png)
-
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
-
-**提示词：**
-
-```text
-帮这个产品生成宣传图
-```
-
-***
-
-<a name="case-333"></a>
-
-### 例 333：AI 眼镜爆炸拆解图
-
-![AI 眼镜爆炸拆解图](../data/images/case333.png)
-
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
-
-**提示词：**
-
-```text
-生成一张AI眼镜的爆炸视图，包含每个组件的名称以及这款产品的几大核心卖点。
-```
-
-***
-
-<a name="case-334"></a>
-
-### 例 334：RAG 技术详解图
-
-![RAG 技术详解图](../data/images/case334.png)
-
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
-
-**提示词：**
-
-```text
-帮我生成一张 RAG 技术的详细讲解图
-```
-
-***
-
 <a name="case-335"></a>
 
 ### 例 335：朋友圈截图生成
@@ -5415,58 +5335,6 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 ```
 
 ***
-
-<a name="case-336"></a>
-
-### 例 336：个人网页视觉设计
-
-![个人网页视觉设计](../data/images/case336.png)
-
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
-
-**提示词：**
-
-```text
-原文未公开，案例目标是生成一张高完成度的个人主页视觉设计图。
-```
-
-***
-
-<a name="case-337"></a>
-
-### 例 337：《短歌行》诗词意境图
-
-![短歌行诗词意境图](../data/images/case337.png)
-
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
-
-**提示词：**
-
-```text
-帮我生成一张《短歌行》的意境图，带整篇《短歌行》文字
-```
-
-***
-
-<a name="case-338"></a>
-
-### 例 338：《赤壁怀古》长卷图
-
-![赤壁怀古长卷图](../data/images/case338.png)
-
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
-
-**提示词：**
-
-```text
-帮我生成一张《赤壁怀古》的长卷图，带整篇《赤壁赋》文字
-```
-
-***
-
-<!-- OPENNANA_CHATGPT_IMPORT_END -->
-
-<!-- AI_GENERATED_CONTENT_END_Gallery -->
 
 <a name="case-339"></a>
 
@@ -6688,22 +6556,6 @@ Style: mix of photorealism and vibrant cartoon illustration, pop-art aesthetic, 
 
 ```text
 这是india 料理中的一份真实menu。根据此 重新生成带文本说明的 引人入胜垂涎欲滴的 说明图片 先用English 文本易于识别（手机小屏幕） 这个是beef roast
-```
-
-***
-
-<a name="case-369"></a>
-
-### 例 369：明洞旅游区域地图
-
-![明洞旅游区域地图](../data/images/case369.jpg)
-
-**来源：** [@so\_ainsight](https://x.com/so_ainsight/status/2050354639036654048)
-
-**提示词：**
-
-```text
-[エリア]の観光エリアマップを画像で作成して
 ```
 
 ***
@@ -12529,20 +12381,6 @@ The overall design should feel bright, educational, modern, uncluttered, and eas
 
 ***
 
-<a name="case-545"></a>
-
-### 例 545：现实中的名人
-
-**来源：** [@flowersslop](https://x.com/flowersslop/status/2044334054380552438)
-
-**提示词：**
-
-```text
-山姆·奥特曼、唐纳德·特朗普和埃隆·马斯克在一家繁忙电影院的柜台后面工作
-```
-
-***
-
 <a name="case-546"></a>
 
 ### 例 546：便利店夜景
@@ -12599,34 +12437,6 @@ The overall design should feel bright, educational, modern, uncluttered, and eas
 
 ***
 
-<a name="case-550"></a>
-
-### 例 550：米粒微型文字
-
-**来源：** [@adonis_singh](https://x.com/adonis_singh/status/2046673729082560919)
-
-**提示词：**
-
-```text
-一大堆米，其中有一粒米上写着极小的文字“wOw”
-```
-
-***
-
-<a name="case-551"></a>
-
-### 例 551：360 等距柱状全景图
-
-**来源：** [@LexnLin](https://x.com/LexnLin/status/2046725722320888313) | [@LexnLin](https://x.com/LexnLin/status/2046675069678563385)
-
-**提示词：**
-
-```text
-[地点] 的 360 等距柱状全景图
-```
-
-***
-
 <a name="case-552"></a>
 
 ### 例 552：《杀手》风格游戏画面
@@ -12637,20 +12447,6 @@ The overall design should feel bright, educational, modern, uncluttered, and eas
 
 ```text
 一个《杀手》关卡：你身处 OpenAI 总部，任务是在不被发现的情况下偷走 GPT-6
-```
-
-***
-
-<a name="case-553"></a>
-
-### 例 553：《黑神话：悟空》游戏场景
-
-**来源：** [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
-
-**提示词：**
-
-```text
-生成一个《黑神话：悟空》的游戏场景，画面中悟空被二郎神击飞
 ```
 
 ***
@@ -12669,34 +12465,6 @@ GTA 6 游戏内画面，非常细致，非常真实。镜头是对着一台固�
 
 ***
 
-<a name="case-555"></a>
-
-### 例 555：GTA 6 婚礼任务截图
-
-**来源：** [Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2046109786840711246)
-
-**提示词：**
-
-```text
-生成一张 GTA 6 的游戏截图，内容为 [场景描述]
-```
-
-***
-
-<a name="case-556"></a>
-
-### 例 556：《英雄联盟》上路对线截图
-
-**来源：** [@underwoodxie96](https://x.com/underwoodxie96/status/2046529342415790275)
-
-**提示词：**
-
-```text
-帮我生成一张《英雄联盟》中路对线截图，画面内容是特朗普对阵哈梅内伊
-```
-
-***
-
 <a name="case-557"></a>
 
 ### 例 557：100 个像素风物品网格
@@ -12707,48 +12475,6 @@ GTA 6 游戏内画面，非常细致，非常真实。镜头是对着一台固�
 
 ```text
 生成一张单图，里面包含 100 个完全不同的像素风物品，并且每个物品都带有有意义的标签
-```
-
-***
-
-<a name="case-558"></a>
-
-### 例 558：《塞尔达传说：王国之泪》风格
-
-**来源：** [@marmaduke091](https://x.com/marmaduke091/status/2040820686751432990)
-
-**提示词：**
-
-```text
-在《塞尔达：王国之泪》游戏里，林克坐在一列由他自己制造的 e531 系列列车里
-```
-
-***
-
-<a name="case-559"></a>
-
-### 例 559：GTA 圣安地列斯游戏截图
-
-**来源：** [@flowersslop](https://x.com/flowersslop/status/2040693687500341568)
-
-**提示词：**
-
-```text
-一张 GTA 圣安地列斯的游戏截图：一头狮子正在和一个 NPC 打斗
-```
-
-***
-
-<a name="case-560"></a>
-
-### 例 560：直播截图
-
-**来源：** [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
-
-**提示词：**
-
-```text
-生成一张 TikTok 直播截图，画面里是一位漂亮女性正在直播。
 ```
 
 ***
@@ -12767,20 +12493,6 @@ GTA 6 游戏内画面，非常细致，非常真实。镜头是对着一台固�
 
 ***
 
-<a name="case-562"></a>
-
-### 例 562：YouTube 时间旅行截图
-
-**来源：** [@flowersslop](https://x.com/flowersslop/status/2040261168460108213)
-
-**提示词：**
-
-```text
-一张 YouTube 视频截图，内容是某人穿越到了中世纪
-```
-
-***
-
 <a name="case-563"></a>
 
 ### 例 563：宋朝社交媒体动态流
@@ -12791,20 +12503,6 @@ GTA 6 游戏内画面，非常细致，非常真实。镜头是对着一台固�
 
 ```text
 “宋朝人的朋友圈” / “SONG DYNASTY SOCIAL MEDIA FEED”，采用古今穿越幽默融合的界面设计风格。画面模拟手机社交媒体界面，但内容全部是宋朝场景。头像是宋代文人的肖像，用户名为 “Su Dongpo SuShi_Official”，发帖内容为 “刚到黄州，被贬了但心态还行。今天自己做了东坡肉，味道绝了，附上做法：”。配图是一张工笔画风格的东坡肉特写。点赞列表为 “黄庭坚、秦观、佛印等 126 人”，评论区为 “王安石：呵呵” “司马光：还是那个味”。点赞图标等界面元素替换成宋代纹样。状态栏显示 “大宋移动 5G” 和 “元丰三年”。整体配色为手机深色模式搭配雅致宋韵色调，形成历史与社交媒体趣味碰撞的代表作。
-```
-
-***
-
-<a name="case-564"></a>
-
-### 例 564：古人出现在现代社交平台
-
-**来源：** [Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
-
-**提示词：**
-
-```text
-生成一张 [历史人物姓名] 出现在 [平台名称] 上的截图
 ```
 
 ***
@@ -12909,20 +12607,6 @@ GTA 6 游戏内画面，非常细致，非常真实。镜头是对着一台固�
 
 ***
 
-<a name="case-569"></a>
-
-### 例 569：电影拼贴图
-
-**来源：** [@chetaslua](https://x.com/chetaslua/status/2044462992176386532)
-
-**提示词：**
-
-```text
-整部《超人》电影的拼贴图，一次输出，一张图完成
-```
-
-***
-
 <a name="case-570"></a>
 
 ### 例 570：“Where is [Your Name]” 人群搜寻海报
@@ -12933,20 +12617,6 @@ GTA 6 游戏内画面，非常细致，非常真实。镜头是对着一台固�
 
 ```text
 生成一张 “Where is [你的名字]” 风格的人群搜寻海报，背景城市由你选择
-```
-
-***
-
-<a name="case-571"></a>
-
-### 例 571：GPT Image 2 发布八格漫画
-
-**来源：** [@venturetwins](https://x.com/venturetwins/status/2046620134933250409)
-
-**提示词：**
-
-```text
-创作一篇关于 GPT-Image-2 今天发布的八格漫画
 ```
 
 ***
@@ -13029,34 +12699,6 @@ GTA 6 游戏内画面，非常细致，非常真实。镜头是对着一台固�
 "适合用于咖啡入门科普与门店展示"
 
 构图需要平衡文字与视觉，同时保持设计优雅。重点关注长信息图的处理、数字信息、温度、编号分区、简洁描述、斜杠分隔的风味词，以及模块化排版。最终效果应像高级展示板，而不是课堂幻灯片。
-```
-
-***
-
-<a name="case-575"></a>
-
-### 例 575：核心角色关系图
-
-**来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/key-character-relationship-map) | [@yihui_indie](https://x.com/yihui_indie/status/2045179926270361890)
-
-**提示词：**
-
-```text
-请为“XXX”生成一张核心角色关系图。
-```
-
-***
-
-<a name="case-576"></a>
-
-### 例 576：景德镇青花瓷解析图
-
-**来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/jingdezhen-blue-white-porcelain-diagram) | [@joshesye](https://x.com/joshesye/status/2045764695827562686)
-
-**提示词：**
-
-```text
-生成一张关于景德镇青花瓷的详细解析图，并配套详细的中文知识解读。
 ```
 
 ***
@@ -13170,20 +12812,6 @@ GTA 6 游戏内画面，非常细致，非常真实。镜头是对着一台固�
 
 ***
 
-<a name="case-581"></a>
-
-### 例 581：中国书法字帖练习页
-
-**来源：** [Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2046510310253539764)
-
-**提示词：**
-
-```text
-生成一张 [书体风格] 的书法字帖练习页
-```
-
-***
-
 <a name="case-582"></a>
 
 ### 例 582：剪影宇宙叙事海报
@@ -13204,48 +12832,6 @@ GTA 6 游戏内画面，非常细致，非常真实。镜头是对着一台固�
 让 AI 根据主题自行选择高阶配色，但要保持统一、克制、有品位、低饱和、高级。避免混乱高饱和、廉价霓虹或塑料数码色。合适的配色家族可以是黑金灰、冷蓝灰、雾白灰、棕红配米白、深铜色、旧纸色、深海蓝、暮色紫或银灰，只要服务于主题即可。
 
 最终要求：第一眼就能感受到强烈主题识别与记忆点鲜明的轮廓；第二眼能读出完整叙事世界；第三眼近看仍然有细节和余味。避免通用背景、硬拼贴构图、模板化奇幻素材、电子游戏宣传图气质、过度卡通化，或因为过度写实而破坏艺术氛围。如果合适，可以加入低调的标题、编号、签名或标记作为海报设计的一部分，但绝不能压过主体画面。
-```
-
-***
-
-<a name="case-583"></a>
-
-### 例 583：电商商品详情页
-
-**来源：** [Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
-
-**提示词：**
-
-```text
-为 [商品名称] 生成一张电商商品详情页
-```
-
-***
-
-<a name="case-584"></a>
-
-### 例 584：高密度中文排版压力测试
-
-**来源：** [Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
-
-**提示词：**
-
-```text
-生成一张 [场景 / 内容] 图像
-```
-
-***
-
-<a name="case-585"></a>
-
-### 例 585：手写中文医药处方
-
-**来源：** [Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2046514998965371144)
-
-**提示词：**
-
-```text
-生成一张手写中药或西药处方的图像
 ```
 
 ***
@@ -13296,20 +12882,6 @@ GTA 6 游戏内画面，非常细致，非常真实。镜头是对着一台固�
 
 ***
 
-<a name="case-588"></a>
-
-### 例 588：字母 A 物品网格
-
-**来源：** [@umesh_ai](https://x.com/umesh_ai/status/2046510988367945983)
-
-**提示词：**
-
-```text
-创建一张 10x10 网格图，里面的物品名称都以字母 A 开头
-```
-
-***
-
 <a name="case-589"></a>
 
 ### 例 589：100 个科技主题网格
@@ -13356,34 +12928,6 @@ H. 恢复建议区域
 I. 视觉要求：现代、干净、专业、模块化卡片布局
 
 最终结果应是一张完整信息图，而不是纯文字段落。
-```
-
-***
-
-<a name="case-591"></a>
-
-### 例 591：高考试卷复刻
-
-**来源：** [Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2045529134915600868)
-
-**提示词：**
-
-```text
-生成一张 2026 年 [科目名称] 高考试卷图像
-```
-
-***
-
-<a name="case-592"></a>
-
-### 例 592：三日旅行指南卡片
-
-**来源：** [Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2046523494003851300)
-
-**提示词：**
-
-```text
-为 [城市] 生成一张三天旅行指南图像
 ```
 
 ***
@@ -13486,6 +13030,8 @@ I. 视觉要求：现代、干净、专业、模块化卡片布局
 
 ### 例 598：16-Panel Female Dance Pose Sheet
 
+![16-Panel Female Dance Pose Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case135/output.jpg)
+
 **来源：** [@ExquisitMe](https://x.com/ExquisitMe/status/2048143577264402629)
 
 **提示词：**
@@ -13499,6 +13045,8 @@ I. 视觉要求：现代、干净、专业、模块化卡片布局
 <a name="case-599"></a>
 
 ### 例 599：Anime Fantasy Travel Movie Poster
+
+![Anime Fantasy Travel Movie Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case101/output.jpg)
 
 **来源：** [@Design4p0](https://x.com/Design4p0/status/2047531978346398002)
 
@@ -13514,6 +13062,8 @@ A cinematic anime movie poster for a fictional film titled {argument name="headl
 
 ### 例 600：Anime Music Bootcamp Promo Poster
 
+![Anime Music Bootcamp Promo Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case102/output.jpg)
+
 **来源：** [@sorane_aimusic](https://x.com/sorane_aimusic/status/2047507066697507134)
 
 **提示词：**
@@ -13527,6 +13077,8 @@ Create a dramatic Japanese anime-style promotional thumbnail poster for an event
 <a name="case-601"></a>
 
 ### 例 601：Aspect Ratio: 9:16 Vertical
+
+![Aspect Ratio: 9:16 Vertical](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case85/output.jpg)
 
 **来源：** [@GeekCatX](https://x.com/GeekCatX/status/2047220831491858766)
 
@@ -13578,6 +13130,8 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 ### 例 602：E-commerce Main Image - Pastel Blue Crocs Fashion Ad
 
+![E-commerce Main Image - Pastel Blue Crocs Fashion Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case159/output.jpg)
+
 **来源：** [@SPEEDAI07](https://x.com/SPEEDAI07/status/2047907058079650035)
 
 **提示词：**
@@ -13616,6 +13170,8 @@ The overall poster should deliver a premium, high-end visual experience with a f
 
 ### 例 604：Identity Reference Fashion Portrait
 
+![Identity Reference Fashion Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case235/output.jpg)
+
 **来源：** [@mehvishs25](https://x.com/mehvishs25/status/2057635435330064495)
 
 **提示词：**
@@ -13636,6 +13192,8 @@ Avoid: pastel colors, kawaii styling, cartoon elements, bubbles, exaggerated neo
 
 ### 例 605：Japanese Graffiti Portrait
 
+![Japanese Graffiti Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case260/output.jpg)
+
 **来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2054714863885394325)
 
 **提示词：**
@@ -13649,6 +13207,8 @@ Design a high-detail portrait poster in a bold Japanese graffiti-inspired art st
 <a name="case-606"></a>
 
 ### 例 606：Japanese Graffiti Portrait Poster
+
+![Japanese Graffiti Portrait Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case238/output.jpg)
 
 **来源：** [@ZaraIrahh](https://x.com/ZaraIrahh/status/2052041111586402673)
 
@@ -13712,6 +13272,8 @@ watermark, username, creator ID, platform logo, app mark, QR code, clean vector 
 
 ### 例 608：Pastel Jellyfish Room Goods Poster
 
+![Pastel Jellyfish Room Goods Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case167/output.jpg)
+
 **来源：** [@Ayu_AI_0912](https://x.com/Ayu_AI_0912/status/2048309565817766139)
 
 **提示词：**
@@ -13763,6 +13325,8 @@ Use this reference image and Create an ultra-high resolution (8K) premium {argum
 <a name="case-611"></a>
 
 ### 例 611：Urban Fantasy Coexistence Crossing
+
+![Urban Fantasy Coexistence Crossing](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case142/output.jpg)
 
 **来源：** [@Ray_CROWN0](https://x.com/Ray_CROWN0)
 
@@ -13976,6 +13540,8 @@ Global quality: 8K, ultra-high definition, high-detail 3D render, realistic soft
 
 ### 例 616：Artistic Sketch Portrait Young Man
 
+![Artistic Sketch Portrait Young Man](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case216/output.jpg)
+
 **来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2057440838033252767)
 
 **提示词：**
@@ -14019,6 +13585,8 @@ Contemporary mixed-media pop-art. 8K macro photography highlighting the physical
 <a name="case-618"></a>
 
 ### 例 618：Coffee Girl By the River
+
+![Coffee Girl By the River](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case284/output.jpg)
 
 **来源：** [@MrGafish](https://x.com/MrGafish/status/2055912487493726603)
 
@@ -14140,6 +13708,8 @@ FINAL CHECK: (1) Does the fluid silhouette exactly match the [BRAND NAME] logo? 
 
 ### 例 622：Luxury Golf Editorial Collage
 
+![Luxury Golf Editorial Collage](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case110/output.jpg)
+
 **来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2051275667354890345)
 
 **提示词：**
@@ -14162,6 +13732,8 @@ luxury sports campaign, editorial photography, Nike-style aesthetic, muted green
 <a name="case-623"></a>
 
 ### 例 623：Monochrome Hermes-Inspired Avatar
+
+![Monochrome Hermes-Inspired Avatar](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case92/output.jpg)
 
 **来源：** [@jiajia232016](https://x.com/jiajia232016/status/2048044100793032976)
 
@@ -14225,6 +13797,8 @@ Minimal personal branding identity mockup for a female entrepreneur or creator, 
 
 ### 例 626：Sitcom Intro Storyboard Sheet
 
+![Sitcom Intro Storyboard Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case161/output.jpg)
+
 **来源：** [@viperstudios4](https://x.com/viperstudios4/status/2059390326578511931)
 
 **提示词：**
@@ -14267,6 +13841,8 @@ Create a vertical 9:16 photorealistic social-media video still inside a bright f
 
 ### 例 629：Soft Serve Cozy Aesthetic
 
+![Soft Serve Cozy Aesthetic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case182/output.jpg)
+
 **来源：** [@Sairah_0](https://x.com/Sairah_0/status/2056060219361501319)
 
 **提示词：**
@@ -14288,6 +13864,8 @@ Close-up aesthetic shot of a hand holding iced coffee in a transparent branded c
 <a name="case-630"></a>
 
 ### 例 630：Vintage Paper Collage Set
+
+![Vintage Paper Collage Set](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case266/output.jpg)
 
 **来源：** [@Sairah_0](https://x.com/Sairah_0/status/2054502531628486758)
 
@@ -14338,6 +13916,8 @@ Format
 
 ### 例 632：16-Panel Dance Pose Reference Sheet
 
+![16-Panel Dance Pose Reference Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case134/output.jpg)
+
 **来源：** [@ExquisitMe](https://x.com/ExquisitMe/status/2048143577264402629)
 
 **提示词：**
@@ -14351,6 +13931,8 @@ Format
 <a name="case-633"></a>
 
 ### 例 633：16-Pose Dance Combat Reference Sheet
+
+![16-Pose Dance Combat Reference Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case133/output.jpg)
 
 **来源：** [@ExquisitMe](https://x.com/ExquisitMe/status/2048143577264402629)
 
@@ -14366,6 +13948,8 @@ Format
 
 ### 例 634：16-Pose Dance Reference Sheet
 
+![16-Pose Dance Reference Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case136/output.jpg)
+
 **来源：** [@ExquisitMe](https://x.com/ExquisitMe/status/2048143577264402629)
 
 **提示词：**
@@ -14380,6 +13964,8 @@ Format
 
 ### 例 635：Air Sign Zodiac Character Poster
 
+![Air Sign Zodiac Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case126/output.jpg)
+
 **来源：** [@komorimedia](https://x.com/komorimedia/status/2048114825398731143)
 
 **提示词：**
@@ -14393,6 +13979,8 @@ Format
 <a name="case-636"></a>
 
 ### 例 636：Alishan One-Day Travel Poster
+
+![Alishan One-Day Travel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case129/output.jpg)
 
 **来源：** [@TWnese](https://x.com/TWnese/status/2048077204786212887)
 
@@ -14471,6 +14059,8 @@ Constraints: No text, no labels, no watermark, no color, no digital painting eff
 
 ### 例 639：Japanese Sci-Fi Suit-Up Process Board
 
+![Japanese Sci-Fi Suit-Up Process Board](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ecommerce_case163/output.jpg)
+
 **来源：** [@yy7482933910896](https://x.com/yy7482933910896/status/2048192904922075161)
 
 **提示词：**
@@ -14485,6 +14075,8 @@ Constraints: No text, no labels, no watermark, no color, no digital painting eff
 
 ### 例 640：Landscape Architecture Board
 
+![Landscape Architecture Board](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case145/output.jpg)
+
 **来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2054654236705845670)
 
 **提示词：**
@@ -14498,6 +14090,8 @@ Generate a 3:4 vertical, competition-grade landscape architecture presentation b
 <a name="case-641"></a>
 
 ### 例 641：Male Glow-Up Analysis Poster
+
+![Male Glow-Up Analysis Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case153/output.jpg)
 
 **来源：** [@frametheory058](https://x.com/frametheory058/status/2056038533962555737)
 
@@ -14760,6 +14354,8 @@ QUALITY:
 
 ### 例 643：Parent-Child Miscommunication Infographic
 
+![Parent-Child Miscommunication Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case161/output.jpg)
+
 **来源：** [@sarinaashapi](https://x.com/sarinaashapi/status/2048307780864606708)
 
 **提示词：**
@@ -14886,6 +14482,8 @@ QUALITY:
 
 ### 例 645：Vintage Claude Shannon Infographic Poster
 
+![Vintage Claude Shannon Infographic Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case121/output.jpg)
+
 **来源：** [@mob_17](https://x.com/mob_17/status/2048118645017219381)
 
 **提示词：**
@@ -14900,6 +14498,8 @@ QUALITY:
 
 ### 例 646：Vintage PRS Guitar Lineage Poster
 
+![Vintage PRS Guitar Lineage Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case128/output.jpg)
+
 **来源：** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2048087784141857235)
 
 **提示词：**
@@ -14913,6 +14513,8 @@ QUALITY:
 <a name="case-647"></a>
 
 ### 例 647：Water Signs Zodiac Character Poster
+
+![Water Signs Zodiac Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case123/output.jpg)
 
 **来源：** [@komorimedia](https://x.com/komorimedia/status/2048114825398731143)
 
@@ -14944,6 +14546,8 @@ A first-person point-of-view (POV) shot inside a modern supermarket aisle. The v
 <a name="case-649"></a>
 
 ### 例 649：Cinematic City Explosion Chase
+
+![Cinematic City Explosion Chase](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case92/output.jpg)
 
 **来源：** [@Gugombly](https://x.com/Gugombly/status/2047310862428303636)
 
@@ -15083,6 +14687,8 @@ I love these cube prompts for visualizing different eras. Pretty short but GPT I
 
 ### 例 654：Futuristic Hall Fashion Shot Sequence
 
+![Futuristic Hall Fashion Shot Sequence](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case129/output.jpg)
+
 **来源：** [@weiinberg](https://x.com/weiinberg/status/2049730563393884265)
 
 **提示词：**
@@ -15113,6 +14719,8 @@ Aspect Ratio: 3:4
 
 ### 例 655：Golden Cocktail in Greenhouse Bar
 
+![Golden Cocktail in Greenhouse Bar](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case104/output.jpg)
+
 **来源：** [@FernandesK47117](https://x.com/FernandesK47117/status/2048183925294371147)
 
 **提示词：**
@@ -15126,6 +14734,8 @@ A cinematic vertical photo of a hand holding up a large balloon wine glass fille
 <a name="case-656"></a>
 
 ### 例 656：Japanese AI Battle YouTube Thumbnail
+
+![Japanese AI Battle YouTube Thumbnail](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case74/output.jpg)
 
 **来源：** [@MoveHiro1219](https://x.com/MoveHiro1219/status/2047698611665096732)
 
@@ -15141,6 +14751,8 @@ A bold Japanese YouTube thumbnail about the AI competition era, 16:9 widescreen,
 
 ### 例 657：Luxury Lifestyle Mustang Shot
 
+![Luxury Lifestyle Mustang Shot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case109/output.jpg)
+
 **来源：** [@Just_sharon7](https://x.com/Just_sharon7/status/2048095904138485962)
 
 **提示词：**
@@ -15154,6 +14766,8 @@ A stylish young woman with {argument name="hair style" default="long wavy blonde
 <a name="case-658"></a>
 
 ### 例 658：Naturalist-Style Food Specimen Cross-Section
+
+![Naturalist-Style Food Specimen Cross-Section](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/case_case112/output.jpg)
 
 **来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046939656244318676)
 
@@ -15252,6 +14866,8 @@ A stylish young woman with {argument name="hair style" default="long wavy blonde
 
 ### 例 660：Spanish GRWM Morning Beauty Thumbnail
 
+![Spanish GRWM Morning Beauty Thumbnail](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case91/output.jpg)
+
 **来源：** [@S0N_IA_](https://x.com/S0N_IA_/status/2047414367243657296)
 
 **提示词：**
@@ -15265,6 +14881,8 @@ A vertical 9:16 TikTok-style GRWM beauty thumbnail set in a warm, sunlit Mediter
 <a name="case-661"></a>
 
 ### 例 661：Tropical Parrot Pixel Mosaic
+
+![Tropical Parrot Pixel Mosaic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case103/output.jpg)
 
 **来源：** [@erikmackinnon](https://x.com/erikmackinnon/status/2048190288179675290)
 
@@ -15418,6 +15036,8 @@ Create a realistic vertical portrait photo of a friendly young Japanese woman, a
 
 ### 例 669：E-commerce Main Image - Industrial Design Presentation Sheet
 
+![E-commerce Main Image - Industrial Design Presentation Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case116/output.jpg)
+
 **来源：** [@ShamsAmin56](https://x.com/ShamsAmin56/status/2047627860752621647)
 
 **提示词：**
@@ -15444,6 +15064,8 @@ Style & Finish: Matte textures, clean silhouettes, and sharp edges. Leave design
 
 ### 例 670：E-commerce Main Image - Luxury Fur-Lined Loafer Lifestyle Photo
 
+![E-commerce Main Image - Luxury Fur-Lined Loafer Lifestyle Photo](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case117/output.jpg)
+
 **来源：** [@dynamicwangs](https://x.com/dynamicwangs/status/2047580984342925545)
 
 **提示词：**
@@ -15457,6 +15079,8 @@ A warm, editorial-style lifestyle product photo shot indoors from a low close-up
 <a name="case-671"></a>
 
 ### 例 671：E-commerce Main Image - Premium Gaming Motherboard Studio Shot
+
+![E-commerce Main Image - Premium Gaming Motherboard Studio Shot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case153/output.jpg)
 
 **来源：** [@rojassartorio](https://x.com/rojassartorio/status/2048019666816163867)
 
@@ -15512,6 +15136,8 @@ Create a photorealistic vertical 2:3 studio portrait of an adult East Asian woma
 
 ### 例 674：Ethnographic Plate for Tibetan Ceremonial Hat
 
+![Ethnographic Plate for Tibetan Ceremonial Hat](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case127/output.jpg)
+
 **来源：** [@degewa](https://x.com/degewa/status/2048104569037783226)
 
 **提示词：**
@@ -15525,6 +15151,8 @@ Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate foc
 <a name="case-675"></a>
 
 ### 例 675：Premium food photography template
+
+![Premium food photography template](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case162/output.jpg)
 
 **来源：** [@PrometheanAIX](https://x.com/PrometheanAIX/status/2049122713722106161)
 
@@ -15648,6 +15276,8 @@ Left-aligned composition:
 
 ### 例 679：Ultra-realistic product photography of a rich strawberry soft-serve ice cream...
 
+![Ultra-realistic product photography of a rich strawberry soft-serve ice cream...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case79/output.jpg)
+
 **来源：** [@ZaraIrahh](https://x.com/ZaraIrahh/status/2047179916161212542)
 
 **提示词：**
@@ -15672,121 +15302,14 @@ Mood: fresh, premium, modern, and inviting — aligned with upscale U.S. dessert
 
 ### 例 680：Wind-Up Miniature World
 
+![Wind-Up Miniature World](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case403/output.jpg)
+
 **来源：** [@Gdgtify](https://x.com/Gdgtify/status/2066192943887630372)
 
 **提示词：**
 
 ```text
 create a charming but ultra-refined scene centered on [wind-up toy / mechanical miniature world] where a tiny self-contained world is powered by a visible wind-up key and internal spring system. the toy should contain miniature architecture, characters, moving scenery, rotating signage, tiny lifts, oscillating parts, and small narrative moments that all activate from one central mechanism. mini world features: include visual zones for [main scene], [secondary scene], [moving prop], [character action], and [secret detail / easter egg]. surrounding close-ups can reveal the key, spring chamber, cams, and hidden moving linkages. visual style: japanese capsule toy magic meets luxury miniature cinematography meets premium collectible product photography. whimsical, intricate, emotionally irresistible. composition guidelines: the toy remains the hero, but the viewer should feel invited to peer into its tiny world. balance cuteness with high craftsmanship. make the mechanisms visible enough to create fascination. lighting & background: soft studio lighting with theatrical micro-shadows, premium pastel, lacquer, or dark velvet backdrop depending on [mood], hyper-detailed miniature realism, no watermark. variables: [wind-up toy / mechanical miniature world], [main scene], [secondary scene], [moving prop], [character action], [secret detail / easter egg], [mood]
-```
-
-***
-
-<a name="case-681"></a>
-
-### 例 681：4-Panel Japanese Digital Ad Banner Grid
-
-**来源：** [@makaneko_AI](https://x.com/makaneko_AI/status/2045764016858087720)
-
-**提示词：**
-
-```text
-{
-  "type": "2x2 grid of Japanese digital advertisement banners",
-  "layout": {
-    "structure": "4 equal quadrants",
-    "quadrants": [
-      {
-        "position": "top-left",
-        "theme": "Travel",
-        "subject": "A couple holding hands on a white sand beach, looking out at turquoise ocean water under a bright blue sky.",
-        "elements": ["red hibiscus flower in bottom left corner"],
-        "text_labels": [
-          "今年こそ、解き放て。",
-          "{argument name=\"travel destination\" default=\"沖縄旅行\"}",
-          "3日間の癒やし旅",
-          "航空券+ホテル",
-          "39,800円〜",
-          "絶景、グルメ、体験 ぜんぶ叶う!"
-        ],
-        "icons": {
-          "count": 3,
-          "descriptions": ["airplane", "hotel building", "car"]
-        }
-      },
-      {
-        "position": "top-right",
-        "theme": "Skincare",
-        "subject": "Close-up portrait of a young woman with glowing, dewy skin, eyes closed, gently touching her cheeks.",
-        "elements": [
-          "soft pink gradient background",
-          "dynamic water splash effects",
-          "pink cosmetic jar labeled '{argument name=\"skincare product name\" default=\"LUMIÈRE\"} Brightening Gel'"
-        ],
-        "text_labels": [
-          "毛穴・くすみ卒業!",
-          "透明感あふれる",
-          "水光肌へ",
-          "新感覚スキンケア",
-          "初回限定 78%OFF",
-          "{argument name=\"discount price\" default=\"1,980円\"}"
-        ],
-        "badges": {
-          "count": 3,
-          "style": "gold circular",
-          "labels": ["毛穴ケア", "高保湿", "ハリ・ツヤ"]
-        }
-      },
-      {
-        "position": "bottom-left",
-        "theme": "Gourmet Food",
-        "subject": "Thick, sliced, medium-rare steak sizzling on a dark grill plate.",
-        "elements": [
-          "garlic chips",
-          "rosemary sprig",
-          "dark background with smoke and glowing embers"
-        ],
-        "text_labels": [
-          "とろける旨さ!",
-          "{argument name=\"food item\" default=\"黒毛和牛\"}",
-          "贅沢ステーキ",
-          "期間限定",
-          "特別価格",
-          "通常価格 8,980円",
-          "4,980円"
-        ],
-        "badges": {
-          "count": 1,
-          "style": "red circular",
-          "labels": ["A4 A5等級"]
-        }
-      },
-      {
-        "position": "bottom-right",
-        "theme": "Online Education",
-        "subject": "Young man in a blue shirt studying at a desk, writing in a notebook next to an open laptop.",
-        "elements": ["bright indoor lighting", "desk environment"],
-        "text_labels": [
-          "スキマ時間で",
-          "{argument name=\"education goal\" default=\"最短合格!\"}",
-          "オンライン資格講座",
-          "スマホで完結",
-          "効率学習で差がつく!",
-          "今だけ! 受講料 20%OFF"
-        ],
-        "badges": {
-          "count": 1,
-          "style": "blue circular",
-          "labels": ["受講者数 10万人 突破!"]
-        },
-        "icons": {
-          "count": 2,
-          "descriptions": ["smartphone", "open book"]
-        }
-      }
-    ]
-  }
-}
 ```
 
 ***
@@ -15916,6 +15439,8 @@ Create an ultra-realistic luxury commercial product advertisement for a premium 
 
 ### 例 685：E-commerce Main Image - Premium Grain Powder Ad Board
 
+![E-commerce Main Image - Premium Grain Powder Ad Board](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case154/output.jpg)
+
 **来源：** [@WooGabriel76263](https://x.com/WooGabriel76263/status/2047988112094101770)
 
 **提示词：**
@@ -16004,6 +15529,8 @@ This must look like a creative direction board for a global campaign. Not a clea
 <a name="case-687"></a>
 
 ### 例 687：High-Fashion Beverage Campaign Board
+
+![High-Fashion Beverage Campaign Board](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case131/output.jpg)
 
 **来源：** [@SPEEDAI07](https://x.com/SPEEDAI07/status/2049713995851202786)
 
@@ -16234,6 +15761,8 @@ Aspect ratio: vertical (9:16 preferred)
 <a name="case-689"></a>
 
 ### 例 689：Lavender Smartphone Hero Ad
+
+![Lavender Smartphone Hero Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case177/output.jpg)
 
 **来源：** [@meng_dagg695](https://x.com/meng_dagg695/status/2050472802327900342)
 
@@ -16768,6 +16297,8 @@ Create a cinematic photorealistic disaster-response scene in rainy Tokyo: a mass
 
 ### 例 706：Gas Giant Descent Storyboard
 
+![Gas Giant Descent Storyboard](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case137/output.jpg)
+
 **来源：** [@xRahultripathi](https://x.com/xRahultripathi/status/2048140775356354892)
 
 **提示词：**
@@ -16781,6 +16312,8 @@ Create a cinematic photorealistic disaster-response scene in rainy Tokyo: a mass
 <a name="case-707"></a>
 
 ### 例 707：Mecha Girl Sea-City Key Visual
+
+![Mecha Girl Sea-City Key Visual](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case7/output.jpg)
 
 **来源：** [@old_pgmrs_will](https://x.com/old_pgmrs_will/status/2046144801071079612)
 
@@ -16837,6 +16370,8 @@ Ensure complete character and costume consistency across all sections. The Hero 
 <a name="case-709"></a>
 
 ### 例 709：Pixar 3D Character Design Sheet
+
+![Pixar 3D Character Design Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case206/output.jpg)
 
 **来源：** [@TechieBySA](https://twitter.com/TechieBySA/status/2056784334628036676)
 
@@ -16909,6 +16444,8 @@ Use the uploaded portrait as the identity reference and preserve the person's re
 
 ### 例 712：Soft Pastel Anime Girl Full Body
 
+![Soft Pastel Anime Girl Full Body](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case141/output.jpg)
+
 **来源：** [@hoshi122221](https://x.com/hoshi122221/status/2048025730425196801)
 
 **提示词：**
@@ -16966,6 +16503,8 @@ Camera: 35mm lens, medium wide framing, eye level camera angle, 16:9 widescreen.
 <a name="case-714"></a>
 
 ### 例 714：Collectible Figure Workspace Photo
+
+![Collectible Figure Workspace Photo](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case102/output.jpg)
 
 **来源：** [@Shinning1010](https://x.com/Shinning1010/status/2049068188399227174)
 
@@ -17110,6 +16649,8 @@ Negative prompt:
 
 ### 例 717：Nostalgic 16-Photo Couple Grid
 
+![Nostalgic 16-Photo Couple Grid](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case118/output.jpg)
+
 **来源：** [@zenkaiAI](https://x.com/zenkaiAI/status/2048051889460437351)
 
 **提示词：**
@@ -17123,6 +16664,8 @@ Negative prompt:
 <a name="case-718"></a>
 
 ### 例 718：Printable Paint by Numbers
+
+![Printable Paint by Numbers](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case77/output.jpg)
 
 **来源：** [@TheRoaringToady](https://x.com/TheRoaringToady/status/2050469389720314030)
 
@@ -17473,6 +17016,8 @@ Negative prompt: beauty filter, modern smartphone quality, DSLR quality, cinemat
 
 ### 例 727：Travel Selfie Portrait Reference
 
+![Travel Selfie Portrait Reference](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case203/output.jpg)
+
 **来源：** [@linaa_ai](https://twitter.com/linaa_ai/status/2056777746265858158)
 
 **提示词：**
@@ -17501,6 +17046,8 @@ watermark, logo, text, caption, signature, AI label, brand mark, extra fingers, 
 
 ### 例 728：Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young ma...
 
+![Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young ma...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case81/output.jpg)
+
 **来源：** [@harboriis](https://x.com/harboriis/status/2047175250761433416)
 
 **提示词：**
@@ -17525,6 +17072,8 @@ face changed, different identity, beautified face, edited face, smooth plastic s
 
 ### 例 729：Anime Crowd POV Comparison
 
+![Anime Crowd POV Comparison](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case71/output.jpg)
+
 **来源：** [@chesny](https://x.com/chesny/status/2047714457774637213)
 
 **提示词：**
@@ -17539,6 +17088,8 @@ face changed, different identity, beautified face, edited face, smooth plastic s
 
 ### 例 730：Artist and Ethereal Muse at Night
 
+![Artist and Ethereal Muse at Night](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case120/output.jpg)
+
 **来源：** [@almimeister](https://x.com/almimeister/status/2048309710118687101)
 
 **提示词：**
@@ -17552,6 +17103,8 @@ A cinematic anime-inspired digital illustration set at night inside a cozy artis
 <a name="case-731"></a>
 
 ### 例 731：Busan Travel Journal Illustration
+
+![Busan Travel Journal Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case275/output.jpg)
 
 **来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2056189569515892819)
 
@@ -17805,6 +17358,8 @@ The final image should feel like a premium Japanese lifestyle illustration found
 
 ### 例 737：Cyberpunk 404 Witch Summoning
 
+![Cyberpunk 404 Witch Summoning](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case100/output.jpg)
+
 **来源：** [@Eris_Create_Lab](https://x.com/Eris_Create_Lab/status/2047537707904274795)
 
 **提示词：**
@@ -17890,6 +17445,8 @@ Aspect ratio 4:5
 
 ### 例 740：Neon AI Thumbnail Comparison
 
+![Neon AI Thumbnail Comparison](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case72/output.jpg)
+
 **来源：** [@MoveHiro1219](https://x.com/MoveHiro1219/status/2047698611665096732)
 
 **提示词：**
@@ -17954,6 +17511,8 @@ No real soccer team logos, no FIFA/Champions League/UEFA/World Cup branding, no 
 <a name="case-742"></a>
 
 ### 例 742：Serene City Travel Illustration
+
+![Serene City Travel Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case280/output.jpg)
 
 **来源：** [@oggii_0](https://x.com/oggii_0/status/2055876530988015791)
 
@@ -18054,6 +17613,8 @@ Creator: @hermes_agent_kr on Threads
 
 ### 例 743：Tokyo DisneySea Front-Row Battle UI
 
+![Tokyo DisneySea Front-Row Battle UI](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case75/output.jpg)
+
 **来源：** [@mikko_20100518](https://x.com/mikko_20100518/status/2047514897404354598)
 
 **提示词：**
@@ -18118,6 +17679,8 @@ Create an ultra-realistic urban street group photo at a convenience store entran
 
 ### 例 746：RAW iPhone Quality - Subway Station
 
+![RAW iPhone Quality - Subway Station](https://pbs.twimg.com/media/HFPFd4ZbkAMW8ox?format=jpg&name=large)
+
 **来源：** ZeroLu/awesome-gpt-image
 
 **提示词：**
@@ -18131,6 +17694,8 @@ Create a completely RAW quality, unprocessed, unedited image with full iPhone ca
 <a name="case-747"></a>
 
 ### 例 747：Apple Park Keynote Crowd Shot
+
+![Apple Park Keynote Crowd Shot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case2/output.jpg)
 
 **来源：** ZeroLu/awesome-gpt-image
 
@@ -18146,6 +17711,8 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 ### 例 748：Handwritten Notebook Photo
 
+![Handwritten Notebook Photo](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case3/output.jpg)
+
 **来源：** ZeroLu/awesome-gpt-image
 
 **提示词：**
@@ -18160,6 +17727,8 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 ### 例 749：Basketball Court Direct Flash Portrait
 
+![Basketball Court Direct Flash Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case4/output.jpg)
+
 **来源：** ZeroLu/awesome-gpt-image
 
 **提示词：**
@@ -18173,6 +17742,8 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 <a name="case-750"></a>
 
 ### 例 750：Korean Editorial Portrait with Soft Mist
+
+![Korean Editorial Portrait with Soft Mist](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case14/output.jpg)
 
 **来源：** ZeroLu/awesome-gpt-image
 
@@ -18202,6 +17773,8 @@ Generate a photo from 2003, shot with a digital camera, of five-year-old me with
 
 ### 例 752：GTA 6 Style In-Game Footage
 
+![GTA 6 Style In-Game Footage](https://pbs.twimg.com/media/HFPAX19XMAAJ8V_?format=jpg&name=large)
+
 **来源：** ZeroLu/awesome-gpt-image
 
 **提示词：**
@@ -18215,6 +17788,8 @@ GTA 6 in-game footage, very detailed, very realistic. Close-up shot taken from a
 <a name="case-753"></a>
 
 ### 例 753：GTA 6 Wedding Mission Screenshot
+
+![GTA 6 Wedding Mission Screenshot](https://pbs.twimg.com/media/HGU8siPXMAACZEd?format=jpg&name=large)
 
 **来源：** ZeroLu/awesome-gpt-image
 
@@ -18243,6 +17818,8 @@ Help me generate a screenshot of Trump versus Khamenei in the mid lane in League
 <a name="case-755"></a>
 
 ### 例 755：GTA San Andreas Gameplay Screenshot
+
+![GTA San Andreas Gameplay Screenshot](https://pbs.twimg.com/media/HFH_lAIboAAG7Wi?format=jpg&name=large)
 
 **来源：** ZeroLu/awesome-gpt-image
 
@@ -18286,6 +17863,8 @@ Generate a screenshot of a TikTok live stream featuring a beautiful woman stream
 
 ### 例 758：YouTube Time Travel Screenshot
 
+![YouTube Time Travel Screenshot](https://pbs.twimg.com/media/HFByWu7bsAAxlJd?format=jpg&name=large)
+
 **来源：** ZeroLu/awesome-gpt-image
 
 **提示词：**
@@ -18313,6 +17892,8 @@ Screenshot of a YouTube video showing someone who time-traveled to the Middle Ag
 <a name="case-760"></a>
 
 ### 例 760：Ancient Figures on Modern Social Platforms
+
+![Ancient Figures on Modern Social Platforms](https://pbs.twimg.com/media/HGbtA0KagAADPAR?format=jpg&name=large)
 
 **来源：** ZeroLu/awesome-gpt-image
 
@@ -18464,6 +18045,8 @@ Generate a 1980s propaganda poster. Use the exact slogan "热烈庆祝GPT-Image-
 <a name="case-768"></a>
 
 ### 例 768：The Deer and the Cauldron Character Poster
+
+![The Deer and the Cauldron Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case104/output.jpg)
 
 **来源：** ZeroLu/awesome-gpt-image
 
@@ -18631,6 +18214,8 @@ Focus on product selling points, pricing hierarchy, gift-list modules, product n
 
 ### 例 774：Minimal Design Prompt Collection
 
+![Minimal Design Prompt Collection](https://pbs.twimg.com/media/HGOtEbUbwAAnR5l?format=jpg&name=large)
+
 **来源：** ZeroLu/awesome-gpt-image
 
 **提示词：**
@@ -18654,6 +18239,8 @@ Design a set of co-branded promotional materials for Durex and Chayan Yuese
 
 ### 例 775：Chinese Calligraphy Copybook Sheet
 
+![Chinese Calligraphy Copybook Sheet](https://pbs.twimg.com/media/HGb7IZWaoAA8DCz?format=jpg&name=large)
+
 **来源：** ZeroLu/awesome-gpt-image
 
 **提示词：**
@@ -18667,6 +18254,8 @@ Generate a calligraphy copybook practice sheet in [script style]
 <a name="case-776"></a>
 
 ### 例 776：Silhouette Universe Narrative Poster
+
+![Silhouette Universe Narrative Poster](https://pbs.twimg.com/media/HGb-f9yboAAn3en?format=jpg&name=large)
 
 **来源：** ZeroLu/awesome-gpt-image
 
@@ -18705,6 +18294,8 @@ It's 10 AM in Los Angeles, 11 AM in Denver, 12 PM in Chicago, 1 PM in New York, 
 <a name="case-778"></a>
 
 ### 例 778：Encyclopedia-Style Knowledge Card
+
+![Encyclopedia-Style Knowledge Card](https://pbs.twimg.com/media/HGcAZlsa8AEpG1O?format=jpg&name=large)
 
 **来源：** ZeroLu/awesome-gpt-image
 
@@ -18752,6 +18343,8 @@ Create a 10 × 10 grid of 100 different topics representing recent technological
 
 ### 例 780：Fitness Training Infographic
 
+![Fitness Training Infographic](https://pbs.twimg.com/media/HGbRt9DW8AA5V1S?format=jpg&name=large)
+
 **来源：** ZeroLu/awesome-gpt-image
 
 **提示词：**
@@ -18787,6 +18380,8 @@ The final result should be a complete infographic rather than plain text paragra
 <a name="case-781"></a>
 
 ### 例 781：Personal Color Analysis Diagram
+
+![Personal Color Analysis Diagram](https://pbs.twimg.com/media/HGc_ayZXsAAd7Ur?format=jpg&name=large)
 
 **来源：** ZeroLu/awesome-gpt-image
 
@@ -18829,6 +18424,8 @@ Create a hairstyle analysis graphic using this picture. Show side-by-side hairst
 <a name="case-784"></a>
 
 ### 例 784：Character Relationship Diagram Poster
+
+![Character Relationship Diagram Poster](https://pbs.twimg.com/media/HGXHhQcbAAAFcYA?format=jpg&name=large)
 
 **来源：** ZeroLu/awesome-gpt-image
 
@@ -18924,6 +18521,8 @@ Colorize this comic page and translate it into Chinese, placing the text in the 
 
 ### 例 789：Japanese Chinese Food Delivery Flyer
 
+![Japanese Chinese Food Delivery Flyer](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case166/output.jpg)
+
 **来源：** https://x.com/xc5_/status/2048310696686014935
 
 **提示词：**
@@ -18952,6 +18551,8 @@ Texture of cheap paper printing. Includes fold marks. Precision that could be mi
 
 ### 例 790：Magical Seed Packet Diorama
 
+![Magical Seed Packet Diorama](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case143/output.jpg)
+
 **来源：** https://x.com/AllaAisling/status/2048156345518768190
 
 **提示词：**
@@ -18973,6 +18574,8 @@ Tilt-shift depth of field, greenhouse morning light, the packet as the garden it
 
 ### 例 791：Luxury Chronograph Watch Ad
 
+![Luxury Chronograph Watch Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case144/output.jpg)
+
 **来源：** https://x.com/AlwaveNazca/status/2048147643809865950
 
 **提示词：**
@@ -18986,6 +18589,8 @@ A dramatic luxury product advertising image for a motorsport-inspired chronograp
 <a name="case-792"></a>
 
 ### 例 792：Neon Nike Lumina Ad Poster
+
+![Neon Nike Lumina Ad Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case145/output.jpg)
 
 **来源：** https://x.com/AlwaveNazca/status/2048147643809865950
 
@@ -19001,6 +18606,8 @@ A high-energy vertical Nike fashion campaign poster featuring a single athletic 
 
 ### 例 793：Streetwear Sneaker Poster Ad
 
+![Streetwear Sneaker Poster Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case146/output.jpg)
+
 **来源：** https://x.com/AlwaveNazca/status/2048147643809865950
 
 **提示词：**
@@ -19014,6 +18621,8 @@ Create a bold streetwear poster advertisement for {argument name="brand name" de
 <a name="case-794"></a>
 
 ### 例 794：Editorial Osaka Six Sweatshirt Ad
+
+![Editorial Osaka Six Sweatshirt Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case147/output.jpg)
 
 **来源：** https://x.com/_LaurentB/status/2048126606313464040
 
@@ -19029,6 +18638,8 @@ A clean editorial fashion advertisement poster on a pale powder-blue studio back
 
 ### 例 795：Editorial Perfume Shot on Moss
 
+![Editorial Perfume Shot on Moss](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case148/output.jpg)
+
 **来源：** https://x.com/Salmaaboukarr/status/2048103506125463983
 
 **提示词：**
@@ -19042,6 +18653,8 @@ A high-end editorial product photograph of a single luxury perfume bottle center
 <a name="case-796"></a>
 
 ### 例 796：Editorial Perfume Bottle in Golden Fur
+
+![Editorial Perfume Bottle in Golden Fur](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case149/output.jpg)
 
 **来源：** https://x.com/Salmaaboukarr/status/2048103506125463983
 
@@ -19057,6 +18670,8 @@ A luxurious editorial product photograph of a single perfume bottle nestled into
 
 ### 例 797：Luxury Miniature Dubai City Model
 
+![Luxury Miniature Dubai City Model](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case150/output.jpg)
+
 **来源：** https://x.com/silentempiredev/status/2048086378383384773
 
 **提示词：**
@@ -19071,6 +18686,8 @@ A hyper-detailed cinematic isometric miniature city model of {argument name="lan
 
 ### 例 798：Parody Luxury Product Advertisement
 
+![Parody Luxury Product Advertisement](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case131/output.jpg)
+
 **来源：** https://x.com/tonysimons_/status/2048057490940596595
 
 **提示词：**
@@ -19084,6 +18701,8 @@ High-impact parody e-commerce infographic for “{argument name="product" defaul
 <a name="case-799"></a>
 
 ### 例 799：Luxury poster for fictional AI ad printer
+
+![Luxury poster for fictional AI ad printer](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case168/output.jpg)
 
 **来源：** https://x.com/nijisora_yuma/status/2049462065639858687
 
@@ -19113,6 +18732,8 @@ High-impact parody e-commerce infographic for “{argument name="product" defaul
 
 ### 例 800：Luxury chocolate campaign system
 
+![Luxury chocolate campaign system](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case169/output.jpg)
+
 **来源：** https://x.com/SPEEDAI07/status/2049459155086500321
 
 **提示词：**
@@ -19127,6 +18748,8 @@ Create a premium, square (1:1) product advertisement for a fictional luxury choc
 
 ### 例 801：Urban fruit juice ad poster
 
+![Urban fruit juice ad poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case170/output.jpg)
+
 **来源：** https://x.com/AIwithSarah_/status/2049452842931630202
 
 **提示词：**
@@ -19140,6 +18763,8 @@ Create a premium modern beverage advertisement poster in a vertical 3:4 format f
 <a name="case-802"></a>
 
 ### 例 802：Watermelon Lime Beverage Ad Poster
+
+![Watermelon Lime Beverage Ad Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad_case172/output.jpg)
 
 **来源：** https://x.com/ShamiWeb3/status/2053430685399232756
 
@@ -19235,6 +18860,8 @@ Ultra-realistic beverage photography, premium advertising composition, Behance-q
 
 ### 例 803：Berry Loud Acai Bowl Food Ad
 
+![Berry Loud Acai Bowl Food Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad_case173/output.jpg)
+
 **来源：** https://x.com/Sairah_0/status/2053312926141005835
 
 **提示词：**
@@ -19250,6 +18877,8 @@ Prompt 2: Dynamic food product advertisement for "Berry Loud" mixed berry blend,
 <a name="case-804"></a>
 
 ### 例 804：Luxury Fragrance Campaign Portrait
+
+![Luxury Fragrance Campaign Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case174/output.jpg)
 
 **来源：** https://x.com/amynys/status/2054340951678587051
 
@@ -19271,6 +18900,8 @@ The overall mood should feel seductive, mysterious, powerful, feminine, cinemati
 
 ### 例 805：Berry Splash Cafe Campaign
 
+![Berry Splash Cafe Campaign](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case175/output.jpg)
+
 **来源：** https://x.com/iamaiistudio/status/2054248552294158350
 
 **提示词：**
@@ -19288,6 +18919,8 @@ Create a dynamic food product advertisement for "Berry Loud" mixed berry blend. 
 <a name="case-806"></a>
 
 ### 例 806：Fast Food Hero Poster
+
+![Fast Food Hero Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case176/output.jpg)
 
 **来源：** https://x.com/ShamsAmin56/status/2054238324198625780
 
@@ -19307,6 +18940,8 @@ TECHNICAL: 4k resolution, macro photography style, shallow depth of field, neon-
 <a name="case-807"></a>
 
 ### 例 807：Matcha Granola Ad Poster
+
+![Matcha Granola Ad Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case177/output.jpg)
 
 **来源：** https://x.com/Sairah_0/status/2054111354202779672
 
@@ -19332,6 +18967,8 @@ Premium protein breakfast food advertisement poster featuring centered pouch pac
 
 ### 例 808：Tropical Product Ad Poster
 
+![Tropical Product Ad Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case178/output.jpg)
+
 **来源：** https://x.com/AIwithAliya/status/2054553101236080714
 
 **提示词：**
@@ -19345,6 +18982,8 @@ GPT Image 2 Prompt Create a creative commercial advertising poster for [PRODUCT 
 <a name="case-809"></a>
 
 ### 例 809：Foam Clogs Ad Poster
+
+![Foam Clogs Ad Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case179/output.jpg)
 
 **来源：** https://x.com/Shinning1010/status/2055688162333401470
 
@@ -19362,6 +19001,8 @@ watermark, random text, misspelled headline, garbled letters, logo distortion, l
 <a name="case-810"></a>
 
 ### 例 810：Energy Drink Stadium Ad
+
+![Energy Drink Stadium Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case180/output.jpg)
 
 **来源：** https://x.com/Shorelyn_/status/2055570197973799376
 
@@ -19382,6 +19023,8 @@ Composition centered and symmetrical, low angle hero shot, shallow depth of fiel
 <a name="case-811"></a>
 
 ### 例 811：Sticker Reality Product Collage
+
+![Sticker Reality Product Collage](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case181/output.jpg)
 
 **来源：** https://x.com/oggii_0/status/2056061748806090940
 
@@ -19598,6 +19241,8 @@ Clean Apple/Nike premium ad aesthetic, strong negative space
 
 ### 例 818：Kinder Joy Swing Chair Scene
 
+![Kinder Joy Swing Chair Scene](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case190/output.jpg)
+
 **来源：** https://x.com/iamaiistudio/status/2066312771978092587
 
 **提示词：**
@@ -19617,6 +19262,8 @@ Soft warm directional lighting from the left casts subtle shadows, highlighting 
 <a name="case-819"></a>
 
 ### 例 819：Invisible Shield Sunscreen Ad
+
+![Invisible Shield Sunscreen Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case191/output.jpg)
 
 **来源：** https://x.com/iamrealsnow/status/2066200217347854445
 
@@ -19639,6 +19286,8 @@ Tagline:
 <a name="case-820"></a>
 
 ### 例 820：Hidden Logo Landscape Illusion
+
+![Hidden Logo Landscape Illusion](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case192/output.jpg)
 
 **来源：** https://x.com/iamaiistudio/status/2066191259354689714
 
@@ -19667,6 +19316,8 @@ Output: 1:1 square, photorealistic, National Geographic aerial photography aesth
 <a name="case-821"></a>
 
 ### 例 821：SPLASH Liquid Logo Fashion Poster
+
+![SPLASH Liquid Logo Fashion Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ad-creative_case193/output.jpg)
 
 **来源：** https://x.com/iamaiistudio/status/2065979523229975021
 
@@ -19851,6 +19502,8 @@ A highly detailed collectible toy figure inspired by a LEGO-style minifigure, st
 
 ### 例 832：Persona5 Character Reference Card
 
+![Persona5 Character Reference Card](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case2/output.jpg)
+
 **来源：** https://x.com/iamrednightS/status/2045075682837836265
 
 **提示词：**
@@ -19868,6 +19521,8 @@ A highly detailed collectible toy figure inspired by a LEGO-style minifigure, st
 <a name="case-833"></a>
 
 ### 例 833：Official Character Sheet (JP)
+
+![Official Character Sheet (JP)](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case5/output.jpg)
 
 **来源：** https://x.com/Toshi_nyaruo_AI/status/2045025277538107420
 
@@ -19889,6 +19544,8 @@ A highly detailed collectible toy figure inspired by a LEGO-style minifigure, st
 <a name="case-834"></a>
 
 ### 例 834：Chaos Notes Hidden Face Character Art
+
+![Chaos Notes Hidden Face Character Art](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case9/output.jpg)
 
 **来源：** https://x.com/loglogrog/status/2046448773162033240
 
@@ -19938,6 +19595,8 @@ A highly detailed collectible toy figure inspired by a LEGO-style minifigure, st
 
 ### 例 835：GTA 6 in Bangalore Flower Market
 
+![GTA 6 in Bangalore Flower Market](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case11/output.jpg)
+
 **来源：** https://x.com/ismajc/status/2048174302164394493
 
 **提示词：**
@@ -19951,6 +19610,8 @@ A highly detailed collectible toy figure inspired by a LEGO-style minifigure, st
 <a name="case-836"></a>
 
 ### 例 836：Character key visual poster with silhouette collage
+
+![Character key visual poster with silhouette collage](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case14/output.jpg)
 
 **来源：** https://x.com/SimplyAnnisa/status/2049468867106189319
 
@@ -19966,6 +19627,8 @@ A character promotional poster titled “INPUT NAME,” designed in a unified ve
 
 ### 例 837：Anime wallpaper for foldable phone — colorful aesthetic
 
+![Anime wallpaper for foldable phone — colorful aesthetic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case16/output.jpg)
+
 **来源：** https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/issues/18
 
 **提示词：**
@@ -19979,6 +19642,8 @@ A character promotional poster titled “INPUT NAME,” designed in a unified ve
 <a name="case-838"></a>
 
 ### 例 838：Anime wallpaper for foldable phone — dark cool style
+
+![Anime wallpaper for foldable phone — dark cool style](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/character_case17/output.jpg)
 
 **来源：** https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/issues/19
 
@@ -20371,6 +20036,8 @@ Use this tri-fold layout:
 
 ### 例 853：GPT-Image-2 Detail Showcase
 
+![GPT-Image-2 Detail Showcase](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case10/output.jpg)
+
 **来源：** https://x.com/liyue_ai/status/2045000106919997637
 
 **提示词：**
@@ -20394,6 +20061,8 @@ Use this tri-fold layout:
 <a name="case-854"></a>
 
 ### 例 854：Silhouette Universe Narrative Poster
+
+![Silhouette Universe Narrative Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case23/output.jpg)
 
 **来源：** https://x.com/MrLarus/status/2045418028733538620
 
@@ -20419,6 +20088,8 @@ Use this tri-fold layout:
 
 ### 例 855：Lion Camel Ridge Dark Myth Scene
 
+![Lion Camel Ridge Dark Myth Scene](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case29/output.jpg)
+
 **来源：** https://x.com/MANISH1027512/status/2045743158860878312
 
 **提示词：**
@@ -20433,6 +20104,8 @@ Use this tri-fold layout:
 
 ### 例 856：Counter-Strike x Terraria Screenshot Mashup
 
+![Counter-Strike x Terraria Screenshot Mashup](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case30/output.jpg)
+
 **来源：** https://x.com/yssrski/status/2046410519595348397
 
 **提示词：**
@@ -20446,6 +20119,8 @@ counter strike in game screenshot, mixed with Terraria
 <a name="case-857"></a>
 
 ### 例 857：Multi-Concept Battle Poster Set
+
+![Multi-Concept Battle Poster Set](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case33/output.jpg)
 
 **来源：** https://x.com/joshesye/status/2046493442428039212
 
@@ -20464,6 +20139,8 @@ counter strike in game screenshot, mixed with Terraria
 
 ### 例 858：Sam Altman Bear Selfie
 
+![Sam Altman Bear Selfie](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case35/output.jpg)
+
 **来源：** https://x.com/JustinGorya/status/2046510831832006970
 
 **提示词：**
@@ -20480,6 +20157,8 @@ Edit prompt: Remove the background make it transparent
 
 ### 例 859：Based on the video content and this current frame, use GPT to generate a YouT...
 
+![Based on the video content and this current frame, use GPT to generate a YouT...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/case_case61/output.jpg)
+
 **来源：** https://x.com/chatcutapp/status/2047228386117128475
 
 **提示词：**
@@ -20494,6 +20173,8 @@ Based on the video content and this current frame, use GPT to generate a YouTube
 
 ### 例 860：Research LIME Drug Design and make a detailed infographic about it
 
+![Research LIME Drug Design and make a detailed infographic about it](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/case_case83/output.jpg)
+
 **来源：** https://x.com/WillSpagnoli/status/2047172976463040851
 
 **提示词：**
@@ -20507,6 +20188,8 @@ Research LIME Drug Design and make a detailed infographic about it
 <a name="case-861"></a>
 
 ### 例 861：New Chinese Minimalist Floral Illustration
+
+![New Chinese Minimalist Floral Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/case_case93/output.jpg)
 
 **来源：** https://x.com/liyue_ai/status/2047180347448914195
 
@@ -20546,6 +20229,8 @@ Research LIME Drug Design and make a detailed infographic about it
 
 ### 例 862：Lu Xun Morning Flowers Illustration
 
+![Lu Xun Morning Flowers Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/case_case95/output.jpg)
+
 **来源：** https://x.com/Aurora_62340/status/2047139992355680530
 
 **提示词：**
@@ -20559,6 +20244,8 @@ Research LIME Drug Design and make a detailed infographic about it
 <a name="case-863"></a>
 
 ### 例 863：Vertical Wuxia Heroine Portrait
+
+![Vertical Wuxia Heroine Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/case_case98/output.jpg)
 
 **来源：** https://x.com/CoderDaMing/status/2047127585256358221
 
@@ -20574,6 +20261,8 @@ Research LIME Drug Design and make a detailed infographic about it
 
 ### 例 864：Surreal Japanese Futuristic City Illustration
 
+![Surreal Japanese Futuristic City Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/case_case102/output.jpg)
+
 **来源：** https://x.com/Tresmort/status/2047105322863460496
 
 **提示词：**
@@ -20587,6 +20276,8 @@ Research LIME Drug Design and make a detailed infographic about it
 <a name="case-865"></a>
 
 ### 例 865：Eastern Fantasy Female Half-Portrait
+
+![Eastern Fantasy Female Half-Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/case_case109/output.jpg)
 
 **来源：** https://x.com/liyue_ai/status/2046962895775580442
 
@@ -20612,6 +20303,8 @@ Research LIME Drug Design and make a detailed infographic about it
 
 ### 例 866：Vertical Artistic Portrait of a Young Eastern Woman
 
+![Vertical Artistic Portrait of a Young Eastern Woman](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/case_case110/output.jpg)
+
 **来源：** https://x.com/zhiyangzhu22222/status/2046952985562062888
 
 **提示词：**
@@ -20634,6 +20327,8 @@ Research LIME Drug Design and make a detailed infographic about it
 
 ### 例 867：Restaurant POV Change Comparison
 
+![Restaurant POV Change Comparison](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case70/output.jpg)
+
 **来源：** https://x.com/chesnyfcb/status/2047714457774637213
 
 **提示词：**
@@ -20647,6 +20342,8 @@ A side-by-side comparison graphic on a black background demonstrating a camera-a
 <a name="case-868"></a>
 
 ### 例 868：Cyberpunk AI Tools Comparison Poster
+
+![Cyberpunk AI Tools Comparison Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case73/output.jpg)
 
 **来源：** https://x.com/MoveHiro1219/status/2047698611665096732
 
@@ -20662,6 +20359,8 @@ A futuristic Japanese tech comparison poster in a dark cyberpunk control-room se
 
 ### 例 869：Miyazaki-style short film pipeline
 
+![Miyazaki-style short film pipeline](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case76/output.jpg)
+
 **来源：** https://x.com/happycapyai/status/2049468986828697940
 
 **提示词：**
@@ -20675,6 +20374,8 @@ Given a story concept, generate a complete Miyazaki-style animated short film: w
 <a name="case-870"></a>
 
 ### 例 870：Modern Mafia Boss Portrait
+
+![Modern Mafia Boss Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case78/output.jpg)
 
 **来源：** https://x.com/john_my07/status/2050455807851147461
 
@@ -20690,6 +20391,8 @@ GPT Image 2.0 on ChatGPT vs Google Nano Banana 2 on Gemini. PROMPT: Create a hyp
 
 ### 例 871：Cozy Scrapbook Mini Alter Egos
 
+![Cozy Scrapbook Mini Alter Egos](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case79/output.jpg)
+
 **来源：** https://x.com/gold_force_guri/status/2050433982756721029
 
 **提示词：**
@@ -20704,6 +20407,8 @@ GPT IMAGE 2 on ChatGpt Prompt: Transform the provided reference image into a coz
 
 ### 例 872：Whimsical Folk Doodle Transformation
 
+![Whimsical Folk Doodle Transformation](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case82/output.jpg)
+
 **来源：** https://x.com/oggii_0/status/2052792243845779811
 
 **提示词：**
@@ -20717,6 +20422,8 @@ Simplify all details into clean, flat shapes with a handmade, slightly imperfect
 <a name="case-873"></a>
 
 ### 例 873：Interior Design Mood Board Generator
+
+![Interior Design Mood Board Generator](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case83/output.jpg)
 
 **来源：** https://x.com/GeekCatX/status/2052949583563784620
 
@@ -20785,6 +20492,8 @@ GPT Image 2 室内设计情绪板生成器
 
 ### 例 874：Donut Heist Storyboard Sheet
 
+![Donut Heist Storyboard Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case84/output.jpg)
+
 **来源：** https://x.com/MayorKingAI/status/2054266888428105947
 
 **提示词：**
@@ -20820,6 +20529,8 @@ Right side: character sheet + palette: sunny park, green grass, raccoon grey-bro
 
 ### 例 875：Sourdough Baker Storyboard
 
+![Sourdough Baker Storyboard](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case85/output.jpg)
+
 **来源：** https://x.com/TechieBySA/status/2054609590332129596
 
 **提示词：**
@@ -20833,6 +20544,8 @@ Right side: character sheet + palette: sunny park, green grass, raccoon grey-bro
 <a name="case-876"></a>
 
 ### 例 876：Storyboard Grid Template
+
+![Storyboard Grid Template](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case86/output.jpg)
 
 **来源：** https://x.com/EricoolWong/status/2055788309511917880
 
@@ -20871,6 +20584,8 @@ Technical specifications
 
 ### 例 877：Pancake Dad Storyboard
 
+![Pancake Dad Storyboard](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case87/output.jpg)
+
 **来源：** https://x.com/TechieBySA/status/2055695974085927240
 
 **提示词：**
@@ -20905,6 +20620,8 @@ Footer:
 
 ### 例 878：Borussia Storyboard Intro
 
+![Borussia Storyboard Intro](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case88/output.jpg)
+
 **来源：** https://x.com/guicastellanos1/status/2056059584733675772
 
 **提示词：**
@@ -20920,6 +20637,8 @@ As the players emerge, they interact with the fans in a euphoric post-goal momen
 <a name="case-879"></a>
 
 ### 例 879：Solar Desert Worldbuilding Kit
+
+![Solar Desert Worldbuilding Kit](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case89/output.jpg)
 
 **来源：** https://x.com/iamaiistudio/status/2059335346861781102
 
@@ -21328,6 +21047,8 @@ AR 4:3
 
 ### 例 896：E-commerce Main Image - Luxury Amber Perfume Ad
 
+![E-commerce Main Image - Luxury Amber Perfume Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case113/output.jpg)
+
 **来源：** https://x.com/Polanco_IA/status/2047689647967609037
 
 **提示词：**
@@ -21341,6 +21062,8 @@ A luxurious cinematic product photograph of a classic rectangular perfume bottle
 <a name="case-897"></a>
 
 ### 例 897：E-commerce Main Image - Skincare Product Studio Shot
+
+![E-commerce Main Image - Skincare Product Studio Shot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case114/output.jpg)
 
 **来源：** https://x.com/Strength04_X/status/2047636636847231222
 
@@ -21356,6 +21079,8 @@ A soft {argument name="bottle color" default="cream-colored"} bottle with a {arg
 
 ### 例 898：E-commerce Main Image - Tropical Citrus Soda Ad Poster
 
+![E-commerce Main Image - Tropical Citrus Soda Ad Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case115/output.jpg)
+
 **来源：** https://x.com/edimakorfr/status/2047635133466124726
 
 **提示词：**
@@ -21369,6 +21094,8 @@ Create a vibrant tropical commercial poster for a citrus soda bottle, in a brigh
 <a name="case-899"></a>
 
 ### 例 899：E-commerce Main Image - Luxury Perfume Ad on Marble Vanity
+
+![E-commerce Main Image - Luxury Perfume Ad on Marble Vanity](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case118/output.jpg)
 
 **来源：** https://x.com/MiguelMaestroIA/status/2047555836252151831
 
@@ -21384,6 +21111,8 @@ A luxury e-commerce advertising photo of a premium perfume bottle on a polished 
 
 ### 例 900：E-commerce Main Image - Miniature Diorama Skincare Advertisement
 
+![E-commerce Main Image - Miniature Diorama Skincare Advertisement](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case151/output.jpg)
+
 **来源：** https://x.com/Strength04_X/status/2048074514278563949
 
 **提示词：**
@@ -21397,6 +21126,8 @@ A hyper-realistic miniature diorama product advertisement featuring an oversized
 <a name="case-901"></a>
 
 ### 例 901：E-commerce Main Image - Traditional Chinese Art and Porcelain Vases
+
+![E-commerce Main Image - Traditional Chinese Art and Porcelain Vases](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case152/output.jpg)
 
 **来源：** https://x.com/songguoxiansen/status/2048046906585280977
 
@@ -21413,6 +21144,8 @@ A famille rose porcelain vase featuring Lady Yang Guifei enjoying flowers, with 
 <a name="case-902"></a>
 
 ### 例 902：E-commerce Main Image - Earbuds E-commerce Infographic
+
+![E-commerce Main Image - Earbuds E-commerce Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case155/output.jpg)
 
 **来源：** https://x.com/SPEEDAI07/status/2047981795552153860
 
@@ -21449,6 +21182,8 @@ Style: Ultra-realistic, commercial product photography, 8k resolution, sharp foc
 
 ### 例 903：E-commerce Main Image - Sustainable T-Shirt Plantable Tag Ad
 
+![E-commerce Main Image - Sustainable T-Shirt Plantable Tag Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case156/output.jpg)
+
 **来源：** https://x.com/Diplomeme/status/2047957339974828092
 
 **提示词：**
@@ -21463,6 +21198,8 @@ A premium eco-conscious fashion advertisement, shot as a refined editorial produ
 
 ### 例 904：E-commerce Main Image - Elegant Cosmetic Poster Prompt
 
+![E-commerce Main Image - Elegant Cosmetic Poster Prompt](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case157/output.jpg)
+
 **来源：** https://x.com/Adam38363368936/status/2047917266361360682
 
 **提示词：**
@@ -21476,6 +21213,8 @@ An image in a {argument name="reference style" default="similar style"}, a produ
 <a name="case-905"></a>
 
 ### 例 905：E-commerce Main Image - Minimalist Product Ad: PURE CRUNCH
+
+![E-commerce Main Image - Minimalist Product Ad: PURE CRUNCH](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case158/output.jpg)
 
 **来源：** https://x.com/Strength04_X/status/2047917220165231011
 
@@ -21501,6 +21240,8 @@ Style: ultra clean, editorial minimal, high-end branding, 8K.
 
 ### 例 906：E-commerce Main Image - 9-Panel Product TVC Storyboard
 
+![E-commerce Main Image - 9-Panel Product TVC Storyboard](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case160/output.jpg)
+
 **来源：** https://x.com/Magncsans/status/2047876253898903594
 
 **提示词：**
@@ -21515,6 +21256,8 @@ Using the provided reference image, transform the single casual product photo in
 
 ### 例 907：Premium product studio shot template
 
+![Premium product studio shot template](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case161/output.jpg)
+
 **来源：** https://x.com/PrometheanAIX/status/2049141839882522707
 
 **提示词：**
@@ -21528,6 +21271,8 @@ Create a premium product studio image of a [PRODUCT] for [BRAND], designed in li
 <a name="case-908"></a>
 
 ### 例 908：Burger hero image plus 9-cell ad storyboard
+
+![Burger hero image plus 9-cell ad storyboard](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ecommerce_case163/output.jpg)
 
 **来源：** https://x.com/Gdgtify/status/2049449869530775877
 
@@ -21852,6 +21597,8 @@ Aspect ratio: 9:16
 
 ### 例 922：Cinematic Minimal Portrait
 
+![Cinematic Minimal Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case2/output.jpg)
+
 **来源：** https://x.com/iam_miharbi/status/2045151354679665101
 
 **提示词：**
@@ -21865,6 +21612,8 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 <a name="case-923"></a>
 
 ### 例 923：Mirror Selfie Bedroom Portrait
+
+![Mirror Selfie Bedroom Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case5/output.jpg)
 
 **来源：** https://x.com/Shinning1010/status/2045002808903020962
 
@@ -21881,6 +21630,8 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 ### 例 924：Soft Airy 35mm Portrait
 
+![Soft Airy 35mm Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case6/output.jpg)
+
 **来源：** https://x.com/BubbleBrain/status/2046115431144902732
 
 **提示词：**
@@ -21894,6 +21645,8 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 <a name="case-925"></a>
 
 ### 例 925：Luxury Glam Beauty Portrait
+
+![Luxury Glam Beauty Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case7/output.jpg)
 
 **来源：** https://x.com/patrickassale/status/2044581766309060765
 
@@ -21909,6 +21662,8 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 ### 例 926：9:16 Cosplayer Portrait Screenshot
 
+![9:16 Cosplayer Portrait Screenshot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case8/output.jpg)
+
 **来源：** https://x.com/Zoulinshen/status/2045082518089810073
 
 **提示词：**
@@ -21922,6 +21677,8 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 <a name="case-927"></a>
 
 ### 例 927：Urban Turn-Back Street Portrait
+
+![Urban Turn-Back Street Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case9/output.jpg)
 
 **来源：** https://x.com/Tz_2022/status/2045892003775361198
 
@@ -21937,6 +21694,8 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 ### 例 928：Korean Idol 3x3 Grid Portrait
 
+![Korean Idol 3x3 Grid Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case11/output.jpg)
+
 **来源：** https://x.com/BubbleBrain/status/2046268941941850575
 
 **提示词：**
@@ -21950,6 +21709,8 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 <a name="case-929"></a>
 
 ### 例 929：CCD Camera Flash Korean Idol
+
+![CCD Camera Flash Korean Idol](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case12/output.jpg)
 
 **来源：** https://x.com/BubbleBrain/status/2046190539213885806
 
@@ -21965,6 +21726,8 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 ### 例 930：Korean Idol 3x3 Collage Portrait
 
+![Korean Idol 3x3 Collage Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case13/output.jpg)
+
 **来源：** https://x.com/BubbleBrain/status/2046151898621993364
 
 **提示词：**
@@ -21978,6 +21741,8 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 <a name="case-931"></a>
 
 ### 例 931：Fujifilm Strawberry School Portrait
+
+![Fujifilm Strawberry School Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case15/output.jpg)
 
 **来源：** https://x.com/BubbleBrain/status/2046483268019884384
 
@@ -21993,6 +21758,8 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 ### 例 932：Soft Black Mist Idol Portrait
 
+![Soft Black Mist Idol Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case16/output.jpg)
+
 **来源：** https://x.com/BubbleBrain/status/2046518189509734903
 
 **提示词：**
@@ -22007,6 +21774,8 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 ### 例 933：Fujifilm Couple Portrait
 
+![Fujifilm Couple Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case17/output.jpg)
+
 **来源：** https://x.com/BubbleBrain/status/2046502288102170757
 
 **提示词：**
@@ -22020,6 +21789,8 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 <a name="case-934"></a>
 
 ### 例 934：Create the most realistic front page design of a vintage newspaper featuring ...
+
+![Create the most realistic front page design of a vintage newspaper featuring ...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case70/output.jpg)
 
 **来源：** https://x.com/Naiknelofar788/status/2047207812800147647
 
@@ -22052,6 +21823,8 @@ High-detail, ultra-realistic hybrid of editorial photography and print design.
 
 ### 例 935：Magazine Travel Guide Feature Article
 
+![Magazine Travel Guide Feature Article](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case71/output.jpg)
+
 **来源：** https://x.com/andis13/status/2047204384811921764
 
 **提示词：**
@@ -22065,6 +21838,8 @@ Create image of Magazine feature article [travel] guide page, cute, information 
 <a name="case-936"></a>
 
 ### 例 936：analyze this photo and give me a detailed JSON prompt that recreates it. brea...
+
+![analyze this photo and give me a detailed JSON prompt that recreates it. brea...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case77/output.jpg)
 
 **来源：** https://x.com/pavellaslov/status/2047182214304055339
 
@@ -22096,6 +21871,8 @@ the #1 tell on AI photos is flat colors and a grainy look. this method removes b
 
 ### 例 937：CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-...
 
+![CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case78/output.jpg)
+
 **来源：** https://x.com/ZaraIrahh/status/2047180061657452601
 
 **提示词：**
@@ -22109,6 +21886,8 @@ CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-gre
 <a name="case-938"></a>
 
 ### 例 938：A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a ...
+
+![A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a ...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case80/output.jpg)
 
 **来源：** https://x.com/ZaraIrahh/status/2047179669011616172
 
@@ -22124,6 +21903,8 @@ A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a min
 
 ### 例 939：Candid Bedroom Selfie Photorealistic Portrait
 
+![Candid Bedroom Selfie Photorealistic Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case26/output.jpg)
+
 **来源：** https://x.com/charliejhills/status/2047969988368314526
 
 **提示词：**
@@ -22137,6 +21918,8 @@ Candid selfie of a young woman with shoulder-length honey-blonde hair with light
 <a name="case-940"></a>
 
 ### 例 940：Musician Leaving Bodega Night Cinematic Portrait
+
+![Musician Leaving Bodega Night Cinematic Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case27/output.jpg)
 
 **来源：** https://x.com/commanderdgr8/status/2047934886124867684
 
@@ -22152,6 +21935,8 @@ A candid, magazine-cover quality documentary photograph of a young musician with
 
 ### 例 941：Old Delhi Sweet Shop Storefront Documentary Photo
 
+![Old Delhi Sweet Shop Storefront Documentary Photo](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case28/output.jpg)
+
 **来源：** https://x.com/commanderdgr8/status/2047889839123521635
 
 **提示词：**
@@ -22166,6 +21951,8 @@ Create a photorealistic travel-documentary image of a small sweet-shop storefron
 
 ### 例 942：Cyberpunk Sci-Fi Side Profile Portrait
 
+![Cyberpunk Sci-Fi Side Profile Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case29/output.jpg)
+
 **来源：** https://x.com/iamsofiaijaz/status/2047882171336253928
 
 **提示词：**
@@ -22179,6 +21966,8 @@ A cinematic side-profile portrait of a rugged man with a tied-back bun and full 
 <a name="case-943"></a>
 
 ### 例 943：Realistic Candid Bedroom Recording Portrait
+
+![Realistic Candid Bedroom Recording Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case30/output.jpg)
 
 **来源：** https://x.com/ChillaiKalan__/status/2047862141894681076
 
@@ -22208,6 +21997,8 @@ Style: ultra-realistic, looks like a real phone recording, slightly grainy, not 
 
 ### 例 944：Toddler Crayon Scribble Art Style Portrait
 
+![Toddler Crayon Scribble Art Style Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case31/output.jpg)
+
 **来源：** https://x.com/akakageAI/status/2047812983389356276
 
 **提示词：**
@@ -22224,6 +22015,8 @@ good drawing, nice lines, clear shapes, neat, pretty, smooth, realistic, talente
 
 ### 例 945：Restored Vintage Mother and Child Portrait
 
+![Restored Vintage Mother and Child Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case82/output.jpg)
+
 **来源：** https://x.com/gdb/status/2048184797374325031
 
 **提示词：**
@@ -22237,6 +22030,8 @@ A restored vintage family snapshot, photographed indoors in soft natural light, 
 <a name="case-946"></a>
 
 ### 例 946：Damaged Vintage Mother and Child Photo
+
+![Damaged Vintage Mother and Child Photo](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case83/output.jpg)
 
 **来源：** https://x.com/gdb/status/2048184797374325031
 
@@ -22252,6 +22047,8 @@ A heavily damaged old family snapshot in faded black and white with a slight sep
 
 ### 例 947：Ink-Etched Family Portrait
 
+![Ink-Etched Family Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case84/output.jpg)
+
 **来源：** https://x.com/gdb/status/2048184698195870102
 
 **提示词：**
@@ -22265,6 +22062,8 @@ A black-and-white hand-drawn family portrait in the style of detailed pen-and-in
 <a name="case-948"></a>
 
 ### 例 948：Vintage Engraved Hoodie Portrait
+
+![Vintage Engraved Hoodie Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case85/output.jpg)
 
 **来源：** https://x.com/gdb/status/2048184698195870102
 
@@ -22280,6 +22079,8 @@ A centered black-and-white vintage engraved portrait of a bearded man wearing a 
 
 ### 例 949：Dreamy Backlit Editorial Portrait
 
+![Dreamy Backlit Editorial Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case86/output.jpg)
+
 **来源：** https://x.com/ToroJushiAi/status/2048139425465467248
 
 **提示词：**
@@ -22293,6 +22094,8 @@ A cinematic soft-focus portrait of a woman from behind and slightly in profile, 
 <a name="case-950"></a>
 
 ### 例 950：3D Cartoon Character Render
+
+![3D Cartoon Character Render](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case87/output.jpg)
 
 **来源：** https://x.com/Inshrah_ali_/status/2048121503367995753
 
@@ -22308,6 +22111,8 @@ High-quality 3D CGI render of {argument name="character" default="[character]"} 
 
 ### 例 951：Young Woman in Sequin Dress on Stairs
 
+![Young Woman in Sequin Dress on Stairs](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case88/output.jpg)
+
 **来源：** https://x.com/XSydneyFan/status/2048114180906217566
 
 **提示词：**
@@ -22321,6 +22126,8 @@ Vertical 2:3 format. {argument name="subject" default="Young woman"} hair in mes
 <a name="case-952"></a>
 
 ### 例 952：Luxury Studio Outfit Transformation
+
+![Luxury Studio Outfit Transformation](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case89/output.jpg)
 
 **来源：** https://x.com/Abdullah__Ai7/status/2048083022315159595
 
@@ -22336,6 +22143,8 @@ Using REFERENCE_0 as the subject base, transform the casual desert snapshot into
 
 ### 例 953：Blonde Maid in Warm Cafe
 
+![Blonde Maid in Warm Cafe](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case90/output.jpg)
+
 **来源：** https://x.com/yume00112211/status/2048072808606089230
 
 **提示词：**
@@ -22349,6 +22158,8 @@ A polished anime-style portrait of {argument name="character" default="a blonde 
 <a name="case-954"></a>
 
 ### 例 954：Dreamy Oriental female portrait prompt
+
+![Dreamy Oriental female portrait prompt](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case91/output.jpg)
 
 **来源：** https://x.com/liyue_ai/status/2048046253842559183
 
@@ -22364,6 +22175,8 @@ A polished anime-style portrait of {argument name="character" default="a blonde 
 
 ### 例 955：Cyber Crystal Anime Girl Portrait
 
+![Cyber Crystal Anime Girl Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case93/output.jpg)
+
 **来源：** https://x.com/libearal/status/2048026376645861799
 
 **提示词：**
@@ -22377,6 +22190,8 @@ A highly detailed anime-style full-body character portrait of {argument name="ch
 <a name="case-956"></a>
 
 ### 例 956：Pastel Lavender Anime Girl Portrait
+
+![Pastel Lavender Anime Girl Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case94/output.jpg)
 
 **来源：** https://x.com/libearal/status/2048026376645861799
 
@@ -22392,6 +22207,8 @@ A delicate vertical anime portrait of a dreamy young woman in an ethereal pastel
 
 ### 例 957：Lavender AI Girl in Memory Space
 
+![Lavender AI Girl in Memory Space](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case95/output.jpg)
+
 **来源：** https://x.com/libearal/status/2048026376645861799
 
 **提示词：**
@@ -22405,6 +22222,8 @@ A dreamy anime portrait of {argument name="character name" default="Kotori"}, a 
 <a name="case-958"></a>
 
 ### 例 958：Pastel AI Assistant Anime Portrait
+
+![Pastel AI Assistant Anime Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case96/output.jpg)
 
 **来源：** https://x.com/libearal/status/2048026376645861799
 
@@ -22420,6 +22239,8 @@ A dreamy anime-style portrait of a gentle virtual assistant girl named {argument
 
 ### 例 959：Dark Gatorade-Style Portrait
 
+![Dark Gatorade-Style Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case97/output.jpg)
+
 **来源：** https://x.com/jeremydevz/status/2048026214812561683
 
 **提示词：**
@@ -22433,6 +22254,8 @@ A dramatic, high-contrast studio portrait of a {argument name="subject gender" d
 <a name="case-960"></a>
 
 ### 例 960：Portrait of a Gentle Woman with Glasses
+
+![Portrait of a Gentle Woman with Glasses](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case98/output.jpg)
 
 **来源：** https://x.com/megane_onesan/status/2047989490153926848
 
@@ -22448,6 +22271,8 @@ A {argument name="style" default="photobook-style portrait"} of a {argument name
 
 ### 例 961：Dreamy Underwater Woman With Translucent Fish
 
+![Dreamy Underwater Woman With Translucent Fish](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case99/output.jpg)
+
 **来源：** https://x.com/kotobukigraphic/status/2047967522453123255
 
 **提示词：**
@@ -22461,6 +22286,8 @@ A dreamy surreal portrait of a {argument name="subject" default="young woman"} s
 <a name="case-962"></a>
 
 ### 例 962：Japanese Classroom Long Hair Snapshot
+
+![Japanese Classroom Long Hair Snapshot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case100/output.jpg)
 
 **来源：** https://x.com/Hair_Hair55/status/2047963832732221723
 
@@ -22476,6 +22303,8 @@ A candid, photorealistic Japanese high school classroom scene in vertical smartp
 
 ### 例 963：Cozy Catgirl Pajama Night Portrait
 
+![Cozy Catgirl Pajama Night Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case101/output.jpg)
+
 **来源：** https://x.com/yume00112211/status/2047951384734228617
 
 **提示词：**
@@ -22489,6 +22318,8 @@ A soft anime-style bedroom portrait of {argument name="character name" default="
 <a name="case-964"></a>
 
 ### 例 964：Rainy Bus Stop Portrait
+
+![Rainy Bus Stop Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case103/output.jpg)
 
 **来源：** https://x.com/harboriis/status/2049081194156020046
 
@@ -22510,6 +22341,8 @@ pants. Moody, dark, atmospheric street photography.
 
 ### 例 965：CCD flash beauty portrait template
 
+![CCD flash beauty portrait template](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case104/output.jpg)
+
 **来源：** https://x.com/AIwithAliya/status/2049452006608392350
 
 **提示词：**
@@ -22523,6 +22356,8 @@ A hyper-photorealistic shot of the same subject in the attached image, ultra-det
 <a name="case-966"></a>
 
 ### 例 966：Black-and-red streetwear campaign portrait
+
+![Black-and-red streetwear campaign portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case105/output.jpg)
 
 **来源：** https://x.com/harboriis/status/2049450257604550872
 
@@ -22538,6 +22373,8 @@ Create a bold, high-contrast black and white portrait of a confident young man w
 
 ### 例 967：Cyberpunk Fashion Portrait
 
+![Cyberpunk Fashion Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case106/output.jpg)
+
 **来源：** https://x.com/ChillaiKalan__/status/2050453739430195320
 
 **提示词：**
@@ -22551,6 +22388,8 @@ GPT Image 2 on @SocialSight Prompt: Futuristic portrait of a young woman facing 
 <a name="case-968"></a>
 
 ### 例 968：Japanese Negative Film Rooftop Portrait
+
+![Japanese Negative Film Rooftop Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case107/output.jpg)
 
 **来源：** https://x.com/BubbleBrain/status/2050449020645216532
 
@@ -22566,6 +22405,8 @@ Today's Portrait by gpt image 2 ---prompt--- Japanese negative film aesthetic, r
 
 ### 例 969：Paris Café Lifestyle Portrait
 
+![Paris Café Lifestyle Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case108/output.jpg)
+
 **来源：** https://x.com/Sairah_0/status/2050432730962530809
 
 **提示词：**
@@ -22580,6 +22421,8 @@ GPT IMAGE 2 on Chat Gpt Prompt : Ultra-realistic portrait of a young woman sitti
 
 ### 例 970：2x2 Editorial Portrait Grid
 
+![2x2 Editorial Portrait Grid](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case109/output.jpg)
+
 **来源：** https://x.com/Taaruk_/status/2050429694890389779
 
 **提示词：**
@@ -22593,6 +22436,8 @@ GPT IMAGE 2 ON CHATGPT Prompt: Editorial portrait photography arranged in a 2x2 
 <a name="case-971"></a>
 
 ### 例 971：Selective-Color Editorial Portrait
+
+![Selective-Color Editorial Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case111/output.jpg)
 
 **来源：** https://x.com/SPEEDAI07/status/2051262381733618119
 
@@ -22611,6 +22456,8 @@ Lighting is soft frontal studio light with gentle shadows, even skin tones, cine
 <a name="case-972"></a>
 
 ### 例 972：Analog Idol Portrait
+
+![Analog Idol Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case112/output.jpg)
 
 **来源：** https://x.com/BubbleBrain/status/2051253854516478082
 
@@ -22644,6 +22491,8 @@ Add a small handwritten signature text "BubbleBrain" at the bottom right corner,
 
 ### 例 973：White Suit Red Backdrop Portrait
 
+![White Suit Red Backdrop Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case113/output.jpg)
+
 **来源：** https://x.com/iamsofiaijaz/status/2051153792725667873
 
 **提示词：**
@@ -22657,6 +22506,8 @@ A cinematic, high-fashion portrait of a confident stylish woman wearing an elega
 <a name="case-974"></a>
 
 ### 例 974：Monochrome Glitch Profile Portrait
+
+![Monochrome Glitch Profile Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case114/output.jpg)
 
 **来源：** https://x.com/Goodmanprotocol/status/2049733639651385759
 
@@ -22688,6 +22539,8 @@ Aspect ratio is 9:16
 
 ### 例 975：Basketball Boy Motion Sequence
 
+![Basketball Boy Motion Sequence](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case115/output.jpg)
+
 **来源：** https://x.com/Taaruk_/status/2049702491768684839
 
 **提示词：**
@@ -22701,6 +22554,8 @@ A photorealistic video sequence captures a young boy with messy orange hair and 
 <a name="case-976"></a>
 
 ### 例 976：Golden Hour Street Side-Profile Portrait
+
+![Golden Hour Street Side-Profile Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case116/output.jpg)
 
 **来源：** https://x.com/Professor_134/status/2049701241287311561
 
@@ -22731,6 +22586,8 @@ Generate image using uploaded image as reference
 
 ### 例 977：Chibi 3D Mini Me Photo Effect
 
+![Chibi 3D Mini Me Photo Effect](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case117/output.jpg)
+
 **来源：** https://x.com/miratechtool/status/2051691169592033488
 
 **提示词：**
@@ -22744,6 +22601,8 @@ Mini "chibi 3D" versions of the same person appear around the original photo —
 <a name="case-978"></a>
 
 ### 例 978：Cinematic Stormy Seaside Portrait
+
+![Cinematic Stormy Seaside Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case118/output.jpg)
 
 **来源：** https://x.com/Shinning1010/status/2051684366460354923
 
@@ -24642,6 +24501,8 @@ Elegant Korean female model in blush pink satin slip dress with delicate spaghet
 
 ### 例 1027：Wimbledon Broadcast Crowd Shot
 
+![Wimbledon Broadcast Crowd Shot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case170/output.jpg)
+
 **来源：** https://x.com/Mavericks_Prod/status/2054342640439566739
 
 **提示词：**
@@ -24655,6 +24516,8 @@ A screenshot from a live Wimbledon TV broadcast during a packed Centre Court mat
 <a name="case-1028"></a>
 
 ### 例 1028：Rainy Street Golden Portrait
+
+![Rainy Street Golden Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case171/output.jpg)
 
 **来源：** https://x.com/harboriis/status/2054238941482733685
 
@@ -24676,6 +24539,8 @@ Shot on Sony A7R IV, 35mm lens, f/1.8, shallow depth of field, HDR photography, 
 
 ### 例 1029：Watercolor Fashion Sketch
 
+![Watercolor Fashion Sketch](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case173/output.jpg)
+
 **来源：** https://x.com/Naiknelofar788/status/2054741712011223312
 
 **提示词：**
@@ -24689,6 +24554,8 @@ Transform the uploaded photo into a full-body watercolor fashion illustration in
 <a name="case-1030"></a>
 
 ### 例 1030：Retro Newsstand Fashion Scene
+
+![Retro Newsstand Fashion Scene](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case174/output.jpg)
 
 **来源：** https://x.com/harboriis/status/2054484765001306285
 
@@ -24704,6 +24571,8 @@ A cinematic fashion editorial scene of 8 diverse young adults gathered around a 
 
 ### 例 1031：Early 1990s Flash Portrait
 
+![Early 1990s Flash Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case175/output.jpg)
+
 **来源：** https://x.com/bmx_ai13/status/2054459126084718785
 
 **提示词：**
@@ -24718,6 +24587,8 @@ Early 1990s Flash Camera Portrait GPT image 2 on ChatGPT Prompt Template. Use th
 
 ### 例 1032：Origami Portrait Illustration
 
+![Origami Portrait Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case176/output.jpg)
+
 **来源：** https://x.com/Inshrah_ali_/status/2055696156211179912
 
 **提示词：**
@@ -24731,6 +24602,8 @@ Ultra-detailed origami paper art portrait of given picture, entirely crafted fro
 <a name="case-1033"></a>
 
 ### 例 1033：Luxury Portrait With Tiny Alter Ego
+
+![Luxury Portrait With Tiny Alter Ego](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case177/output.jpg)
 
 **来源：** https://x.com/Professor_134/status/2055561008626950422
 
@@ -24755,6 +24628,8 @@ Generate image using uploaded image as reference
 
 ### 例 1034：Ink Glyph Portrait
 
+![Ink Glyph Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case178/output.jpg)
+
 **来源：** https://x.com/harboriis/status/2055560455494738411
 
 **提示词：**
@@ -24769,6 +24644,8 @@ Use the uploaded photo as the main face reference. Preserve the exact facial str
 
 ### 例 1035：Y2K Cyber-Pop Editorial Shot
 
+![Y2K Cyber-Pop Editorial Shot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case179/output.jpg)
+
 **来源：** https://x.com/noorlewisx/status/2055507148541493282
 
 **提示词：**
@@ -24782,6 +24659,8 @@ Don’t alter my facial feature. Create me a wide editorial shot of a girl leani
 <a name="case-1036"></a>
 
 ### 例 1036：Cozy Doodle Lifestyle Photo
+
+![Cozy Doodle Lifestyle Photo](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case180/output.jpg)
 
 **来源：** https://x.com/Sairah_0/status/2055500670564991079
 
@@ -24803,6 +24682,8 @@ Warm cozy morning aesthetic near a window, open book being read beside a cup of 
 
 ### 例 1037：Convex Mirror Rainy Selfie
 
+![Convex Mirror Rainy Selfie](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case181/output.jpg)
+
 **来源：** https://x.com/Shinning1010/status/2056168101545386430
 
 **提示词：**
@@ -24822,6 +24703,8 @@ anime, cartoon, CGI, 3D render, doll face, plastic skin, over-smoothed skin, fak
 
 ### 例 1038：Monochrome Streetwear Editorial
 
+![Monochrome Streetwear Editorial](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case182/output.jpg)
+
 **来源：** https://x.com/AIwithAliya/status/2056078056419393805
 
 **提示词：**
@@ -24837,6 +24720,8 @@ Create a bold monochrome streetwear editorial poster featuring the uploaded pers
 <a name="case-1039"></a>
 
 ### 例 1039：Y2K Streetwear Sticker Poster
+
+![Y2K Streetwear Sticker Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case183/output.jpg)
 
 **来源：** https://x.com/Shinning1010/status/2056049785682211218
 
@@ -24868,6 +24753,8 @@ anime, cartoon, illustration, doll face, plastic skin, waxy skin, overly smooth 
 
 ### 例 1040：Y2K Street-Art Editorial Poster
 
+![Y2K Street-Art Editorial Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case185/output.jpg)
+
 **来源：** https://x.com/kingofdairyque/status/2056273485131821345
 
 **提示词：**
@@ -24881,6 +24768,8 @@ hair instructions, controlling hairstyle, changing hairstyle, young female, youn
 <a name="case-1041"></a>
 
 ### 例 1041：LEGO Miniature City Editorial
+
+![LEGO Miniature City Editorial](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case186/output.jpg)
 
 **来源：** https://x.com/frametheory058/status/2056561951610921186
 
@@ -24898,6 +24787,8 @@ Only the character remains organic and natural. Everything else must be built en
 
 ### 例 1042：Fashion Collage Multi-Style Portrait
 
+![Fashion Collage Multi-Style Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case187/output.jpg)
+
 **来源：** https://x.com/Mind_Boticni/status/2056350780840611954
 
 **提示词：**
@@ -24911,6 +24802,8 @@ Create a premium 1:1 ultra-stylish fashion collage advertisement featuring the s
 <a name="case-1043"></a>
 
 ### 例 1043：Busan Travel Journal Illustration
+
+![Busan Travel Journal Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case188/output.jpg)
 
 **来源：** https://x.com/Sairah_0/status/2056580402761155037
 
@@ -24926,6 +24819,8 @@ Dreamy Busan Korea travel journal illustration, cozy vintage scrapbook aesthetic
 
 ### 例 1044：Cinematic Volleyball Sports Portrait
 
+![Cinematic Volleyball Sports Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case189/output.jpg)
+
 **来源：** https://x.com/meng_dagg695/status/2056590467622744500
 
 **提示词：**
@@ -24940,6 +24835,8 @@ Ultra-realistic cinematic sports portrait of a young athletic woman playing voll
 
 ### 例 1045：3D Designer-Toy Portrait
 
+![3D Designer-Toy Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case190/output.jpg)
+
 **来源：** https://x.com/iamsofiaijaz/status/2056569264262517002
 
 **提示词：**
@@ -24953,6 +24850,8 @@ Stylized 3D designer-toy portrait, centered symmetrical close-up composition, ma
 <a name="case-1046"></a>
 
 ### 例 1046：Dark Silhouette Rim-Light Portrait
+
+![Dark Silhouette Rim-Light Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case191/output.jpg)
 
 **来源：** https://x.com/XSydneyFan/status/2056427756213465521
 
@@ -24969,6 +24868,8 @@ Stylized 3D designer-toy portrait, centered symmetrical close-up composition, ma
 
 ### 例 1047：Cozy Bedroom Korean Girl Portrait
 
+![Cozy Bedroom Korean Girl Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case192/output.jpg)
+
 **来源：** https://x.com/john_my07/status/2056609974852497451
 
 **提示词：**
@@ -24984,6 +24885,8 @@ She is lying comfortably on her stomach across a soft cream-colored bed in her c
 
 ### 例 1048：Anime Brand Campaign Portrait
 
+![Anime Brand Campaign Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case193/output.jpg)
+
 **来源：** https://x.com/ChillaiKalan__/status/2056580787538161753
 
 **提示词：**
@@ -24997,6 +24900,8 @@ Semi-realistic anime style young Korean woman in the uploaded image, ORBIT brand
 <a name="case-1049"></a>
 
 ### 例 1049：Woman in Crystal Perfume Bottle
+
+![Woman in Crystal Perfume Bottle](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case194/output.jpg)
 
 **来源：** https://x.com/MrDasOnX/status/2056413830687899819
 
@@ -25012,6 +24917,8 @@ Ultra-realistic surreal conceptual portrait of a distressed middle-aged woman tr
 
 ### 例 1050：Summer Campus Tesla Lifestyle Poster
 
+![Summer Campus Tesla Lifestyle Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case195/output.jpg)
+
 **来源：** https://x.com/Shinning1010/status/2056334868963881144
 
 **提示词：**
@@ -25025,6 +24932,8 @@ Create a premium summer campus lifestyle Tesla poster focused mainly on an adult
 <a name="case-1051"></a>
 
 ### 例 1051：Bubble-Tea Shop Action Portrait
+
+![Bubble-Tea Shop Action Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case196/output.jpg)
 
 **来源：** https://x.com/heyfatema/status/2056415080783499427
 
@@ -25043,6 +24952,8 @@ Scene/backdrop: a bright modern bubble-tea counter interior with stainless steel
 
 ### 例 1052：Night Outdoor Portrait
 
+![Night Outdoor Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case197/output.jpg)
+
 **来源：** https://x.com/chatgptpaglu/status/2056603808403485006
 
 **提示词：**
@@ -25056,6 +24967,8 @@ A medium-shot photograph of a young woman with wavy, light brown hair and soft, 
 <a name="case-1053"></a>
 
 ### 例 1053：Fashion Blueprint Editorial Sheet
+
+![Fashion Blueprint Editorial Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case198/output.jpg)
 
 **来源：** https://twitter.com/ZephyraLeigh/status/2056770705677775247
 
@@ -25073,6 +24986,8 @@ Surrounding the model are fashion infographic elements, jewelry breakdowns, fabr
 
 ### 例 1054：Joyful Street Portrait with Drink
 
+![Joyful Street Portrait with Drink](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case199/output.jpg)
+
 **来源：** https://twitter.com/rovvmut_/status/2056786034864927229
 
 **提示词：**
@@ -25087,6 +25002,8 @@ A medium low-angle shot of a joyful young woman with dark hair and straight bang
 
 ### 例 1055：Portrait Collage Film Strip Poster
 
+![Portrait Collage Film Strip Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case200/output.jpg)
+
 **来源：** https://twitter.com/robertsmith_ai/status/2056766784846606727
 
 **提示词：**
@@ -25100,6 +25017,8 @@ High-end portrait collage poster in vertical format. The background contains fou
 <a name="case-1056"></a>
 
 ### 例 1056：Reference-Based Portrait Consistency
+
+![Reference-Based Portrait Consistency](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case201/output.jpg)
 
 **来源：** https://twitter.com/mehvishs25/status/2056770900125790595
 
@@ -25121,6 +25040,8 @@ Calm slice-of-life atmosphere, minimalist Korean school aesthetic, candid model 
 
 ### 例 1057：London Fashion Street Portrait
 
+![London Fashion Street Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case202/output.jpg)
+
 **来源：** https://twitter.com/ShamiWeb3/status/2056904361792716894
 
 **提示词：**
@@ -25137,6 +25058,8 @@ Bright natural sunlight, shallow depth of field, smooth gimbal movement, luxury 
 <a name="case-1058"></a>
 
 ### 例 1058：Ultra-Realistic Phone-Style Portrait
+
+![Ultra-Realistic Phone-Style Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case204/output.jpg)
 
 **来源：** https://twitter.com/AiwithZohaib/status/2056835104824312018
 
@@ -25188,6 +25111,8 @@ The overall result should resemble a genuine smartphone portrait captured casual
 
 ### 例 1059：Woodcut Engraving Portrait Style
 
+![Woodcut Engraving Portrait Style](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case205/output.jpg)
+
 **来源：** https://twitter.com/zulkarnaimx/status/2056778953273258275
 
 **提示词：**
@@ -25208,6 +25133,8 @@ color, watercolor, soft shading, blurred lines, low contrast, realistic photogra
 
 ### 例 1060：Matcha Goddess Beauty Portrait
 
+![Matcha Goddess Beauty Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case207/output.jpg)
+
 **来源：** https://twitter.com/NyaiiBubu/status/2056817669668737442
 
 **提示词：**
@@ -25223,6 +25150,8 @@ ultra realistic surreal beauty editorial portrait, matcha goddess aesthetic, eth
 <a name="case-1061"></a>
 
 ### 例 1061：写实感人物竖版照片
+
+![写实感人物竖版照片](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case209/output.jpg)
 
 **来源：** https://x.com/liyue_ai/status/2057371613059002495
 
@@ -25251,6 +25180,8 @@ ultra realistic surreal beauty editorial portrait, matcha goddess aesthetic, eth
 
 ### 例 1062：Y2K Japanese Street Editorial Poster
 
+![Y2K Japanese Street Editorial Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case210/output.jpg)
+
 **来源：** https://x.com/noorlewisx/status/2057349206025847224
 
 **提示词：**
@@ -25265,6 +25196,8 @@ Create a bold Y2K Japanese street-editorial collage poster with a clean high-fas
 
 ### 例 1063：Editorial Male Portrait
 
+![Editorial Male Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case211/output.jpg)
+
 **来源：** https://x.com/frametheory058/status/2057309251048206778
 
 **提示词：**
@@ -25278,6 +25211,8 @@ Ultra-realistic 8K editorial male portrait of the uploaded man, using his exact 
 <a name="case-1064"></a>
 
 ### 例 1064：Avant-Garde Tokyo Fashion Zine Poster
+
+![Avant-Garde Tokyo Fashion Zine Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case212/output.jpg)
 
 **来源：** https://x.com/john_my07/status/2057319214739046552
 
@@ -25297,6 +25232,8 @@ Overall mood: clean but rebellious, premium Japanese street-editorial energy, ci
 
 ### 例 1065：Miki Style Line Art Portrait
 
+![Miki Style Line Art Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case213/output.jpg)
+
 **来源：** https://x.com/ChillaiKalan__/status/2057286038624878604
 
 **提示词：**
@@ -25315,6 +25252,8 @@ Composition: Profile chest-up bust shot portrait, composed cleanly, with a calm,
 
 ### 例 1066：Korean Beauty Ultra-Realistic Portrait
 
+![Korean Beauty Ultra-Realistic Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case214/output.jpg)
+
 **来源：** https://x.com/ZephyraLeigh/status/2057315596862370103
 
 **提示词：**
@@ -25328,6 +25267,8 @@ low quality, blurry, distorted anatomy, extra fingers, bad hands, unrealistic sm
 <a name="case-1067"></a>
 
 ### 例 1067：Cinematic B&W Portrait
+
+![Cinematic B&W Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case215/output.jpg)
 
 **来源：** https://x.com/Ciri_ai/status/2057318412175757523
 
@@ -25343,6 +25284,8 @@ A hyper-realistic, cinematic black-and-white portrait of a woman caught in mid-m
 
 ### 例 1068：NBA Legend Mid-Air Action Poster
 
+![NBA Legend Mid-Air Action Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case217/output.jpg)
+
 **来源：** https://x.com/Taaruk_/status/2057491440406810988
 
 **提示词：**
@@ -25356,6 +25299,8 @@ Dynamic NBA legend poster design, iconic basketball superstar in mid-air action 
 <a name="case-1069"></a>
 
 ### 例 1069：Korean Beauty Fashion Portrait
+
+![Korean Beauty Fashion Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case218/output.jpg)
 
 **来源：** https://x.com/Sheldon056/status/2057296658191483236
 
@@ -25371,6 +25316,8 @@ Create a high-quality “chibi sticker diary portrait” based on the uploaded r
 
 ### 例 1070：Cinematic Football Portrait Poster
 
+![Cinematic Football Portrait Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case219/output.jpg)
+
 **来源：** https://x.com/de_mon010/status/2057375542652064220
 
 **提示词：**
@@ -25384,6 +25331,8 @@ Ultra realistic cinematic football poster of a stylish young South Asian male fo
 <a name="case-1071"></a>
 
 ### 例 1071：Cinematic Lifestyle Outdoor Portrait
+
+![Cinematic Lifestyle Outdoor Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case221/output.jpg)
 
 **来源：** https://x.com/aiwithaly/status/2057417304628248645
 
@@ -25399,6 +25348,8 @@ Cinematic lifestyle portrait of a cheerful young woman sitting on a rustic woode
 
 ### 例 1072：Cosmic Garden Fantasy Portrait
 
+![Cosmic Garden Fantasy Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case224/output.jpg)
+
 **来源：** https://x.com/DoctorAmna11/status/2057463557349117968
 
 **提示词：**
@@ -25412,6 +25363,8 @@ Ultra-realistic cinematic fantasy-science portrait of a beautiful young female s
 <a name="case-1073"></a>
 
 ### 例 1073：Streetwear Magazine Cover Portrait
+
+![Streetwear Magazine Cover Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case225/output.jpg)
 
 **来源：** https://x.com/harboriis/status/2057402894014689418
 
@@ -25428,6 +25381,8 @@ snippets, and grunge borders, creating a cohesive Japanese street-culture aesthe
 
 ### 例 1074：Cat-Eye Glasses Fashion Portrait
 
+![Cat-Eye Glasses Fashion Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case226/output.jpg)
+
 **来源：** https://x.com/ChillaiKalan__/status/2057542507928736240
 
 **提示词：**
@@ -25441,6 +25396,8 @@ A young woman with long, dark hair and striking cat-eye glasses is captured in a
 <a name="case-1075"></a>
 
 ### 例 1075：Clean Tech Advertisement Poster
+
+![Clean Tech Advertisement Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case228/output.jpg)
 
 **来源：** https://x.com/Strength04_X/status/2057389379971334309
 
@@ -25456,6 +25413,8 @@ A young woman with long, dark hair and striking cat-eye glasses is captured in a
 
 ### 例 1076：Flat Vector Editorial Pattern Illustration
 
+![Flat Vector Editorial Pattern Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case229/output.jpg)
+
 **来源：** https://x.com/Goodmanprotocol/status/2057347670130511912
 
 **提示词：**
@@ -25469,6 +25428,8 @@ Create a sophisticated flat-vector editorial pattern illustration of [Chicago bu
 <a name="case-1077"></a>
 
 ### 例 1077：Korean Beauty Identity Portrait
+
+![Korean Beauty Identity Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case230/output.jpg)
 
 **来源：** https://x.com/linaa_ai/status/2057400518604206372
 
@@ -25484,6 +25445,8 @@ Using the provided reference image, create an ultra-realistic Korean street-fash
 
 ### 例 1078：Hollywood Luxury Anime Fashion Portrait
 
+![Hollywood Luxury Anime Fashion Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case231/output.jpg)
+
 **来源：** https://x.com/Mind_Boticni/status/2057519900676280623
 
 **提示词：**
@@ -25497,6 +25460,8 @@ Create a premium 1:1 Hollywood-style luxury anime fashion editorial collage feat
 <a name="case-1079"></a>
 
 ### 例 1079：Identity Reference Beauty Portrait
+
+![Identity Reference Beauty Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case232/output.jpg)
 
 **来源：** https://x.com/heyfatema/status/2057345382800306192
 
@@ -25512,6 +25477,8 @@ Use only my uploaded portrait photo as the identity reference. Accurately preser
 
 ### 例 1080：Pixel Art Character Portrait
 
+![Pixel Art Character Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case233/output.jpg)
+
 **来源：** https://x.com/oggii_0/status/2057504810598089187
 
 **提示词：**
@@ -25525,6 +25492,8 @@ Create a cute and stylish pixel-art illustration based on the uploaded image in 
 <a name="case-1081"></a>
 
 ### 例 1081：Negative Prompt Portrait Template
+
+![Negative Prompt Portrait Template](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case234/output.jpg)
 
 **来源：** https://x.com/ZephyraLeigh/status/2057633608459059272
 
@@ -25540,6 +25509,8 @@ low quality, blurry, distorted face, extra fingers, bad hands, duplicate facial 
 
 ### 例 1082：Pixar 3D Character Design Sheet
 
+![Pixar 3D Character Design Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case236/output.jpg)
+
 **来源：** https://x.com/TechieBySA/status/2057511465884557754
 
 **提示词：**
@@ -25553,6 +25524,8 @@ low quality, blurry, distorted face, extra fingers, bad hands, duplicate facial 
 <a name="case-1083"></a>
 
 ### 例 1083：Automotive Design Deconstruction Poster
+
+![Automotive Design Deconstruction Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case237/output.jpg)
 
 **来源：** https://x.com/Gdgtify/status/2057541939587878914
 
@@ -25568,6 +25541,8 @@ You are an AI automotive designer that deconstructs any object's aerodynamic phi
 
 ### 例 1084：Brand Identity Portrait
 
+![Brand Identity Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case239/output.jpg)
+
 **来源：** https://x.com/Shinning1010/status/2057332420383494441
 
 **提示词：**
@@ -25582,6 +25557,8 @@ Use my uploaded portrait photo as the only identity reference. Preserve only the
 
 ### 例 1085：Outdoor Lifestyle Open Sky Portrait
 
+![Outdoor Lifestyle Open Sky Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case240/output.jpg)
+
 **来源：** https://x.com/Shorelyn_/status/2057304323047240086
 
 **提示词：**
@@ -25595,6 +25572,8 @@ Vibe: outdoor lifestyle · introspective · open sky
 <a name="case-1086"></a>
 
 ### 例 1086：高级男性魅力人像
+
+![高级男性魅力人像](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case241/output.jpg)
 
 **来源：** https://x.com/liyue_ai/status/2057382771035898059
 
@@ -25616,6 +25595,8 @@ Vibe: outdoor lifestyle · introspective · open sky
 
 ### 例 1087：沙滩场景丰腴人物写真
 
+![沙滩场景丰腴人物写真](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case242/output.jpg)
+
 **来源：** https://x.com/Adam38363368936/status/2057402803954631086
 
 **提示词：**
@@ -25629,6 +25610,8 @@ Vibe: outdoor lifestyle · introspective · open sky
 <a name="case-1088"></a>
 
 ### 例 1088：Photorealistic Editorial Seated Portrait
+
+![Photorealistic Editorial Seated Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case243/output.jpg)
 
 **来源：** https://x.com/zulkarnaimx/status/2057406867585057106
 
@@ -25644,6 +25627,8 @@ Photorealistic editorial portrait of a relaxed young man seated on minimalist wh
 
 ### 例 1089：Soft Aesthetic Fashion Magazine Cover
 
+![Soft Aesthetic Fashion Magazine Cover](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case244/output.jpg)
+
 **来源：** https://x.com/SimplyAnnisa/status/2057408066300080297
 
 **提示词：**
@@ -25658,6 +25643,8 @@ Ultra-realistic soft aesthetic fashion magazine cover portrait of a young East A
 
 ### 例 1090：Pakistan Miniature World Map Poster
 
+![Pakistan Miniature World Map Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case245/output.jpg)
+
 **来源：** https://x.com/AIwithAliya/status/2057538178672943460
 
 **提示词：**
@@ -25671,6 +25658,8 @@ Create an ultra-detailed hyper-realistic 9:16 cinematic miniature world map of P
 <a name="case-1091"></a>
 
 ### 例 1091：Japanese Film Aesthetic Airport Portrait
+
+![Japanese Film Aesthetic Airport Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case246/output.jpg)
 
 **来源：** https://x.com/BubbleBrain/status/2057447124162560213
 
@@ -26669,6 +26658,8 @@ Ultra-detailed digital portrait illustration of a confident young man with sharp
 
 ### 例 1141：Needle-Felted Wool Miniature
 
+![Needle-Felted Wool Miniature](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case304/output.jpg)
+
 **来源：** https://x.com/iamaiistudio/status/2066206049464660301
 
 **提示词：**
@@ -27175,6 +27166,8 @@ Modern, clean, and dynamic style combining sharp portrait details with soft smok
 
 ### 例 1165：Vintage Amalfi Travel Poster
 
+![Vintage Amalfi Travel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case2/output.jpg)
+
 **来源：** https://x.com/WolfRiccardo/status/2044562722491121718
 
 **提示词：**
@@ -27189,6 +27182,8 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 ### 例 1166：Chengdu Food Map Illustration
 
+![Chengdu Food Map Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case3/output.jpg)
+
 **来源：** https://x.com/Panda20230902/status/2045396918965285111
 
 **提示词：**
@@ -27202,6 +27197,8 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <a name="case-1167"></a>
 
 ### 例 1167：Chinese Minimalist S-Shaped Poster
+
+![Chinese Minimalist S-Shaped Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case4/output.jpg)
 
 **来源：** https://x.com/liyue_ai/status/2045368305079447853
 
@@ -27225,6 +27222,8 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 ### 例 1168：2026 Spring Guangzhou City Poster
 
+![2026 Spring Guangzhou City Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case5/output.jpg)
+
 **来源：** https://x.com/liyue_ai/status/2045332620352119274
 
 **提示词：**
@@ -27245,6 +27244,8 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 ### 例 1169：Doodle Sketch AI Builder
 
+![Doodle Sketch AI Builder](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case7/output.jpg)
+
 **来源：** https://x.com/blanplan/status/2045190582453350748
 
 **提示词：**
@@ -27258,6 +27259,8 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <a name="case-1170"></a>
 
 ### 例 1170：Surreal Koi Nebula Illustration
+
+![Surreal Koi Nebula Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case11/output.jpg)
 
 **来源：** https://x.com/liyue_ai/status/2045875219307655337
 
@@ -27273,6 +27276,8 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 ### 例 1171：Ink-Curve Guangzhou Aesthetics Poster
 
+![Ink-Curve Guangzhou Aesthetics Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case12/output.jpg)
+
 **来源：** https://x.com/liyue_ai/status/2045873940883808523
 
 **提示词：**
@@ -27286,6 +27291,8 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <a name="case-1172"></a>
 
 ### 例 1172：Guangdong Super League Invitation Poster
+
+![Guangdong Super League Invitation Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case13/output.jpg)
 
 **来源：** https://x.com/liyue_ai/status/2045772039521542202
 
@@ -27301,6 +27308,8 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 ### 例 1173：Spring 2026 Guangzhou Promo Poster
 
+![Spring 2026 Guangzhou Promo Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case14/output.jpg)
+
 **来源：** https://x.com/grok/status/2046012437086818395
 
 **提示词：**
@@ -27314,6 +27323,8 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <a name="case-1174"></a>
 
 ### 例 1174：Epic Silhouette World Poster
+
+![Epic Silhouette World Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case15/output.jpg)
 
 **来源：** https://x.com/Ghhhh3owi/status/2045803217251102897
 
@@ -27329,6 +27340,8 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 ### 例 1175：New Chinese Ink Landscape Poster
 
+![New Chinese Ink Landscape Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case35/output.jpg)
+
 **来源：** https://x.com/liyue_ai/status/2046215276249993720
 
 **提示词：**
@@ -27342,6 +27355,8 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <a name="case-1176"></a>
 
 ### 例 1176：Science Encyclopedia Infographic
+
+![Science Encyclopedia Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case39/output.jpg)
 
 **来源：** https://x.com/MrLarus/status/2046231542817497392
 
@@ -27375,6 +27390,8 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 ### 例 1177：Dark-Fantasy Guangzhou City Poster
 
+![Dark-Fantasy Guangzhou City Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case42/output.jpg)
+
 **来源：** https://x.com/liyue_ai/status/2046243132774494607
 
 **提示词：**
@@ -27396,6 +27413,8 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <a name="case-1178"></a>
 
 ### 例 1178：Silicon Valley 2026 Promo Poster
+
+![Silicon Valley 2026 Promo Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case48/output.jpg)
 
 **来源：** https://x.com/carsonyungos/status/2046523198116889064
 
@@ -27420,6 +27439,8 @@ In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” wit
 <a name="case-1179"></a>
 
 ### 例 1179：Dark Epic Concept Poster
+
+![Dark Epic Concept Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case50/output.jpg)
 
 **来源：** https://x.com/A9Quant/status/2046224777208361126
 
@@ -27519,6 +27540,8 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 ### 例 1180：6-Block Fashion Campaign Prompt Formula
 
+![6-Block Fashion Campaign Prompt Formula](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case57/output.jpg)
+
 **来源：** https://x.com/anacoding/status/2046904999045628114
 
 **提示词：**
@@ -27532,6 +27555,8 @@ Old money Hamptons editorial, tall blonde woman late 20s, serene elegant express
 <a name="case-1181"></a>
 
 ### 例 1181：Cinematic Infographic Concept Poster
+
+![Cinematic Infographic Concept Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case56/output.jpg)
 
 **来源：** https://x.com/A9Quant/status/2046228485841334559
 
@@ -27621,6 +27646,8 @@ AI 必须依据【主题】自动决定最合适的:
 
 ### 例 1182：A full-body outdoor shot captures a young Caucasian woman, possibly in her la...
 
+![A full-body outdoor shot captures a young Caucasian woman, possibly in her la...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case60/output.jpg)
+
 **来源：** https://x.com/AIwithSarah_/status/2047234995627172229
 
 **提示词：**
@@ -27634,6 +27661,8 @@ A full-body outdoor shot captures a young Caucasian woman, possibly in her late 
 <a name="case-1183"></a>
 
 ### 例 1183：A professional product photography shot of a cold sparkling water
+
+![A professional product photography shot of a cold sparkling water](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case62/output.jpg)
 
 **来源：** https://x.com/meng_dagg695/status/2047227172486824002
 
@@ -27663,6 +27692,8 @@ Commercial product photography, ultra-detailed, 8K.
 
 ### 例 1184：Soft poetic children's book illustration with watercolor and gouache textures...
 
+![Soft poetic children's book illustration with watercolor and gouache textures...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case82/output.jpg)
+
 **来源：** https://x.com/dotey/status/2047174895293849972
 
 **提示词：**
@@ -27681,6 +27712,8 @@ Two children in calm conversation,soft connection forming.
 
 ### 例 1185：Dongfang Bubai Wuxia Character Poster
 
+![Dongfang Bubai Wuxia Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case89/output.jpg)
+
 **来源：** https://x.com/songguoxiansen/status/2047204566559756707
 
 **提示词：**
@@ -27696,6 +27729,8 @@ Two children in calm conversation,soft connection forming.
 <a name="case-1186"></a>
 
 ### 例 1186：A Chinese Odyssey 90s Hong Kong Poster
+
+![A Chinese Odyssey 90s Hong Kong Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case90/output.jpg)
 
 **来源：** https://x.com/songguoxiansen/status/2047201597697245252
 
@@ -27713,6 +27748,8 @@ Two children in calm conversation,soft connection forming.
 
 ### 例 1187：Journey to the West Daughter Kingdom Poster
 
+![Journey to the West Daughter Kingdom Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case103/output.jpg)
+
 **来源：** https://x.com/cj858cjsoul/status/2047103956535697822
 
 **提示词：**
@@ -27729,6 +27766,8 @@ Two children in calm conversation,soft connection forming.
 
 ### 例 1188：generate an image of a racing car poster with its spec and pricing
 
+![generate an image of a racing car poster with its spec and pricing](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case105/output.jpg)
+
 **来源：** https://x.com/verysmallwoods/status/2047033599229137126
 
 **提示词：**
@@ -27742,6 +27781,8 @@ generate an image of a racing car poster with its spec and pricing
 <a name="case-1189"></a>
 
 ### 例 1189：Charlie Chaplin Product Poster Redesign
+
+![Charlie Chaplin Product Poster Redesign](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case106/output.jpg)
 
 **来源：** https://x.com/chenenpei/status/2046985783715025135
 
@@ -27758,6 +27799,8 @@ generate an image of a racing car poster with its spec and pricing
 <a name="case-1190"></a>
 
 ### 例 1190：Luxury Sportswear Basketball Athlete Campaign Poster
+
+![Luxury Sportswear Basketball Athlete Campaign Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case70/output.jpg)
 
 **来源：** https://x.com/Shorelyn_/status/2047949711181832558
 
@@ -27783,6 +27826,8 @@ Style should feel modern, minimal, elite, bold, high fashion sports campaign, lu
 
 ### 例 1191：Streetwear Fashion Campaign Asian Apparel Poster
 
+![Streetwear Fashion Campaign Asian Apparel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case71/output.jpg)
+
 **来源：** https://x.com/harboriis/status/2047921293123895520
 
 **提示词：**
@@ -27805,6 +27850,8 @@ Composition should feel premium, trendy, clean, commercial, youthful, modern fas
 
 ### 例 1192：Epic Career Moments Cinematic Poster Template
 
+![Epic Career Moments Cinematic Poster Template](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case72/output.jpg)
+
 **来源：** https://x.com/Goodmanprotocol/status/2047900470921040270
 
 **提示词：**
@@ -27818,6 +27865,8 @@ Create an epic poster showcasing the most iconic moments of [Insert Name]'s care
 <a name="case-1193"></a>
 
 ### 例 1193：Avant-Garde Basketball Sculpture Sports Fashion Ad
+
+![Avant-Garde Basketball Sculpture Sports Fashion Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case73/output.jpg)
 
 **来源：** https://x.com/AIwithkhan/status/2047886964037398989
 
@@ -27833,6 +27882,8 @@ Avant-garde sports fashion advertisement, oversized basketball posed like a monu
 
 ### 例 1194：Avant-Garde Tennis Racket Sculpture Sports Fashion Ad
 
+![Avant-Garde Tennis Racket Sculpture Sports Fashion Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case74/output.jpg)
+
 **来源：** https://x.com/AIwithSynthia/status/2047884609321619831
 
 **提示词：**
@@ -27846,6 +27897,8 @@ Avant-garde sports fashion advertisement, oversized tennis racket positioned lik
 <a name="case-1195"></a>
 
 ### 例 1195：Surrealist Liquor Brand High Fashion Poster
+
+![Surrealist Liquor Brand High Fashion Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case60/output.jpg)
 
 **来源：** https://x.com/hmontilla_/status/2047884126343032995
 
@@ -27866,6 +27919,8 @@ Establecer la relación de aspecto en 3:4.
 
 ### 例 1196：Premium Food Recipe Poster Elegant Layout
 
+![Premium Food Recipe Poster Elegant Layout](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case76/output.jpg)
+
 **来源：** https://x.com/Preda2005/status/2047883394152088004
 
 **提示词：**
@@ -27880,6 +27935,8 @@ Create a premium food preparation poster for
 <a name="case-1197"></a>
 
 ### 例 1197：Luxury Fashion Magazine Cover Black and White
+
+![Luxury Fashion Magazine Cover Black and White](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case77/output.jpg)
 
 **来源：** https://x.com/iamrealsnow/status/2047883187527856345
 
@@ -27897,6 +27954,8 @@ Style should feel premium, modern, cinematic, clean composition, sharp focus, ul
 
 ### 例 1198：Surrealist Rolex Luxury Watch Fashion Poster
 
+![Surrealist Rolex Luxury Watch Fashion Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case78/output.jpg)
+
 **来源：** https://x.com/Sheldon056/status/2047873913049538927
 
 **提示词：**
@@ -27911,6 +27970,8 @@ A high-fashion surrealist poster for Rolex. A deep emerald green minimalist stud
 
 ### 例 1199：Peacock Botanical Vintage Symmetrical Art Print
 
+![Peacock Botanical Vintage Symmetrical Art Print](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case79/output.jpg)
+
 **来源：** https://x.com/dotey/status/2047803054422901046
 
 **提示词：**
@@ -27924,6 +27985,8 @@ symmetrical design featuring two elegant blue peacocks with detailed feather pat
 <a name="case-1200"></a>
 
 ### 例 1200：SPLASH Fashion Brand Hyper-Realistic Campaign Poster
+
+![SPLASH Fashion Brand Hyper-Realistic Campaign Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case80/output.jpg)
 
 **来源：** https://x.com/miratechtool/status/2047780974709346606
 
@@ -27944,6 +28007,8 @@ Camera: 85mm lens, shallow depth of field, 8K, ultra-detailed, photorealistic.
 
 ### 例 1201：Avant-Garde Guitar Sculpture Fashion Advertisement
 
+![Avant-Garde Guitar Sculpture Fashion Advertisement](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case81/output.jpg)
+
 **来源：** https://x.com/QamarRiaz1/status/2047777016733110722
 
 **提示词：**
@@ -27957,6 +28022,8 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
 <a name="case-1202"></a>
 
 ### 例 1202：Taoist Three Souls Seven Po Poster
+
+![Taoist Three Souls Seven Po Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case120/output.jpg)
 
 **来源：** https://x.com/leyu37829/status/2048125950681075833
 
@@ -27972,6 +28039,8 @@ A highly detailed vertical Taoist esoteric infographic poster in the style of an
 
 ### 例 1203：Ink-Wash Tribute Poster for Chen Uen
 
+![Ink-Wash Tribute Poster for Chen Uen](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case122/output.jpg)
+
 **来源：** https://x.com/mob_17/status/2048118645017219381
 
 **提示词：**
@@ -27985,6 +28054,8 @@ Create a vintage editorial poster on aged rice paper celebrating {argument name=
 <a name="case-1204"></a>
 
 ### 例 1204：Fire Sign Zodiac Character Poster
+
+![Fire Sign Zodiac Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case125/output.jpg)
 
 **来源：** https://x.com/komorimedia/status/2048114825398731143
 
@@ -28009,6 +28080,8 @@ Overall design should feel premium, feminine, mystical, and collectible, like a 
 <a name="case-1205"></a>
 
 ### 例 1205：Dance Movement Reference Sheet
+
+![Dance Movement Reference Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case130/output.jpg)
 
 **来源：** https://x.com/Ciri_ai/status/2048074587955658848
 
@@ -28051,6 +28124,8 @@ no cluttered backgrounds
 
 ### 例 1206：Anime Museum Background Conversion
 
+![Anime Museum Background Conversion](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case132/output.jpg)
+
 **来源：** https://x.com/Dakiny/status/2048175219966394695
 
 **提示词：**
@@ -28065,6 +28140,8 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 ### 例 1207：Surreal Baroque Painting Reality Fracture
 
+![Surreal Baroque Painting Reality Fracture](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case138/output.jpg)
+
 **来源：** https://x.com/JohnnyWang8802/status/2048129335853559824
 
 **提示词：**
@@ -28078,6 +28155,8 @@ A {argument name="painting style" default="baroque oil painting"} comes to life 
 <a name="case-1208"></a>
 
 ### 例 1208：Urban Alley Mural Artist
+
+![Urban Alley Mural Artist](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case139/output.jpg)
 
 **来源：** https://x.com/Professor_134/status/2048066672398102896
 
@@ -28112,6 +28191,8 @@ Generate image using uploaded image as reference
 
 ### 例 1209：RPG Map to Anime Event Scene
 
+![RPG Map to Anime Event Scene](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case140/output.jpg)
+
 **来源：** https://x.com/ArtwlDesign/status/2048054726768709769
 
 **提示词：**
@@ -28125,6 +28206,8 @@ Using the provided reference image, transform the top-down RPG town map into a p
 <a name="case-1210"></a>
 
 ### 例 1210：Good Bath Day Editorial Poster
+
+![Good Bath Day Editorial Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case162/output.jpg)
 
 **来源：** https://x.com/Kazuch75240438/status/2048205418238030327
 
@@ -28140,6 +28223,8 @@ Create a soft editorial lifestyle poster for {argument name="event date" default
 
 ### 例 1211：Dreamy Shibuya Bubble Girl
 
+![Dreamy Shibuya Bubble Girl](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case164/output.jpg)
+
 **来源：** https://x.com/terunari/status/2048308270914490666
 
 **提示词：**
@@ -28154,6 +28239,8 @@ A dreamy anime-style full-body illustration of a fashionable young woman standin
 
 ### 例 1212：Stormy Tropical City With Rooftop Plane
 
+![Stormy Tropical City With Rooftop Plane](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case165/output.jpg)
+
 **来源：** https://x.com/Gerry/status/2048303505702629537
 
 **提示词：**
@@ -28167,6 +28254,8 @@ A cinematic wide aerial view of a tropical coastal city at sunset during a viole
 <a name="case-1213"></a>
 
 ### 例 1213：Outdoor Sportswear Grid Campaign
+
+![Outdoor Sportswear Grid Campaign](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case168/output.jpg)
 
 **来源：** https://x.com/SPEEDAI07/status/2049081198211736062
 
@@ -28214,6 +28303,8 @@ Aspect ratio: 1:1 (square collage)
 
 ### 例 1214：Topographic Letter Satellite Panels
 
+![Topographic Letter Satellite Panels](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case169/output.jpg)
+
 **来源：** https://x.com/madpencil_/status/2049080259476349218
 
 **提示词：**
@@ -28239,6 +28330,8 @@ top-down satellite perspective, NASA Earth observation style, hyper-detailed tex
 <a name="case-1215"></a>
 
 ### 例 1215：Iced Coffee Product Infographic
+
+![Iced Coffee Product Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case170/output.jpg)
 
 **来源：** https://x.com/Strength04_X/status/2049082049995362785
 
@@ -28272,6 +28365,8 @@ Ultra-realistic liquid detail, sharp reflections, premium commercial photography
 <a name="case-1216"></a>
 
 ### 例 1216：Fashion Dress Collection Infographic
+
+![Fashion Dress Collection Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case171/output.jpg)
 
 **来源：** https://x.com/cellinlab/status/2049073530738754042
 
@@ -28314,6 +28409,8 @@ Ultra-realistic liquid detail, sharp reflections, premium commercial photography
 
 ### 例 1217：Monochrome Fashion Cover
 
+![Monochrome Fashion Cover](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case172/output.jpg)
+
 **来源：** https://x.com/sha_zdiii/status/2049088961008848905
 
 **提示词：**
@@ -28341,6 +28438,8 @@ Style: luxury fashion editorial, Vogue, Harper’s Bazaar, monochrome aesthetic,
 
 ### 例 1218：Fast Food Character Poster
 
+![Fast Food Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case173/output.jpg)
+
 **来源：** https://x.com/LoovaAI/status/2049085173015425354
 
 **提示词：**
@@ -28354,6 +28453,8 @@ Use the character in image 1 as the main subject. Create a vertical poster ad in
 <a name="case-1219"></a>
 
 ### 例 1219：New York across two centuries cinematic poster
+
+![New York across two centuries cinematic poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case174/output.jpg)
 
 **来源：** https://x.com/Shinning1010/status/2049460661109879022
 
@@ -28369,6 +28470,8 @@ Create a cinematic 3:4 vertical poster of New York City that feels truly epic an
 
 ### 例 1220：Blue Tears cocktail tutorial infographic poster
 
+![Blue Tears cocktail tutorial infographic poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case175/output.jpg)
+
 **来源：** https://x.com/cellinlab/status/2049460927121244510
 
 **提示词：**
@@ -28382,6 +28485,8 @@ Create a cinematic 3:4 vertical poster of New York City that feels truly epic an
 <a name="case-1221"></a>
 
 ### 例 1221：Luxury Food Poster Template
+
+![Luxury Food Poster Template](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case178/output.jpg)
 
 **来源：** https://x.com/SPEEDAI07/status/2050470348454551902
 
@@ -28397,6 +28502,8 @@ GPT Image 2 on ChatGPT App Create a hyper-realistic vertical commercial food pho
 
 ### 例 1222：Inflatable Orange Juice Poster
 
+![Inflatable Orange Juice Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case179/output.jpg)
+
 **来源：** https://x.com/Goodmanprotocol/status/2050451019746926879
 
 **提示词：**
@@ -28410,6 +28517,8 @@ Perfect for the summers GPT Image 2 on ChatGPT Prompt: Design a '4:5' product po
 <a name="case-1223"></a>
 
 ### 例 1223：Emerald Street Fashion Poster
+
+![Emerald Street Fashion Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case180/output.jpg)
 
 **来源：** https://x.com/harboriis/status/2050444570345742591
 
@@ -28425,6 +28534,8 @@ GPT Image 2 on ChatGPT Prompt: Create a bold street-fashion poster featuring a h
 
 ### 例 1224：Retro Roller Skating Campaign
 
+![Retro Roller Skating Campaign](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case181/output.jpg)
+
 **来源：** https://x.com/AIwithSynthia/status/2050430705189191704
 
 **提示词：**
@@ -28438,6 +28549,8 @@ PixPretty @PixPrettyAI with GPT Image 2 has been quietly setting a new standard 
 <a name="case-1225"></a>
 
 ### 例 1225：Futuristic Sportswear Editorial Poster
+
+![Futuristic Sportswear Editorial Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case182/output.jpg)
 
 **来源：** https://x.com/gold_force_guri/status/2050428455360348191
 
@@ -28453,6 +28566,8 @@ GPT image 2 on @SocialSight Prompt: High-fashion futuristic sportswear editorial
 
 ### 例 1226：Streetwear Headphones Ad Poster
 
+![Streetwear Headphones Ad Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case183/output.jpg)
+
 **来源：** https://x.com/Strength04_X/status/2050420683482800333
 
 **提示词：**
@@ -28466,6 +28581,8 @@ GPT image 2 on ChatGPT 📱 Prompt: A streetwear advertisement poster. A cool te
 <a name="case-1227"></a>
 
 ### 例 1227：Miniature City Knot Sculpture
+
+![Miniature City Knot Sculpture](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case184/output.jpg)
 
 **来源：** https://x.com/Gdgtify/status/2051274139378315546
 
@@ -28483,6 +28600,8 @@ GPT Image 2 + Kling = 🔥 This was done for Tokyo.
 
 ### 例 1228：Taiwanese Food Blog Spread
 
+![Taiwanese Food Blog Spread](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case185/output.jpg)
+
 **来源：** https://x.com/aiistudiocom/status/2051271666429473079
 
 **提示词：**
@@ -28496,6 +28615,8 @@ A cozy restaurant table filled with a vibrant Taiwanese meal, shot in warm natur
 <a name="case-1229"></a>
 
 ### 例 1229：Alien Disclosure Dossier
+
+![Alien Disclosure Dossier](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case186/output.jpg)
 
 **来源：** https://x.com/Gdgtify/status/2051262563426459707
 
@@ -28549,6 +28670,8 @@ Output: One high-detail declassified dossier poster as a single finished image.
 
 ### 例 1230：Empire Inferno Burger Poster
 
+![Empire Inferno Burger Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case187/output.jpg)
+
 **来源：** https://x.com/iamsofiaijaz/status/2051258805070282960
 
 **提示词：**
@@ -28600,6 +28723,8 @@ Ultra-realistic, 8K food photography, commercial advertising, sharp focus, drama
 
 ### 例 1231：Greek Yogurt Lifestyle Ad
 
+![Greek Yogurt Lifestyle Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case188/output.jpg)
+
 **来源：** https://x.com/LoverCrick28247/status/2051196874208800872
 
 **提示词：**
@@ -28640,6 +28765,8 @@ elegant serif + modern script combination
 
 ### 例 1232：Fitness Boxing Campaign Collage Poster
 
+![Fitness Boxing Campaign Collage Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case189/output.jpg)
+
 **来源：** https://x.com/AIwithSynthia/status/2049718330353975652
 
 **提示词：**
@@ -28661,6 +28788,8 @@ premium fitness brand campaign, dramatic studio lighting, soft shadows, high con
 <a name="case-1233"></a>
 
 ### 例 1233：Samsung Galaxy S25 Infographic Poster
+
+![Samsung Galaxy S25 Infographic Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case190/output.jpg)
 
 **来源：** https://x.com/bmx_ai13/status/2051692833258852586
 
@@ -28698,6 +28827,8 @@ Style: ultra premium Samsung style product advertising, clean futuristic UI desi
 
 ### 例 1234：Food Photography with Doodle Characters
 
+![Food Photography with Doodle Characters](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case191/output.jpg)
+
 **来源：** https://x.com/Taaruk_/status/2051690647997088110
 
 **提示词：**
@@ -28711,6 +28842,8 @@ Aesthetic beachside café scene with a wooden table overlooking the ocean, brigh
 <a name="case-1235"></a>
 
 ### 例 1235：Dynamic Sports Poster
+
+![Dynamic Sports Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case192/output.jpg)
 
 **来源：** https://x.com/SPEEDAI07/status/2051679223715365331
 
@@ -28726,6 +28859,8 @@ A dynamic sports poster of a professional football player mid-strike, captured i
 
 ### 例 1236：Luxury Brand Ad Campaign Poster
 
+![Luxury Brand Ad Campaign Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case193/output.jpg)
+
 **来源：** https://x.com/TechieBySA/status/2051676877794816074
 
 **提示词：**
@@ -28739,6 +28874,8 @@ A world-class luxury advertising campaign poster, 4:5 ratio, for [BRAND/PRODUCT]
 <a name="case-1237"></a>
 
 ### 例 1237：Product Photography Juice Ad
+
+![Product Photography Juice Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case194/output.jpg)
 
 **来源：** https://x.com/Jawad_Rahman_/status/2051671878608228630
 
@@ -30590,6 +30727,8 @@ repetitive placements
 
 ### 例 1289：Glowing Sailboat Night Illustration
 
+![Glowing Sailboat Night Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case251/output.jpg)
+
 **来源：** https://x.com/churvikv/status/2054315113587384469
 
 **提示词：**
@@ -30603,6 +30742,8 @@ A luminous sailboat, outlined in glowing golden light, floats serenely on dark, 
 <a name="case-1290"></a>
 
 ### 例 1290：Istanbul Line-Art Travel Poster
+
+![Istanbul Line-Art Travel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case252/output.jpg)
 
 **来源：** https://x.com/miilesus/status/2054285276780929527
 
@@ -30708,6 +30849,8 @@ Museum-quality graphic design composition
 
 ### 例 1291：Dark Western Outlaw Poster
 
+![Dark Western Outlaw Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case253/output.jpg)
+
 **来源：** https://x.com/you1873118/status/2054366009214316840
 
 **提示词：**
@@ -30730,6 +30873,8 @@ Museum-quality graphic design composition
 
 ### 例 1292：Anime Streetwear Mascot Poster
 
+![Anime Streetwear Mascot Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case254/output.jpg)
+
 **来源：** https://x.com/Taaruk_/status/2054234237398851768
 
 **提示词：**
@@ -30743,6 +30888,8 @@ Stylized anime streetwear brand poster of a fast-food mascot character, full-bod
 <a name="case-1293"></a>
 
 ### 例 1293：Wildlife Infographic Reference Poster
+
+![Wildlife Infographic Reference Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case255/output.jpg)
 
 **来源：** https://x.com/sha_zdiii/status/2054229209460117552
 
@@ -30787,6 +30934,8 @@ Ultra-realistic, 8K, cinematic infographic masterpiece, insanely detailed, premi
 
 ### 例 1294：Ancient Civilization Miniature Diorama
 
+![Ancient Civilization Miniature Diorama](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case256/output.jpg)
+
 **来源：** https://x.com/Naiknelofar788/status/2054221110372405534
 
 **提示词：**
@@ -30803,6 +30952,8 @@ Soft cinematic lighting with warm natural sunlight from a nearby window, shallow
 
 ### 例 1295：Japanese Fashion Collage Poster
 
+![Japanese Fashion Collage Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case257/output.jpg)
+
 **来源：** https://x.com/Mind_Boticni/status/2054203134411739609
 
 **提示词：**
@@ -30816,6 +30967,8 @@ Cinematic vertical collage featuring a Japanese woman in elegant fashion capture
 <a name="case-1296"></a>
 
 ### 例 1296：Bangkok Swiss Typography Poster
+
+![Bangkok Swiss Typography Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case258/output.jpg)
 
 **来源：** https://x.com/Shorelyn_/status/2054196121980002523
 
@@ -30943,6 +31096,8 @@ Ultra-detailed 8K vector-style rendering, ultra sharp print-ready quality, high-
 
 ### 例 1297：Miniature Travel World Poster
 
+![Miniature Travel World Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case259/output.jpg)
+
 **来源：** https://x.com/Goodmanprotocol/status/2054074803381018750
 
 **提示词：**
@@ -30956,6 +31111,8 @@ A cinematic hyper-detailed miniature travel diorama resting inside an open human
 <a name="case-1298"></a>
 
 ### 例 1298：Playlist Mood Album Cover
+
+![Playlist Mood Album Cover](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case261/output.jpg)
 
 **来源：** https://x.com/getimg_ai/status/2054654412547629350
 
@@ -30971,6 +31128,8 @@ Create an album cover inspired by this playlist: [playlist], translating its moo
 
 ### 例 1299：Play-Doh City Editorial
 
+![Play-Doh City Editorial](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case262/output.jpg)
+
 **来源：** https://x.com/Goodmanprotocol/status/2054629670239502408
 
 **提示词：**
@@ -30984,6 +31143,8 @@ Create an ultra-charming 3:4 editorial illustration of a five-year-old child sit
 <a name="case-1300"></a>
 
 ### 例 1300：3D Liquid Art Poster
+
+![3D Liquid Art Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case263/output.jpg)
 
 **来源：** https://x.com/92digitalartArt/status/2054597084473422099
 
@@ -30999,6 +31160,8 @@ A mesmerizing and explosively colorful vertical poster featuring giant 3D liquid
 
 ### 例 1301：Isometric Travel Poster
 
+![Isometric Travel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case264/output.jpg)
+
 **来源：** https://x.com/iamaiistudio/status/2054593748085215513
 
 **提示词：**
@@ -31012,6 +31175,8 @@ Design a vertical retro mid-century travel poster of [CITY NAME] showcasing [LAN
 <a name="case-1302"></a>
 
 ### 例 1302：Vintage Travel Postage Stamp
+
+![Vintage Travel Postage Stamp](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case265/output.jpg)
 
 **来源：** https://x.com/iamsofiaijaz/status/2054530631187788035
 
@@ -31027,6 +31192,8 @@ Vintage travel postage stamp design featuring [CITY / COUNTRY], ultra-detailed i
 
 ### 例 1303：Cubist Kawaii Vector Portrait
 
+![Cubist Kawaii Vector Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case267/output.jpg)
+
 **来源：** https://x.com/ChillaiKalan__/status/2054457447142805832
 
 **提示词：**
@@ -31040,6 +31207,8 @@ Create a cute neo-expressionist cubist minimal vector portrait illustration, Pic
 <a name="case-1304"></a>
 
 ### 例 1304：Trash Polka Headphones Portrait
+
+![Trash Polka Headphones Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case268/output.jpg)
 
 **来源：** https://x.com/ChillaiKalan__/status/2054390412253827522
 
@@ -31055,6 +31224,8 @@ Create a cute neo-expressionist cubist minimal vector portrait illustration, Pic
 
 ### 例 1305：3D Typography Travel Poster
 
+![3D Typography Travel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case269/output.jpg)
+
 **来源：** https://x.com/Naiknelofar788/status/2054390259115536874
 
 **提示词：**
@@ -31069,6 +31240,8 @@ Create a 3:2 premium 3D typography-based travel poster for [CITY], using luxury 
 
 ### 例 1306：泳装时尚杂志四宫格
 
+![泳装时尚杂志四宫格](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case270/output.jpg)
+
 **来源：** https://x.com/Adam38363368936/status/2055819711066316883
 
 **提示词：**
@@ -31082,6 +31255,8 @@ Create a 3:2 premium 3D typography-based travel poster for [CITY], using luxury 
 <a name="case-1307"></a>
 
 ### 例 1307：Monochrome Caricature Portrait Sheet
+
+![Monochrome Caricature Portrait Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case271/output.jpg)
 
 **来源：** https://x.com/Noor_ul_ain43/status/2055796848552755579
 
@@ -31102,6 +31277,8 @@ Minimal shading, thin crosshatching, clean line art, monochrome aesthetic, white
 <a name="case-1308"></a>
 
 ### 例 1308：星河入梦 3D CG 插画
+
+![星河入梦 3D CG 插画](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case272/output.jpg)
 
 **来源：** https://x.com/liyue_ai/status/2055679355242844462
 
@@ -31139,6 +31316,8 @@ dreamy fantasy girl, celestial goddess, galaxy dress, holographic starlight, sof
 
 ### 例 1309：Character Profile Sheet
 
+![Character Profile Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case273/output.jpg)
+
 **来源：** https://x.com/iamsofiaijaz/status/2055633103973134719
 
 **提示词：**
@@ -31156,6 +31335,8 @@ Modern concept art meets fashion illustration, dynamic ink strokes, expressive l
 <a name="case-1310"></a>
 
 ### 例 1310：Korean Editorial Fashion Moodboard
+
+![Korean Editorial Fashion Moodboard](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case274/output.jpg)
 
 **来源：** https://x.com/Mind_Boticni/status/2055627790255587483
 
@@ -31211,6 +31392,8 @@ Overall aesthetic: warm, feminine, luxurious, ultra detailed, realistic photogra
 
 ### 例 1311：Borussia War Room Interior
 
+![Borussia War Room Interior](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case276/output.jpg)
+
 **来源：** https://x.com/guicastellanos1/status/2056059581697056978
 
 **提示词：**
@@ -31252,6 +31435,8 @@ Atmosphere: raw industrial power, signal yellow burning against matte black, ste
 
 ### 例 1312：Kawaii Muslim Cafe Scene
 
+![Kawaii Muslim Cafe Scene](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case277/output.jpg)
+
 **来源：** https://x.com/Taaruk_/status/2056053350261739866
 
 **提示词：**
@@ -31267,6 +31452,8 @@ Scene Variations:
 <a name="case-1313"></a>
 
 ### 例 1313：Marrakech Watercolor Travel Poster
+
+![Marrakech Watercolor Travel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case278/output.jpg)
 
 **来源：** https://x.com/SimplyAnnisa/status/2055894520139559253
 
@@ -31287,6 +31474,8 @@ Bottom center has a palm tree icon with text 'MOROCCO' and small decorative moti
 <a name="case-1314"></a>
 
 ### 例 1314：Retro Travel Poster Collage
+
+![Retro Travel Poster Collage](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case279/output.jpg)
 
 **来源：** https://x.com/Goodmanprotocol/status/2055882758845878709
 
@@ -31397,6 +31586,8 @@ museum poster quality.
 
 ### 例 1315：Watercolor 2026 Calendar Poster
 
+![Watercolor 2026 Calendar Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case281/output.jpg)
+
 **来源：** https://x.com/you1873118/status/2056175244256411890
 
 **提示词：**
@@ -31469,6 +31660,8 @@ S M T W T F S
 
 ### 例 1316：High-Concept Personal Portrait
 
+![High-Concept Personal Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case282/output.jpg)
+
 **来源：** https://x.com/zhongying14/status/2056068905165074849
 
 **提示词：**
@@ -31528,6 +31721,8 @@ GPT Image 2提示词分享👇
 
 ### 例 1317：梦落琴弦幻想钢琴插画
 
+![梦落琴弦幻想钢琴插画](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case283/output.jpg)
+
 **来源：** https://x.com/liyue_ai/status/2056048047222907009
 
 **提示词：**
@@ -31552,6 +31747,8 @@ GPT Image 2提示词分享👇
 
 ### 例 1318：Floating Island Travel Poster
 
+![Floating Island Travel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case285/output.jpg)
+
 **来源：** https://x.com/Naiknelofar788/status/2056551186610966530
 
 **提示词：**
@@ -31565,6 +31762,8 @@ Create a premium 9:16 hyper-realistic travel-poster of [COUNTRY NAME] in the sam
 <a name="case-1319"></a>
 
 ### 例 1319：Vintage Monochrome City Travel Poster
+
+![Vintage Monochrome City Travel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case286/output.jpg)
 
 **来源：** https://x.com/Taaruk_/status/2056577980349264028
 
@@ -31580,6 +31779,8 @@ Vintage monochrome city travel poster illustration, detailed urban sketch aesthe
 
 ### 例 1320：Flat-Vector City Lifestyle Collage
 
+![Flat-Vector City Lifestyle Collage](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case287/output.jpg)
+
 **来源：** https://x.com/Goodmanprotocol/status/2056612365156978731
 
 **提示词：**
@@ -31594,6 +31795,8 @@ Create a sophisticated flat-vector editorial pattern illustration of [Melbourne]
 
 ### 例 1321：Sci-Fi Character Concept Sheet
 
+![Sci-Fi Character Concept Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case288/output.jpg)
+
 **来源：** https://x.com/0kncn/status/2056372978607174077
 
 **提示词：**
@@ -31607,6 +31810,8 @@ Create a 16:9 character concept sheet for a celestial voyager in an epic cinemat
 <a name="case-1322"></a>
 
 ### 例 1322：Pixar 3D Character Design Sheet
+
+![Pixar 3D Character Design Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case289/output.jpg)
 
 **来源：** https://x.com/TechieBySA/status/2056419585369198677
 
@@ -31625,6 +31830,8 @@ Hero portrait — Chad isolated on clean white. No background. Pixar 3D man, lat
 
 ### 例 1323：Vintage Travel Collage Poster
 
+![Vintage Travel Collage Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case290/output.jpg)
+
 **来源：** https://x.com/sdhilip/status/2056261616967270640
 
 **提示词：**
@@ -31639,6 +31846,8 @@ Vintage mixed-media travel collage poster, portrait orientation, themed around [
 
 ### 例 1324：Premium Travel Infographic Poster
 
+![Premium Travel Infographic Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case291/output.jpg)
+
 **来源：** https://x.com/Ankit_patel211/status/2056519161023787394
 
 **提示词：**
@@ -31652,6 +31861,8 @@ Create an ultra-premium editorial travel infographic poster about FRANCE in a cl
 <a name="case-1325"></a>
 
 ### 例 1325：9-Frame Cinematic Storyboard Grid
+
+![9-Frame Cinematic Storyboard Grid](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case292/output.jpg)
 
 **来源：** https://x.com/guicastellanos1/status/2056425976763146366
 
@@ -31668,6 +31879,8 @@ Create a single image storyboard with 9 cinematic frames arranged in a  3×3 gri
 
 ### 例 1326：Vintage 1960s Beer Ad Poster
 
+![Vintage 1960s Beer Ad Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case293/output.jpg)
+
 **来源：** https://twitter.com/Goodmanprotocol/status/2056791983717503015
 
 **提示词：**
@@ -31682,6 +31895,8 @@ Authentic 1960s American advertising poster for [BREW], vintage mid-century comm
 
 ### 例 1327：Cinematic Director's Pitch Board
 
+![Cinematic Director's Pitch Board](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case294/output.jpg)
+
 **来源：** https://twitter.com/Mind_Boticni/status/2056793598243553464
 
 **提示词：**
@@ -31695,6 +31910,8 @@ A premium director’s pitch presentation board for a high-budget cinematic prod
 <a name="case-1328"></a>
 
 ### 例 1328：Viral Food Infographic Poster
+
+![Viral Food Infographic Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case295/output.jpg)
 
 **来源：** https://twitter.com/amynys/status/2056779657987387784
 
@@ -31767,6 +31984,8 @@ Aspect ratio 4:5 or 9:16
 
 ### 例 1329：2x2 Luxury 3D Sculptural Poster
 
+![2x2 Luxury 3D Sculptural Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case296/output.jpg)
+
 **来源：** https://twitter.com/Gdgtify/status/2056649309312160193
 
 **提示词：**
@@ -31780,6 +31999,8 @@ INPUT: [DOMAIN OR CATEGORY]  SYSTEM: Generate a 2×2 luxury poster series transl
 <a name="case-1330"></a>
 
 ### 例 1330：Physics Infographic Code Prompt
+
+![Physics Infographic Code Prompt](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case297/output.jpg)
 
 **来源：** https://twitter.com/Gdgtify/status/2056841574798295540
 
@@ -31795,6 +32016,8 @@ INPUT: [DOMAIN OR CATEGORY]  SYSTEM: Generate a 2×2 luxury poster series transl
 
 ### 例 1331：Football Player Dynamic Poster
 
+![Football Player Dynamic Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case298/output.jpg)
+
 **来源：** https://x.com/harboriis/status/2057296163972567081
 
 **提示词：**
@@ -31809,6 +32032,8 @@ A dynamic mixed-media football poster featuring James Rodríguez in Colombia’s
 
 ### 例 1332：Travel Food Advertisement Poster
 
+![Travel Food Advertisement Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case299/output.jpg)
+
 **来源：** https://x.com/Naiknelofar788/status/2057282710469767241
 
 **提示词：**
@@ -31822,6 +32047,8 @@ Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vert
 <a name="case-1333"></a>
 
 ### 例 1333：Vintage Watercolor Travel Poster
+
+![Vintage Watercolor Travel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case300/output.jpg)
 
 **来源：** https://x.com/Taaruk_/status/2057298831289761976
 
@@ -31838,6 +32065,8 @@ Scene variations: • London  rainy streets, red double-decker bus, black taxi, 
 
 ### 例 1334：Retro Cafe Scrapbook Poster
 
+![Retro Cafe Scrapbook Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case301/output.jpg)
+
 **来源：** https://x.com/j_smeaton99/status/2057295551327347035
 
 **提示词：**
@@ -31851,6 +32080,8 @@ Whimsical retro cafe scrapbook poster, dreamy pistachio rose latte aesthetic, la
 <a name="case-1335"></a>
 
 ### 例 1335：Blueberry Lavender Soda Scrapbook Poster
+
+![Blueberry Lavender Soda Scrapbook Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case302/output.jpg)
 
 **来源：** https://x.com/john_my07/status/2057417084259487783
 
@@ -31866,6 +32097,8 @@ Vintage-inspired blueberry lavender soda scrapbook poster, dreamy artisanal cafe
 
 ### 例 1336：Scientific Concept Anchor Poster
 
+![Scientific Concept Anchor Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case303/output.jpg)
+
 **来源：** https://x.com/Gdgtify/status/2057297076032262574
 
 **提示词：**
@@ -31879,6 +32112,8 @@ Anchor: The word "[SCIENTIFIC CONCEPT (e.g.,  CARBON / DNA / GRAVITY)]" :: where
 <a name="case-1337"></a>
 
 ### 例 1337：Editorial Fashion Poster
+
+![Editorial Fashion Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case304/output.jpg)
 
 **来源：** https://x.com/zulkarnaimx/status/2057500045713506318
 
@@ -31894,6 +32129,8 @@ Editorial fashion poster featuring a full-body, stylish male model leaning casua
 
 ### 例 1338：High Fashion Editorial Infographic Poster
 
+![High Fashion Editorial Infographic Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case305/output.jpg)
+
 **来源：** https://x.com/Hope_Ai01/status/2057367851905040849
 
 **提示词：**
@@ -31907,6 +32144,8 @@ A high-fashion editorial infographic poster featuring a stunning female fashion 
 <a name="case-1339"></a>
 
 ### 例 1339：Basketball Poster Design
+
+![Basketball Poster Design](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case306/output.jpg)
 
 **来源：** https://x.com/abs_uiux/status/2057390002678464986
 
@@ -34332,6 +34571,8 @@ Set the background to solid [BACKGROUND COLOR]. Display [COUNTRY NAME] in bold t
 
 ### 例 1416：Jellyfish City Above the Dunes
 
+![Jellyfish City Above the Dunes](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case404/output.jpg)
+
 **来源：** https://x.com/92digitalartArt/status/2066176419038683562
 
 **提示词：**
@@ -34358,6 +34599,8 @@ human-like alien, blue-skinned humanoid, generic sci-fi city, skyscrapers, cyber
 <a name="case-1417"></a>
 
 ### 例 1417：Tilt-Shift City Map Travel Poster
+
+![Tilt-Shift City Map Travel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case405/output.jpg)
 
 **来源：** https://x.com/iamaiistudio/status/2066145999266128367
 
@@ -34847,6 +35090,8 @@ Design a visually rich infographic about an endangered animal using Chinese text
 
 ### 例 1440：Song Dynasty Social Media Feed
 
+![Song Dynasty Social Media Feed](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case4/output.jpg)
+
 **来源：** https://x.com/Panda20230902/status/2045385588065313057
 
 **提示词：**
@@ -34861,6 +35106,8 @@ Design a visually rich infographic about an endangered animal using Chinese text
 
 ### 例 1441：Style-to-UI Design System
 
+![Style-to-UI Design System](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case9/output.jpg)
+
 **来源：** https://x.com/stark_nico99/status/2045836554451706125
 
 **提示词：**
@@ -34874,6 +35121,8 @@ Design a visually rich infographic about an endangered animal using Chinese text
 <a name="case-1442"></a>
 
 ### 例 1442：Museum-Style Hanfu Breakdown Infographic
+
+![Museum-Style Hanfu Breakdown Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case25/output.jpg)
 
 **来源：** https://x.com/MrLarus/status/2045504669401653414
 
@@ -34904,6 +35153,8 @@ Design a visually rich infographic about an endangered animal using Chinese text
 
 ### 例 1443：Elon Musk Douyin Livestream Screenshot
 
+![Elon Musk Douyin Livestream Screenshot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case36/output.jpg)
+
 **来源：** https://x.com/Shinning1010/status/2046501587762188535
 
 **提示词：**
@@ -34926,6 +35177,8 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 ### 例 1444：Cyberpunk Neon UI Design System
 
+![Cyberpunk Neon UI Design System](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case38/output.jpg)
+
 **来源：** https://x.com/AZLnfvp/status/2046468976092533180
 
 **提示词：**
@@ -34939,6 +35192,8 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 <a name="case-1445"></a>
 
 ### 例 1445：based on the generated character help me generate a screenshot of screenshot ...
+
+![based on the generated character help me generate a screenshot of screenshot ...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case63/output.jpg)
 
 **来源：** https://x.com/khaiinit/status/2047219694130827273
 
@@ -34954,6 +35209,8 @@ based on the generated character help me generate a screenshot of screenshot of 
 
 ### 例 1446：Create a landing page using this image as a reference for style and color gra...
 
+![Create a landing page using this image as a reference for style and color gra...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case64/output.jpg)
+
 **来源：** https://x.com/D_studioproject/status/2047212826264211540
 
 **提示词：**
@@ -34967,6 +35224,8 @@ Create a landing page using this image as a reference for style and color gradin
 <a name="case-1447"></a>
 
 ### 例 1447：Apple Pods Pro 3 Headphone E-Commerce Infographic
+
+![Apple Pods Pro 3 Headphone E-Commerce Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case44/output.jpg)
 
 **来源：** https://x.com/meng_dagg695/status/2047935217231663186
 
@@ -35073,6 +35332,8 @@ Render Quality: Hyperrealistic, clean ad aesthetic,
 
 ### 例 1448：Beauty Product Commercial Marketing Photograph
 
+![Beauty Product Commercial Marketing Photograph](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case46/output.jpg)
+
 **来源：** https://x.com/AIwithSarah_/status/2047904483359760677
 
 **提示词：**
@@ -35086,6 +35347,8 @@ A high-resolution commercial marketing photograph features a young woman with sl
 <a name="case-1449"></a>
 
 ### 例 1449：AAA Video Game Screenshot Concept Design
+
+![AAA Video Game Screenshot Concept Design](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case47/output.jpg)
 
 **来源：** https://x.com/ChiefMonkeyMike/status/2047828814580138156
 
@@ -35101,6 +35364,8 @@ generate screenshots from a AAA video game based off what The Sims Castaways seq
 
 ### 例 1450：Anime VTuber Minecraft Stream Thumbnail
 
+![Anime VTuber Minecraft Stream Thumbnail](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case93/output.jpg)
+
 **来源：** https://x.com/rerxmsz06/status/2047261622121705782
 
 **提示词：**
@@ -35114,6 +35379,8 @@ A vibrant anime-style YouTube thumbnail for a livestream gaming broadcast, in a 
 <a name="case-1451"></a>
 
 ### 例 1451：Cozy Anime ASMR Ear Massage Girl
+
+![Cozy Anime ASMR Ear Massage Girl](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case94/output.jpg)
 
 **来源：** https://x.com/Shion_yamabuki/status/2047232198382964969
 
@@ -35129,6 +35396,8 @@ A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bed
 
 ### 例 1452：Celebrity Livestream Concept
 
+![Celebrity Livestream Concept](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case95/output.jpg)
+
 **来源：** https://x.com/SelenaGmzIN/status/2047185882009198865
 
 **提示词：**
@@ -35142,6 +35411,8 @@ A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bed
 <a name="case-1453"></a>
 
 ### 例 1453：Monika Anime Banner Illustration
+
+![Monika Anime Banner Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case96/output.jpg)
 
 **来源：** https://x.com/mirochill/status/2047639852485620070
 
@@ -35157,6 +35428,8 @@ A highly polished anime banner illustration in a warm golden classroom-literatur
 
 ### 例 1454：Purple Anime Yuri Banner
 
+![Purple Anime Yuri Banner](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case97/output.jpg)
+
 **来源：** https://x.com/mirochill/status/2047639852485620070
 
 **提示词：**
@@ -35170,6 +35443,8 @@ A polished anime-style banner illustration in a dreamy violet palette, wide cine
 <a name="case-1455"></a>
 
 ### 例 1455：Pink Anime Natsuki Banner
+
+![Pink Anime Natsuki Banner](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case98/output.jpg)
 
 **来源：** https://x.com/mirochill/status/2047639852485620070
 
@@ -35185,6 +35460,8 @@ A glossy pastel pink anime banner in a wide cinematic layout, themed around cute
 
 ### 例 1456：Dreamy Anime Sayori Banner
 
+![Dreamy Anime Sayori Banner](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case99/output.jpg)
+
 **来源：** https://x.com/mirochill/status/2047639852485620070
 
 **提示词：**
@@ -35198,6 +35475,8 @@ A wide anime banner illustration of {argument name="character name" default="Say
 <a name="case-1457"></a>
 
 ### 例 1457：Multi-Panel Image Board Template
+
+![Multi-Panel Image Board Template](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case105/output.jpg)
 
 **来源：** https://x.com/aimikoda/status/2048183782876778821
 
@@ -35213,6 +35492,8 @@ Create a {argument name="grid layout" default="4x3"} borderless grid where each 
 
 ### 例 1458：Anime Band Finale at Budokan
 
+![Anime Band Finale at Budokan](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case107/output.jpg)
+
 **来源：** https://x.com/SDAI1807097011/status/2048127178592915583
 
 **提示词：**
@@ -35226,6 +35507,8 @@ A dramatic anime concert illustration seen from behind the performers onstage, s
 <a name="case-1459"></a>
 
 ### 例 1459：Anime Girl and Man Date Photo Collage
+
+![Anime Girl and Man Date Photo Collage](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case108/output.jpg)
 
 **来源：** https://x.com/AIillust_studio/status/2048099186214900130
 
@@ -35241,6 +35524,8 @@ A 4x4 photo collage of 16 warm, cinematic lifestyle snapshots featuring a real a
 
 ### 例 1460：Anime Friends Eating Soba
 
+![Anime Friends Eating Soba](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case110/output.jpg)
+
 **来源：** https://x.com/AIMAG31G/status/2048089673621516547
 
 **提示词：**
@@ -35254,6 +35539,8 @@ A cozy anime-style interior of a traditional Japanese soba restaurant, viewed fr
 <a name="case-1461"></a>
 
 ### 例 1461：Gothic Android Warrior Cathedral Key Art
+
+![Gothic Android Warrior Cathedral Key Art](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case111/output.jpg)
 
 **来源：** https://x.com/yanagihara_0805/status/2048085829713842405
 
@@ -35269,6 +35556,8 @@ A cinematic dark fantasy anime illustration in a ruined gothic cathedral, vertic
 
 ### 例 1462：Cloud shape doodle generation
 
+![Cloud shape doodle generation](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case112/output.jpg)
+
 **来源：** https://x.com/Gorden_Sun/status/2048080137149899133
 
 **提示词：**
@@ -35282,6 +35571,8 @@ Based on the shape of the {argument name="subject" default="clouds"} in the imag
 <a name="case-1463"></a>
 
 ### 例 1463：Rural Station Schoolgirl Scene
+
+![Rural Station Schoolgirl Scene](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case113/output.jpg)
 
 **来源：** https://x.com/m_Raiko_AIart/status/2048069313387737222
 
@@ -35297,6 +35588,8 @@ A cinematic anime-style illustration of a quiet rural Japanese train station in 
 
 ### 例 1464：Anime Characters in Real Izakaya Photo
 
+![Anime Characters in Real Izakaya Photo](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case114/output.jpg)
+
 **来源：** https://x.com/sub_raw_jin/status/2048066779835220392
 
 **提示词：**
@@ -35310,6 +35603,8 @@ A candid indoor restaurant photo in a realistic anime-inspired style, showing tw
 <a name="case-1465"></a>
 
 ### 例 1465：Anime Campers in a Winter Tent
+
+![Anime Campers in a Winter Tent](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case115/output.jpg)
 
 **来源：** https://x.com/sub_raw_jin/status/2048066779835220392
 
@@ -35325,6 +35620,8 @@ A cozy winter camping scene inside a large beige canvas tent, rendered as a semi
 
 ### 例 1466：BMW Performance Social Poster
 
+![BMW Performance Social Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case116/output.jpg)
+
 **来源：** https://x.com/harboriis/status/2048063332624843046
 
 **提示词：**
@@ -35338,6 +35635,8 @@ Create a 4:5 vertical social poster in ultra high resolution, 8K print quality s
 <a name="case-1467"></a>
 
 ### 例 1467：Cinematic Chicken Momos Ad Poster
+
+![Cinematic Chicken Momos Ad Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case117/output.jpg)
 
 **来源：** https://x.com/Diplomeme/status/2048060325925470358
 
@@ -35353,6 +35652,8 @@ A hyper-realistic cinematic street-food advertisement poster for {argument name=
 
 ### 例 1468：Anime BL Promo Thumbnail
 
+![Anime BL Promo Thumbnail](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case119/output.jpg)
+
 **来源：** https://x.com/himukai_an/status/2047981800535085555
 
 **提示词：**
@@ -35366,6 +35667,8 @@ A bright, polished anime-style promotional thumbnail with a summer romance atmos
 <a name="case-1469"></a>
 
 ### 例 1469：Hand-Drawn Storyboard Sheet
+
+![Hand-Drawn Storyboard Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case121/output.jpg)
 
 **来源：** https://x.com/saniaspeaks_/status/2050465100973191219
 
@@ -35381,6 +35684,8 @@ This Storyboard sheet use for this video created with GPT image 2 Storyboard she
 
 ### 例 1470：个人形象分析图卡
 
+![个人形象分析图卡](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case123/output.jpg)
+
 **来源：** https://x.com/you1873118/status/2050446427105759269
 
 **提示词：**
@@ -35394,6 +35699,8 @@ GPT-Image-2的一个妙用形象 这个提示词是一个老哥发我的 我试�
 <a name="case-1471"></a>
 
 ### 例 1471：12-Panel Storyboard Poster
+
+![12-Panel Storyboard Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case124/output.jpg)
 
 **来源：** https://x.com/bmx_ai13/status/2050432594647642414
 
@@ -35409,6 +35716,8 @@ A super simple workflow: 2 character images → GPT Image 2.0 storyboard → See
 
 ### 例 1472：Brand Collage Social Template
 
+![Brand Collage Social Template](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case125/output.jpg)
+
 **来源：** https://x.com/aiistudiocom/status/2051241633921049024
 
 **提示词：**
@@ -35423,6 +35732,8 @@ Act as a Social Media Art Director and Digital Collage Artist specializing in bo
 <a name="case-1473"></a>
 
 ### 例 1473：Outfit Breakdown Chart
+
+![Outfit Breakdown Chart](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case126/output.jpg)
 
 **来源：** https://x.com/Shinning1010/status/2051230882069901713
 
@@ -35446,6 +35757,8 @@ Chinese text, long text, messy layout, old parchment background, yellow aged pap
 
 ### 例 1474：Recipe Infographic Layout
 
+![Recipe Infographic Layout](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case127/output.jpg)
+
 **来源：** https://x.com/aiistudiocom/status/2051060312351342957
 
 **提示词：**
@@ -35460,6 +35773,8 @@ Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-dow
 
 ### 例 1475：Personal Color Analysis Graphic Board
 
+![Personal Color Analysis Graphic Board](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case128/output.jpg)
+
 **来源：** https://x.com/ZaraIrahh/status/2049730770474877234
 
 **提示词：**
@@ -35473,6 +35788,8 @@ Create a personal color analysis graphic using this portrait. Point out which se
 <a name="case-1476"></a>
 
 ### 例 1476：Annotated Coffee Table Mood Board
+
+![Annotated Coffee Table Mood Board](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case130/output.jpg)
 
 **来源：** https://x.com/Ciri_ai/status/2049721047696732550
 
@@ -35706,6 +36023,8 @@ A stunning ultra-detailed realistic render of the {VEHICLE_NAME} placed at the c
 
 ### 例 1486：Handwritten Study Infographic Poster
 
+![Handwritten Study Infographic Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case143/output.jpg)
+
 **来源：** https://x.com/YaZoraiz/status/2054264025178079718
 
 **提示词：**
@@ -35727,6 +36046,8 @@ Ultra-detailed, 4K resolution, top-down flat lay perspective, modern stationery 
 
 ### 例 1487：Brand Identity Moodboard System
 
+![Brand Identity Moodboard System](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case144/output.jpg)
+
 **来源：** https://x.com/SaasJunctionHQ/status/2054666436698845299
 
 **提示词：**
@@ -35740,6 +36061,8 @@ Full-blown brand identity system [BRAND NAME] — Brand Identity Moodboard STEP 
 <a name="case-1488"></a>
 
 ### 例 1488：Graphic Design Portfolio Mockup
+
+![Graphic Design Portfolio Mockup](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case146/output.jpg)
 
 **来源：** https://x.com/abs_uiux/status/2054594512983310572
 
@@ -35755,6 +36078,8 @@ Create a premium graphic design portfolio mockup in a professional creative stud
 
 ### 例 1489：Neo-Noir Character Design Board
 
+![Neo-Noir Character Design Board](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case147/output.jpg)
+
 **来源：** https://x.com/Mind_Boticni/status/2054542152781431075
 
 **提示词：**
@@ -35769,6 +36094,8 @@ Create a cinematic realistic character design board for a high-budget neo-noir f
 
 ### 例 1490：Heliotropic Architecture Board
 
+![Heliotropic Architecture Board](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case148/output.jpg)
+
 **来源：** https://x.com/Gdgtify/status/2055773537257034007
 
 **提示词：**
@@ -35782,6 +36109,8 @@ Create a cinematic realistic character design board for a high-budget neo-noir f
 <a name="case-1491"></a>
 
 ### 例 1491：Brand Identity Guideline Board
+
+![Brand Identity Guideline Board](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case149/output.jpg)
 
 **来源：** https://x.com/Shorelyn_/status/2055681687284293991
 
@@ -35899,6 +36228,8 @@ visually consistent and detailed
 
 ### 例 1492：Illustrated 2027 Desktop Calendar
 
+![Illustrated 2027 Desktop Calendar](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case150/output.jpg)
+
 **来源：** https://x.com/Mind_Boticni/status/2055663029195575396
 
 **提示词：**
@@ -35912,6 +36243,8 @@ use this reference photo to create a desktop calendar for January-December 2027.
 <a name="case-1493"></a>
 
 ### 例 1493：Monoluxe Automotive Poster Grid
+
+![Monoluxe Automotive Poster Grid](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case151/output.jpg)
 
 **来源：** https://x.com/Ozayrr_irl/status/2056179631389126895
 
@@ -35933,6 +36266,8 @@ Prompt⤵️
 
 ### 例 1494：Exploded Vehicle View
 
+![Exploded Vehicle View](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case152/output.jpg)
+
 **来源：** https://x.com/CharaspowerAI/status/2056049620753449271
 
 **提示词：**
@@ -35947,6 +36282,8 @@ Create an ultra detailed exploded view of the iconic [vehicle name].
 <a name="case-1495"></a>
 
 ### 例 1495：Tokyo Pink Fashion Collage
+
+![Tokyo Pink Fashion Collage](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case154/output.jpg)
 
 **来源：** https://x.com/Mind_Boticni/status/2056013715892514937
 
@@ -35965,6 +36302,8 @@ Create a premium 1:1 luxury fashion collage featuring the same stylish Japanese 
 <a name="case-1496"></a>
 
 ### 例 1496：Sony Camera Reference Infographic
+
+![Sony Camera Reference Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case155/output.jpg)
 
 **来源：** https://x.com/j_smeaton99/status/2056003752927379750
 
@@ -36066,6 +36405,8 @@ The final result should resemble a professionally published photography-equipmen
 
 ### 例 1497：Desk Setup Audit Infographic
 
+![Desk Setup Audit Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case156/output.jpg)
+
 **来源：** https://x.com/DilshadAI1/status/2055962696936468714
 
 **提示词：**
@@ -36079,6 +36420,8 @@ Create a visual-first, editorial-style infographic auditing the desk setup in th
 <a name="case-1498"></a>
 
 ### 例 1498：Country Sports Infographic
+
+![Country Sports Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case157/output.jpg)
 
 **来源：** https://x.com/MrDasOnX/status/2055892804744929544
 
@@ -36125,6 +36468,8 @@ Design rules:
 
 ### 例 1499：Die-Cut Sticker Illustration
 
+![Die-Cut Sticker Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case158/output.jpg)
+
 **来源：** https://x.com/Ciri_ai/status/2056616223547548106
 
 **提示词：**
@@ -36138,6 +36483,8 @@ Transform the uploaded image into a premium die-cut sticker illustration while k
 <a name="case-1500"></a>
 
 ### 例 1500：Rider-Waite Tarot Card
+
+![Rider-Waite Tarot Card](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case159/output.jpg)
 
 **来源：** https://x.com/itsphotogptai/status/2056400494709690591
 
@@ -36631,6 +36978,8 @@ watermark, logo, low quality, blurry, bad anatomy, distorted hands, cluttered la
 <a name="case-1515"></a>
 
 ### 例 1515：Colored Pencil Photo Transformation
+
+![Colored Pencil Photo Transformation](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case184/output.jpg)
 
 **来源：** https://x.com/AIwithSynthia/status/2066154697828782245
 

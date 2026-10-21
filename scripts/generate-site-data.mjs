@@ -1,4 +1,4 @@
-import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -6,6 +6,7 @@ const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const docsDir = join(root, 'docs');
 const outFile = join(root, 'data', 'cases.json');
 const styleLibraryFile = join(root, 'data', 'style-library.json');
+const placeholderDir = join(root, 'data', 'placeholders');
 const styleLibrary = JSON.parse(readFileSync(styleLibraryFile, 'utf8'));
 
 const galleryFiles = [
@@ -16,6 +17,115 @@ const galleryFiles = [
 const categoryLabels = Object.fromEntries(
   styleLibrary.categories.map((category) => [category.anchor, category.value])
 );
+
+function slugifyCategory(category = 'other') {
+  const slug = String(category)
+    .toLowerCase()
+    .replace(/&/g, 'and')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+  return slug || 'other';
+}
+
+function hashHue(text) {
+  let hash = 0;
+  for (let i = 0; i < text.length; i += 1) {
+    hash = (hash * 31 + text.charCodeAt(i)) % 360;
+  }
+  return hash;
+}
+
+function hslToHex(h, s, l) {
+  const hue = ((h % 360) + 360) % 360;
+  const sat = s / 100;
+  const light = l / 100;
+  const c = (1 - Math.abs(2 * light - 1)) * sat;
+  const x = c * (1 - Math.abs(((hue / 60) % 2) - 1));
+  const m = light - c / 2;
+  const [r, g, b] =
+    hue < 60 ? [c, x, 0]
+      : hue < 120 ? [x, c, 0]
+        : hue < 180 ? [0, c, x]
+          : hue < 240 ? [0, x, c]
+            : hue < 300 ? [x, 0, c]
+              : [c, 0, x];
+  const toHex = (value) => Math.round((value + m) * 255).toString(16).padStart(2, '0');
+  return `#${toHex(r)}${toHex(g)}${toHex(b)}`;
+}
+
+function escapeXml(text = '') {
+  return String(text)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+/**
+ * 无图条目使用的分类渐变占位图：按分类名做确定性配色，
+ * 保证每次构建产物一致（不会造成无意义的 diff）。
+ */
+function buildPlaceholderSvg(label) {
+  const hue = hashHue(label);
+  const from = hslToHex(hue, 58, 56);
+  const to = hslToHex(hue + 42, 66, 38);
+  const safeLabel = escapeXml(label);
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="${safeLabel}">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="${from}"/>
+      <stop offset="1" stop-color="${to}"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.74" cy="0.16" r="0.85">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="lines" width="26" height="26" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="26" stroke="#ffffff" stroke-opacity="0.09" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect width="800" height="600" fill="url(#lines)"/>
+  <rect width="800" height="600" fill="url(#glow)"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="674" y="50" width="64" height="64" rx="16"/>
+    <path d="M692 96l17-17 11 11 9-9"/>
+  </g>
+  <g fill="#ffffff" font-family="'Helvetica Neue',Arial,'PingFang SC','Hiragino Sans GB',sans-serif">
+    <text x="56" y="506" font-size="34" font-weight="600" fill-opacity="0.95">${safeLabel}</text>
+    <text x="56" y="546" font-size="17" fill-opacity="0.6" letter-spacing="3.4">PROMPT GALLERY</text>
+  </g>
+</svg>
+`;
+}
+
+function ensurePlaceholders(categories) {
+  mkdirSync(placeholderDir, { recursive: true });
+  for (const category of categories) {
+    writeFileSync(join(placeholderDir, `${slugifyCategory(category)}.svg`), buildPlaceholderSvg(category));
+  }
+  writeFileSync(join(placeholderDir, 'fallback.svg'), buildPlaceholderSvg('Prompt Gallery'));
+}
+
+function placeholderFor(category) {
+  return `/placeholders/${slugifyCategory(category)}.svg`;
+}
+
+/**
+ * 图片解析优先级：
+ * 1. 远端 URL（外部源直连，不进仓库）
+ * 2. 本地 ../data/** 引用且文件真实存在
+ * 3. 分类渐变占位图（绝不让前端出现破图）
+ */
+function resolveImage(imageMatch, category) {
+  const raw = imageMatch?.[2]?.trim();
+  if (raw) {
+    if (/^https?:\/\//i.test(raw)) return raw;
+    const localPath = raw.replace('../data/', '/');
+    if (existsSync(join(root, 'data', localPath.replace(/^\//, '')))) return localPath;
+  }
+  return placeholderFor(category);
+}
 
 const featuredIds = new Set([
   1, 2, 6, 17, 166, 310, 330, 334, 338, 341, 344, 346, 350, 353, 354, 359, 360,
@@ -144,9 +254,7 @@ function parseCases() {
         prompt,
         category: categoryMap.get(id)
       });
-      const image = imageMatch?.[2]
-        ? imageMatch[2].replace('../data/', '/')
-        : `/images/case${id}.jpg`;
+      const image = resolveImage(imageMatch, category);
       const tags = inferTags({ title, prompt, category });
 
       cases.push({
@@ -174,6 +282,8 @@ const cases = parseCases();
 const categories = [...new Set(cases.map((item) => item.category))].sort();
 const styles = [...new Set(cases.flatMap((item) => item.styles))].sort();
 const scenes = [...new Set(cases.flatMap((item) => item.scenes))].sort();
+
+ensurePlaceholders(categories);
 
 const payload = {
   repository: 'https://github.com/freestylefly/awesome-gpt-image-2',
