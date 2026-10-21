@@ -35,24 +35,6 @@ function hashHue(text) {
   return hash;
 }
 
-function hslToHex(h, s, l) {
-  const hue = ((h % 360) + 360) % 360;
-  const sat = s / 100;
-  const light = l / 100;
-  const c = (1 - Math.abs(2 * light - 1)) * sat;
-  const x = c * (1 - Math.abs(((hue / 60) % 2) - 1));
-  const m = light - c / 2;
-  const [r, g, b] =
-    hue < 60 ? [c, x, 0]
-      : hue < 120 ? [x, c, 0]
-        : hue < 180 ? [0, c, x]
-          : hue < 240 ? [0, x, c]
-            : hue < 300 ? [x, 0, c]
-              : [c, 0, x];
-  const toHex = (value) => Math.round((value + m) * 255).toString(16).padStart(2, '0');
-  return `#${toHex(r)}${toHex(g)}${toHex(b)}`;
-}
-
 function escapeXml(text = '') {
   return String(text)
     .replace(/&/g, '&amp;')
@@ -62,15 +44,61 @@ function escapeXml(text = '') {
 }
 
 /**
- * 无图条目使用的分类渐变占位图：按分类名做确定性配色，
- * 保证每次构建产物一致（不会造成无意义的 diff）。
+ * 占位图配色：一组低饱和偏质感的渐变，按「分类 + 案例」哈希取色，
+ * 让同分类相邻卡片也能拉开差异，同时保证构建结果确定（不产生无意义 diff）。
  */
-function buildPlaceholderSvg(label) {
-  const hue = hashHue(label);
-  const from = hslToHex(hue, 58, 56);
-  const to = hslToHex(hue + 42, 66, 38);
-  const safeLabel = escapeXml(label);
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="${safeLabel}">
+const PLACEHOLDER_GRADIENTS = [
+  ['#6366F1', '#312E81'],
+  ['#8B5CF6', '#4C1D95'],
+  ['#EC4899', '#831843'],
+  ['#F43F5E', '#881337'],
+  ['#F59E0B', '#7C2D12'],
+  ['#14B8A6', '#134E4A'],
+  ['#06B6D4', '#164E63'],
+  ['#10B981', '#064E3B'],
+  ['#64748B', '#1E293B'],
+  ['#F97316', '#7C2D12']
+];
+
+/** 按字符宽度粗略折行，最多两行，超出加省略号 */
+function wrapSvgText(text, maxChars = 24, maxLines = 2) {
+  const clean = String(text || '').replace(/\s+/g, ' ').trim();
+  const lines = [];
+  let rest = clean;
+  while (rest && lines.length < maxLines) {
+    if (rest.length <= maxChars) {
+      lines.push(rest);
+      rest = '';
+      break;
+    }
+    let cut = rest.lastIndexOf(' ', maxChars);
+    if (cut < maxChars * 0.5) cut = maxChars;
+    lines.push(rest.slice(0, cut).trim());
+    rest = rest.slice(cut).trim();
+  }
+  if (rest && lines.length) {
+    const last = lines[lines.length - 1].replace(/[\s，,。.、]+$/, '');
+    lines[lines.length - 1] = `${last.slice(0, Math.max(4, maxChars - 1))}…`;
+  }
+  return lines.length ? lines : [''];
+}
+
+/**
+ * 无图条目使用的渐变占位卡：案例标题 + 分类标签 + 稳定的配色分桶。
+ * 标题让卡片看起来像内容而不是空占位。
+ */
+function buildPlaceholderSvg(category, seed = '', title = '') {
+  const index = hashHue(`${category}|${seed || category}`) % PLACEHOLDER_GRADIENTS.length;
+  const [from, to] = PLACEHOLDER_GRADIENTS[index];
+  const heading = title || category;
+  const lines = wrapSvgText(heading, 22, 2);
+  const startY = lines.length > 1 ? 268 : 300;
+  const headingMarkup = lines
+    .map((line, i) => `<tspan x="400" dy="${i === 0 ? 0 : 40}">${escapeXml(line)}</tspan>`)
+    .join('');
+  const categoryLabel = escapeXml(String(category).toUpperCase());
+
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="${escapeXml(heading)}">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="${from}"/>
@@ -87,13 +115,13 @@ function buildPlaceholderSvg(label) {
   <rect width="800" height="600" fill="url(#bg)"/>
   <rect width="800" height="600" fill="url(#lines)"/>
   <rect width="800" height="600" fill="url(#glow)"/>
-  <g fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.5" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
     <rect x="674" y="50" width="64" height="64" rx="16"/>
     <path d="M692 96l17-17 11 11 9-9"/>
   </g>
-  <g fill="#ffffff" font-family="'Helvetica Neue',Arial,'PingFang SC','Hiragino Sans GB',sans-serif">
-    <text x="56" y="506" font-size="34" font-weight="600" fill-opacity="0.95">${safeLabel}</text>
-    <text x="56" y="546" font-size="17" fill-opacity="0.6" letter-spacing="3.4">PROMPT GALLERY</text>
+  <g fill="#ffffff" font-family="'Helvetica Neue',Arial,'PingFang SC','Hiragino Sans GB',sans-serif" text-anchor="middle">
+    <text x="400" y="${startY}" font-size="30" font-weight="600" fill-opacity="0.96">${headingMarkup}</text>
+    <text x="400" y="352" font-size="14" fill-opacity="0.62" letter-spacing="3">${categoryLabel}</text>
   </g>
 </svg>
 `;
@@ -107,8 +135,14 @@ function ensurePlaceholders(categories) {
   writeFileSync(join(placeholderDir, 'fallback.svg'), buildPlaceholderSvg('Prompt Gallery'));
 }
 
-function placeholderFor(category) {
-  return `/placeholders/${slugifyCategory(category)}.svg`;
+/** 为单个无图案例落一张专属占位图，色相在分类基调上微调 */
+function placeholderFor(category, id, title = '') {
+  const slug = slugifyCategory(category);
+  if (!id) return `/placeholders/${slug}.svg`;
+  mkdirSync(placeholderDir, { recursive: true });
+  const fileName = `case-${id}.svg`;
+  writeFileSync(join(placeholderDir, fileName), buildPlaceholderSvg(category, String(id), title));
+  return `/placeholders/${fileName}`;
 }
 
 /**
@@ -117,14 +151,14 @@ function placeholderFor(category) {
  * 2. 本地 ../data/** 引用且文件真实存在
  * 3. 分类渐变占位图（绝不让前端出现破图）
  */
-function resolveImage(imageMatch, category) {
+function resolveImage(imageMatch, category, id, title) {
   const raw = imageMatch?.[2]?.trim();
   if (raw) {
     if (/^https?:\/\//i.test(raw)) return raw;
     const localPath = raw.replace('../data/', '/');
     if (existsSync(join(root, 'data', localPath.replace(/^\//, '')))) return localPath;
   }
-  return placeholderFor(category);
+  return placeholderFor(category, id, title);
 }
 
 const featuredIds = new Set([
@@ -171,6 +205,21 @@ function extractPrompt(block) {
   return cleanText(match?.[1] || '');
 }
 
+function prettifySourceLabel(value) {
+  try {
+    const url = new URL(value);
+    const host = url.hostname.replace(/^www\./, '');
+    const segments = url.pathname.split('/').filter(Boolean);
+    if (/^(x|twitter)\.com$/.test(host) && segments[0]) return `@${segments[0]}`;
+    if (host === 'github.com' && segments[0]) {
+      return segments[1] ? `${segments[0]}/${segments[1]}` : segments[0];
+    }
+    return host;
+  } catch {
+    return value;
+  }
+}
+
 function extractSource(block) {
   const line = block.match(/\*\*来源：\*\*\s*([^\n]+)/)?.[1] || '';
   const link = line.match(/\[([^\]]+)\]\(([^)]+)\)/);
@@ -180,8 +229,15 @@ function extractSource(block) {
       url: link[2]
     };
   }
+  const plain = stripMarkdown(line);
+  if (/^https?:\/\/\S+$/.test(plain)) {
+    return {
+      label: prettifySourceLabel(plain),
+      url: plain
+    };
+  }
   return {
-    label: stripMarkdown(line) || 'Community',
+    label: plain || 'Community',
     url: ''
   };
 }
@@ -254,7 +310,7 @@ function parseCases() {
         prompt,
         category: categoryMap.get(id)
       });
-      const image = resolveImage(imageMatch, category);
+      const image = resolveImage(imageMatch, category, id, title);
       const tags = inferTags({ title, prompt, category });
 
       cases.push({

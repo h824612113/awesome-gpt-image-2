@@ -64,6 +64,18 @@ import { CommunityAdminSection, CommunityPage } from './community';
 import skillExampleImage from '../agents/skills/gpt-image-2-style-library/assets/city-life-system-map.png';
 
 const fallbackRepoUrl = 'https://github.com/freestylefly/awesome-gpt-image-2';
+const DEFAULT_PLACEHOLDER_IMAGE = '/placeholders/fallback.svg';
+
+/**
+ * 图片兜底：远端图片（直连 raw.githubusercontent）可能因为网络或上游删除而加载失败，
+ * 这里统一切到本地占位图，避免出现破图。dataset 标记防止占位图本身失败时无限循环。
+ */
+function handleImageFallback(event) {
+  const img = event.currentTarget;
+  if (img.dataset.fallbackApplied === 'true') return;
+  img.dataset.fallbackApplied = 'true';
+  img.src = DEFAULT_PLACEHOLDER_IMAGE;
+}
 const sponsorUrl = 'https://apimart.ai/register?aff=oQgzUQ';
 const apimartKeysUrl = 'https://apimart.ai/keys';
 const gaMeasurementId = import.meta.env.VITE_GA_MEASUREMENT_ID;
@@ -1155,7 +1167,7 @@ function Hero({ latestCases, language, repoUrl, totalCases, categoryCount, onOpe
             onClick={() => onOpenCase(caseItem)}
             key={caseItem.id}
           >
-            <img src={caseItem.image} alt={caseItem.imageAlt} />
+            <img src={caseItem.image} alt={caseItem.imageAlt} onError={handleImageFallback} />
             <span>{language === 'zh' ? '案例' : 'Case'} {caseItem.id}</span>
           </button>
         ))}
@@ -1867,7 +1879,7 @@ function AccountPanel({
                   onClick={() => onOpenCase?.(caseItem)}
                   key={caseId}
                 >
-                  <img src={caseItem.image} alt={caseItem.imageAlt} />
+                  <img src={caseItem.image} alt={caseItem.imageAlt} onError={handleImageFallback} />
                   <span>#{caseId}</span>
                   <strong>{caseItem.title}</strong>
                   <em>
@@ -2953,7 +2965,7 @@ function PromptCard({
   return (
     <article className="caseCard">
       <button className="caseImage imageButton" type="button" onClick={() => onOpen(caseItem)}>
-        <img src={caseItem.image} alt={caseItem.imageAlt} loading="lazy" />
+        <img src={caseItem.image} alt={caseItem.imageAlt} loading="lazy" onError={handleImageFallback} />
         <span className="caseBadge">{language === 'zh' ? '案例' : 'Case'} {caseItem.id}</span>
         <span className="imageHint">
           <Eye size={15} />
@@ -4128,7 +4140,7 @@ function App() {
             onClick={() => setPreview({ type: 'case', item: caseItem })}
             key={caseItem.id}
           >
-            <img src={caseItem.image} alt={caseItem.imageAlt} />
+            <img src={caseItem.image} alt={caseItem.imageAlt} onError={handleImageFallback} />
             <span>#{caseItem.id}</span>
           </button>
         ))}

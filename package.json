@@ -6,6 +6,9 @@
   "scripts": {
     "generate:site-data": "node scripts/generate-site-data.mjs",
     "generate:style-skill": "node scripts/generate-style-skill.mjs",
+    "sync:daily": "node scripts/daily-sync-prompts.mjs",
+    "gallery:backfill-images": "node scripts/backfill-case-images.mjs",
+    "gallery:clean": "node scripts/clean-legacy-cases.mjs",
     "ga4:oauth": "node scripts/google-analytics-oauth.mjs",
     "install:skill": "node scripts/install-style-skill.mjs",
     "pack:skill": "npm pack ./agents/skills/gpt-image-2-style-library --dry-run",
