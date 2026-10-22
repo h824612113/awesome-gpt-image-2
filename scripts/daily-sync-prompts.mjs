@@ -36,6 +36,33 @@ try {
   console.warn('上游同步警告（跳过）：', err.message);
 }
 
+// 1.5 动态探测 GitHub 上最新的相关开源提示词与 Skill 项目
+try {
+  console.log('正在执行 GitHub 开源生态动态探测 (GPT-Image-2 / 2.5 相关项目)...');
+  const searchCmd = 'gh search repos "gpt-image-2" --sort stars --limit 15 --json fullName,description,stargazersCount,url';
+  const out = run(searchCmd, { timeout: 15000 });
+  const repos = JSON.parse(out);
+  const trackedSet = new Set(TRACKED_SOURCES.map(s => s.name.toLowerCase()));
+  trackedSet.add('freestylefly/awesome-gpt-image-2');
+  trackedSet.add('h824612113/awesome-gpt-image-2');
+
+  const newDiscoveries = repos.filter(r => {
+    const fn = r.fullName.toLowerCase();
+    return !trackedSet.has(fn) && !fn.includes('h824612113') && !fn.includes('freestylefly');
+  });
+
+  if (newDiscoveries.length > 0) {
+    console.log(`[GitHub 生态发现] 监测到 ${newDiscoveries.length} 个相关社区项目（Stars 排序）：`);
+    for (const repo of newDiscoveries.slice(0, 5)) {
+      console.log(`  ⭐ ${repo.stargazersCount} | ${repo.fullName} - ${(repo.description || '无描述').slice(0, 60)}...`);
+    }
+  } else {
+    console.log('[GitHub 生态发现] 暂未发现未收录的新高星提示词库项目。');
+  }
+} catch (err) {
+  console.log('GitHub 动态发现跳过（非阻塞）：', err.message);
+}
+
 // 2. 严苛质量过滤与准入机制 (Quality Gate & Quality Auditor)
 const casesFile = join(rootDir, 'data', 'cases.json');
 const currentData = JSON.parse(readFileSync(casesFile, 'utf8'));

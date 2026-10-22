@@ -529,6 +529,8 @@ During collection and research, this project references and builds upon public p
 - [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
 - [youart-open-source/awesome-gpt-image-2-5-prompts](https://github.com/youart-open-source/awesome-gpt-image-2-5-prompts)
 - [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+- [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill)
+- [davidwuw0811-boop/awesome-gpt-image2-prompts](https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts)
 
 Copyright belongs to the original authors or platforms. If any content is infringing or inappropriate, please contact us and we will correct or remove it promptly.
 
