@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import { execSync } from 'node:child_process';
-import { existsSync, mkdirSync, readFileSync, appendFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, appendFileSync, writeFileSync } from 'node:fs';
 import { homedir } from 'node:os';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -36,31 +36,68 @@ try {
   console.warn('上游同步警告（跳过）：', err.message);
 }
 
-// 1.5 动态探测 GitHub 上最新的相关开源提示词与 Skill 项目
+// 1.5 动态探测 GitHub 开源生态与高星（Star >= 200）候选分流审计
+const MIN_STAR_THRESHOLD = 200;
 try {
-  console.log('正在执行 GitHub 开源生态动态探测 (GPT-Image-2 / 2.5 相关项目)...');
-  const searchCmd = 'gh search repos "gpt-image-2" --sort stars --limit 15 --json fullName,description,stargazersCount,url';
-  const out = run(searchCmd, { timeout: 15000 });
+  console.log(`正在执行 GitHub 开源生态动态探测 (搜索 GPT-Image-2 / 2.5，准入门槛 Star >= ${MIN_STAR_THRESHOLD})...`);
+  const searchCmd = `gh search repos "gpt-image-2" --sort stars --limit 30 --json fullName,description,stargazersCount,url`;
+  const out = run(searchCmd, { timeout: 20000 });
   const repos = JSON.parse(out);
-  const trackedSet = new Set(TRACKED_SOURCES.map(s => s.name.toLowerCase()));
-  trackedSet.add('freestylefly/awesome-gpt-image-2');
-  trackedSet.add('h824612113/awesome-gpt-image-2');
+  // 精确比对已收录的源（支持比对 fullName 与 仓库短名）
+  const trackedFullNames = new Set(
+    TRACKED_SOURCES.map(s => s.url.replace(/^https?:\/\/github\.com\//, "").replace(/\.git$/, "").toLowerCase())
+  );
+  const trackedShortNames = new Set(TRACKED_SOURCES.map(s => s.name.toLowerCase()));
+  trackedFullNames.add("freestylefly/awesome-gpt-image-2");
+  trackedFullNames.add("h824612113/awesome-gpt-image-2");
 
-  const newDiscoveries = repos.filter(r => {
+  // 严格过滤：Star >= 200，且排除非提示词库/非图库类（如 API 逆向、Go SDK、本地大模型等纯软件工具）
+  const EXCLUDE_KEYWORDS = [
+    "reverse-engineering", "chatgpt2api", "api client", "go-openai", "h2ogpt",
+    "webui", "sdk", "proxy", "号池", "逆向实现", "step1x-edit", "playground"
+  ];
+
+  const highStarCandidates = repos.filter(r => {
     const fn = r.fullName.toLowerCase();
-    return !trackedSet.has(fn) && !fn.includes('h824612113') && !fn.includes('freestylefly');
+    const shortName = fn.split("/")[1] || fn;
+    const desc = (r.description || "").toLowerCase();
+
+    const isSelfOrTracked = trackedFullNames.has(fn) || trackedShortNames.has(shortName) ||
+      fn.includes("h824612113") || fn.includes("freestylefly");
+    if (isSelfOrTracked) return false;
+
+    const stars = r.stargazersCount || 0;
+    if (stars < MIN_STAR_THRESHOLD) return false;
+
+    const isExcludedTool = EXCLUDE_KEYWORDS.some(kw => desc.includes(kw) || fn.includes(kw));
+    return !isExcludedTool;
   });
 
-  if (newDiscoveries.length > 0) {
-    console.log(`[GitHub 生态发现] 监测到 ${newDiscoveries.length} 个相关社区项目（Stars 排序）：`);
-    for (const repo of newDiscoveries.slice(0, 5)) {
-      console.log(`  ⭐ ${repo.stargazersCount} | ${repo.fullName} - ${(repo.description || '无描述').slice(0, 60)}...`);
+  if (highStarCandidates.length > 0) {
+    console.log(`[GitHub 生态发现] 筛选出 ${highStarCandidates.length} 个高星潜力提示词/Skill 项目 (Star >= ${MIN_STAR_THRESHOLD})：`);
+    for (const repo of highStarCandidates.slice(0, 8)) {
+      console.log(`  ⭐ ${repo.stargazersCount} | ${repo.fullName} - ${(repo.description || "无描述").slice(0, 60)}...`);
     }
+
+    // 记录到暂存观察池 data/pending-sources.json，供人工复核确认后再接入解析器，杜绝直接全量吸纳风险
+    const pendingFile = join(rootDir, "data", "pending-sources.json");
+    const pendingData = {
+      updatedAt: new Date().toISOString(),
+      starThreshold: MIN_STAR_THRESHOLD,
+      candidates: highStarCandidates.map(r => ({
+        fullName: r.fullName,
+        stars: r.stargazersCount,
+        url: r.url,
+        description: r.description
+      }))
+    };
+    writeFileSync(pendingFile, JSON.stringify(pendingData, null, 2), "utf8");
+    console.log(`已将 ${highStarCandidates.length} 个高星优质候选同步归档至 data/pending-sources.json 观察池。`);
   } else {
-    console.log('[GitHub 生态发现] 暂未发现未收录的新高星提示词库项目。');
+    console.log(`[GitHub 生态发现] 暂未发现未收录的 Star >= ${MIN_STAR_THRESHOLD} 的纯提示词库项目。`);
   }
 } catch (err) {
-  console.log('GitHub 动态发现跳过（非阻塞）：', err.message);
+  console.log("GitHub 动态发现跳过（非阻塞）：", err.message);
 }
 
 // 2. 严苛质量过滤与准入机制 (Quality Gate & Quality Auditor)
