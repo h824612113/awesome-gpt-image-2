@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-10-24T20:00:34.953Z",
+  "updatedAt": "2026-10-25T20:02:06.615Z",
   "starThreshold": 200,
   "candidates": [
     {
       "fullName": "ConardLi/garden-skills",
-      "stars": 13242,
+      "stars": 13274,
       "url": "https://github.com/ConardLi/garden-skills",
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
     },
     {
       "fullName": "ningzimu/codex-ppt-skill",
-      "stars": 7263,
+      "stars": 7297,
       "url": "https://github.com/ningzimu/codex-ppt-skill",
       "description": "GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents"
     },
     {
       "fullName": "ikaijua/Awesome-AITools",
-      "stars": 6242,
+      "stars": 6246,
       "url": "https://github.com/ikaijua/Awesome-AITools",
       "description": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests"
     },
     {
       "fullName": "liangdabiao/ecom-details-image",
-      "stars": 1468,
+      "stars": 1477,
       "url": "https://github.com/liangdabiao/ecom-details-image",
       "description": "一个面向workbuddy / Codex 等agent 的跨境电商和国内电商通用视觉创作 Skill。我精选25个高质量案例，涵盖纯色底产品主图、场景化生活图、平铺图、电商详情图、真实场景等等，全部配完整提示词，都可以利用 GPT-Image-2 API生成最终效果。一键生成电商相关图片！输入产品图片和需求描述，自动生成完整的电商主图、详情页图片、社媒推广图、直播间场景图等全套视觉素材。 与众不同之处是：**Campaign Style Lock** 机制 和 **强推广** 和 **重视转化效果**。"
     },
@@ -34,7 +34,7 @@
     },
     {
       "fullName": "YouMind-OpenLab/ai-image-prompts-skill",
-      "stars": 1329,
+      "stars": 1335,
       "url": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill",
       "description": "AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more."
     },
@@ -46,7 +46,7 @@
     },
     {
       "fullName": "xianyu110/awesome-nanobananapro-prompts",
-      "stars": 815,
+      "stars": 816,
       "url": "https://github.com/xianyu110/awesome-nanobananapro-prompts",
       "description": "Nano Banana Pro (Gemini 3 Pro Image) 全网最全提示词 908+ 案例，附效果图与在线图库 | Best Nano Banana Pro prompts with images"
     },
@@ -70,7 +70,7 @@
     },
     {
       "fullName": "smixs/visual-skills",
-      "stars": 570,
+      "stars": 575,
       "url": "https://github.com/smixs/visual-skills",
       "description": "AI film director skills for agents: cinematic dramaturgy (Murch, blocking, montage) + exact prompt syntax for Seedance 2.5, Kling 3.0 Turbo/Omni, Veo 3.1, Nano Banana 2, GPT Image 2.5."
     },
