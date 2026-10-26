@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/freestylefly/awesome-gpt-image-2",
-  "totalCases": 1887,
+  "totalCases": 1902,
   "categories": [
     "Architecture & Spaces",
     "Brand & Logos",
@@ -50,6 +50,307 @@
     "Travel"
   ],
   "cases": [
+    {
+      "id": 1957,
+      "title": "游戏素材 - 动漫冒险者角色设定图",
+      "image": "https://cms-assets.youmind.com/media/1793001765390_hh8cvj_HViIfdmaEAA7KSs.jpg",
+      "imageAlt": "游戏素材 - 动漫冒险者角色设定图",
+      "sourceLabel": "@KoiLx0",
+      "sourceUrl": "https://x.com/KoiLx0",
+      "prompt": "一张高质量的 3D 角色设计图，呈现了一位动漫风格的年轻男性冒险者。画面采用横向排列的四个不同视角，背景为干净的中性浅灰色影棚底色。从左至右依次为：第一个视角标注为“FRONT”，展示角色双臂微张的正面站姿；第二个视角标注为“RIGHT”，展示右侧面轮廓；第三个视角标注为“BACK”，展示背面视角；第四个视角为半身特写，标注为“HEAD 3/4”。该角色留着一头凌乱的深蓝灰色短发，拥有一双硕大的琥珀色眼睛。他身穿一件青蓝色短披肩，两侧饰有白色新月图案，中央以圆形青铜搭扣固定，内搭一件卷起袖口的白色翻领衬衫。一条棕色皮带斜跨胸前。下身穿着带有多口袋设计的深藏青色工装裤，腰系棕色皮带并配有一个小皮袋，双手戴着深色半指手套，脚穿米白色高筒靴，配有棕色绑带与金属扣。整体光线柔和均匀，细腻地凸显出衣物与肌肤的光滑质感。",
+      "promptPreview": "一张高质量的 3D 角色设计图，呈现了一位动漫风格的年轻男性冒险者。画面采用横向排列的四个不同视角，背景为干净的中性浅灰色影棚底色。从左至右依次为：第一个视角标注为“FRONT”，展示角色双臂微张的正面站姿；第二个视角标注为“RIGHT”，展示右侧面轮廓；第三个视角标注为“BACK”，展示背面视角；第四个视角为半身特写，标注为“HEAD 3/4”。该角色留着一头凌乱的深蓝灰色短发，拥有一双硕大的琥珀色眼睛。他身穿一件青蓝色短披肩，两侧饰",
+      "category": "Characters & People",
+      "styles": [
+        "Character",
+        "3D"
+      ],
+      "scenes": [
+        "Commerce"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-1957"
+    },
+    {
+      "id": 1956,
+      "title": "电商主图 - 精品电商平铺网格",
+      "image": "https://cms-assets.youmind.com/media/1788855320165_tg6adc_HRm1opdXQAEwb6-.jpg",
+      "imageAlt": "电商主图 - 精品电商平铺网格",
+      "sourceLabel": "@AIGuideNote",
+      "sourceUrl": "https://x.com/AIGuideNote",
+      "prompt": "[品牌/产品信息]\n- 品牌名称：{argument name=\"brand name\" default=\"{brandName}\"}\n- 系列名称：{argument name=\"collection\" default=\"{collection}\"}\n- 典型商品价格：{argument name=\"item price\" default=\"{backpackPrice}\"}\n\n[图像质量、呈现与构图规范]\n- 风格：适用于日本时尚/生活方式品牌电商网站的极简且精致的 Lookbook 照片。\n- 构图：在自然光照射的摄影棚内，将服装单品（包袋、外套、鞋履等）整齐地平铺或有序排列在硬木地板或水泥地面上。\n- 排版布局（适用于 GPT-image / Nano Banana Pro）：在画布角落隐约呈现品牌名称 {argument name=\"brand name\" default=\"{brandName}\"}、{argument name=\"collection\" default=\"{collection}\"} 文字以及价格标注 {argument name=\"item price\" default=\"{backpackPrice}\"}，并使用超细字体。\n- 灯光/色彩：如阴天自然光般柔和，低对比度，以大地色系（米色、橄榄绿、炭灰色、灰白色）为主的沉稳色调。\n\n[布局与输出的严格限制（强制性）]\n- 输出成品设计本身，并填满整个画布。设计内部的背景和场景描绘（墙壁、空间、阴影）可遵循正文中的说明。\n- 禁止事项：带相框的海报照片、贴在墙上的海报照片、放置在桌子或纸张上的样机照片、纸张边缘的透视变形或投影。\n- 输出成品 2D 平面设计本身，并填满整个画布。允许包含上述描述的场景元素（墙壁、房间、阴影）。绝对禁止任何海报样机效果：不得出现相框、不得出现贴在墙上或放在桌上的照片、不得出现艺术品边缘的透视变形或投影。\n\n- 宽高比：\"--ar 1:1\" 或 \"--ar 4:3\"",
+      "promptPreview": "[品牌/产品信息] - 品牌名称：{argument name=\"brand name\" default=\"{brandName}\"} - 系列名称：{argument name=\"collection\" default=\"{collection}\"} - 典型商品价格：{argument name=\"item price\" default=\"{backpackPrice}\"} [图像质量、呈现与构图规范] - 风格：适用于日本时尚/生",
+      "category": "Posters & Typography",
+      "styles": [
+        "Poster",
+        "Product",
+        "Brand"
+      ],
+      "scenes": [
+        "Commerce",
+        "Story"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-1956"
+    },
+    {
+      "id": 1955,
+      "title": "YouTube 缩略图 - 桥下的废弃道路",
+      "image": "https://cms-assets.youmind.com/media/1793001764227_wrqwhm_HVeiVmGboAE6eCl.jpg",
+      "imageAlt": "YouTube 缩略图 - 桥下的废弃道路",
+      "sourceLabel": "@HYOGOKU_RUMI",
+      "sourceUrl": "https://x.com/HYOGOKU_RUMI",
+      "prompt": "生成一张夜间废弃道路的照片级写实图像。画面应黑暗而诡异，道路向远方蜿蜒延伸。左侧矗立着一根高大的金属电线杆，几根电线从杆上向外延伸。道路右侧是一道混凝土挡土墙，墙面斑驳，长满了青苔和杂草。挡土墙上方是一座由粗大立柱支撑的大型混凝土桥梁结构。地面湿漉漉的，泛着微弱的光泽，散落着枯叶与杂物。稀疏的干草从柏油路面的裂缝中钻出。整体氛围荒凉神秘，尽显典型的城市衰败气息。",
+      "promptPreview": "生成一张夜间废弃道路的照片级写实图像。画面应黑暗而诡异，道路向远方蜿蜒延伸。左侧矗立着一根高大的金属电线杆，几根电线从杆上向外延伸。道路右侧是一道混凝土挡土墙，墙面斑驳，长满了青苔和杂草。挡土墙上方是一座由粗大立柱支撑的大型混凝土桥梁结构。地面湿漉漉的，泛着微弱的光泽，散落着枯叶与杂物。稀疏的干草从柏油路面的裂缝中钻出。整体氛围荒凉神秘，尽显典型的城市衰败气息。",
+      "category": "Photography & Realism",
+      "styles": [
+        "Realistic"
+      ],
+      "scenes": [
+        "Travel"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-1955"
+    },
+    {
+      "id": 1954,
+      "title": "社交媒体帖子 - 地下偶像牙科护士舞台表演",
+      "image": "https://cms-assets.youmind.com/media/1792914380608_st1ybv_HVXlScaawAAdJHD.jpg",
+      "imageAlt": "社交媒体帖子 - 地下偶像牙科护士舞台表演",
+      "sourceLabel": "@goro_noda23327",
+      "sourceUrl": "https://x.com/goro_noda23327",
+      "prompt": "一张写实风格的照片，画面中一位年轻的日本女性偶像正在小型地下舞台上表演。她身穿一套可爱的造型牙科护士服：白色短袖连衣裙搭配粉色滚边、前拉链设计，胸前印有牙齿形状的 logo。头上戴着配套的白色护士帽，帽子上饰有牙齿徽章。她的头发呈深棕色，梳着双马尾并留有刘海。她一手将黑色麦克风举至嘴边，另一只手比出俏皮的手指爱心手势。灯光采用极具戏剧感的舞台布光，深色天花板背景下可见明亮的聚光灯。前景处是虚化的观众头部轮廓，营造出丰富的空间层次感与现场演出的氛围。",
+      "promptPreview": "一张写实风格的照片，画面中一位年轻的日本女性偶像正在小型地下舞台上表演。她身穿一套可爱的造型牙科护士服：白色短袖连衣裙搭配粉色滚边、前拉链设计，胸前印有牙齿形状的 logo。头上戴着配套的白色护士帽，帽子上饰有牙齿徽章。她的头发呈深棕色，梳着双马尾并留有刘海。她一手将黑色麦克风举至嘴边，另一只手比出俏皮的手指爱心手势。灯光采用极具戏剧感的舞台布光，深色天花板背景下可见明亮的聚光灯。前景处是虚化的观众头部轮廓，营造出丰富的空间层次感与现场",
+      "category": "Brand & Logos",
+      "styles": [
+        "Realistic",
+        "Brand"
+      ],
+      "scenes": [
+        "Creative"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-1954"
+    },
+    {
+      "id": 1953,
+      "title": "社交媒体帖子 - GPT Image 2 超现实时尚与奇幻提示词",
+      "image": "https://cms-assets.youmind.com/media/1792914376386_7j70s8_HVZDjCWaMAAdC17.jpg",
+      "imageAlt": "社交媒体帖子 - GPT Image 2 超现实时尚与奇幻提示词",
+      "sourceLabel": "@Taaruk_",
+      "sourceUrl": "https://x.com/Taaruk_",
+      "prompt": "创作一张超现实、电影感的时尚摄影作品：一位时髦的金发女郎身穿淡粉色碎花迷你裙，脚踩粉色及膝长靴，佩戴充满未来感的护目镜，自信地迈步前行，手中握着一把装饰着玫瑰的超大号粉色科幻巨炮。巨炮向远方喷射出极具视觉冲击力的火焰与浓烟。场景设定在一个梦幻般的粉色郊区小镇，画面中有一辆复古粉色汽车、一栋淡粉色小屋、尘土飞扬的街道以及烟雾缭绕的戏剧性天空。采用柔和的粉彩色调、复古未来主义美学、逼真的材质纹理、电影级光影、广角构图以及高端时尚大片的质感。如梦似幻却又无比写实，细节极致丰富，8K 画质。\n\n创作一幅异想天开、照片般逼真的奇幻场景：一位优雅的年轻女子身穿淡彩虹色层叠薄纱礼服，搭配奶油色紧身胸衣和精致的复古小礼帽，骑在一只巨大的毛茸茸白兔背上，优雅地翱翔于连绵起伏的乡野丘陵之上。白兔双耳直立修长，毛发柔软且细节分明，身上系着一条精致的皮质挽具。她们下方是金色的田野、远处的森林和云雾缭绕的群山，头顶则是点缀着朵朵柔云的梦幻蓝天。定格白兔腾空时的灵动姿态、随风飘逸的裙摆、温暖的黄金时刻阳光、电影级的景深效果、逼真的材质纹理、童话般的氛围以及奢华的时尚大片造型。细节极致丰富，唯美迷人，8K 照片级真实感。",
+      "promptPreview": "创作一张超现实、电影感的时尚摄影作品：一位时髦的金发女郎身穿淡粉色碎花迷你裙，脚踩粉色及膝长靴，佩戴充满未来感的护目镜，自信地迈步前行，手中握着一把装饰着玫瑰的超大号粉色科幻巨炮。巨炮向远方喷射出极具视觉冲击力的火焰与浓烟。场景设定在一个梦幻般的粉色郊区小镇，画面中有一辆复古粉色汽车、一栋淡粉色小屋、尘土飞扬的街道以及烟雾缭绕的戏剧性天空。采用柔和的粉彩色调、复古未来主义美学、逼真的材质纹理、电影级光影、广角构图以及高端时尚大片的质感。",
+      "category": "Photography & Realism",
+      "styles": [
+        "Realistic"
+      ],
+      "scenes": [
+        "Story"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-1953"
+    },
+    {
+      "id": 1952,
+      "title": "社交媒体帖子 - GPT Image 字体排版旅行海报提示词",
+      "image": "https://cms-assets.youmind.com/media/1792914378191_240vbc_HVUpmT8aQAAGvA0.jpg",
+      "imageAlt": "社交媒体帖子 - GPT Image 字体排版旅行海报提示词",
+      "sourceLabel": "@Hamburgerai",
+      "sourceUrl": "https://x.com/Hamburgerai",
+      "prompt": "GPT-Image x {元素 A 单词} x {元素 B 风景} x {元素 C 纸张颜色} x 字体框景\n\n==================== 元素（每次生成一个） ====================\n[元素 A | 单词] {WORD}（4 个大写字母，字形带有开口或圆圈结构，粗体且清晰易读；副标题 {SUB}）\n[元素 B | 风景] {SCENE}\n[元素 C | 纸张颜色与配色] {PALETTE}\n[固定项] 项目名称 \"Altitude Log\"；方向：旅行字体海报；宽高比：9:16；氛围：电影感 / 宁静 / 冒险 / 编辑设计；请勿更改原文中的核心概念、排版要求、结尾及禁止事项。\n\n==================== 最终提示词（将元素填入大括号中） ====================\n创作一张高端字体框景海报，让超大号字体成为画面的主要视觉结构。\n\n主题：旅行\n方向：旅行字体海报\n项目名称：Altitude Log\n主标题：{WORD}\n副标题：{SUB}\n主体：风景（详见下方方向说明）\n氛围：电影感 / 宁静 / 冒险 / 编辑设计\n配色方案：{PALETTE}\n宽高比：9:16\n\n海报应呈现出高端设计海报、电影海报、活动主视觉、旅行宣传或文化项目海报的质感。\n\n核心概念：让字体去“框住”画面，而非简单地叠加在画面上。\n运用巨大的裁切字母、垂直字体框架、文字形状的窗口、强烈的负空间、真实摄影、纸张纹理、清晰的信息层级，以及主体与字体之间明确的视觉关系。\n\n选定方向：旅行字体海报\n用一个巨型单词作为图像容器。在字母内部填充风景摄影，并加入一个小小的人物剪影以体现比例感。填充的风景为：{SCENE}。风景照片作为一个整体连续延伸，穿过字母间隙时自然断开；小人物位于其中一个字母内，清晰可见。\"{WORD}\" 这个词的字母必须采用粗体，字形清晰易读。字母可被画布边缘轻微裁切，单词外部的背景为纸张颜色。\n\n保持构图干净、有结构感，具备编辑设计的审美意识与清晰的视觉逻辑。\n\n避免杂乱的拼贴、过多的元素、随意的贴纸、薄弱的字体表现、扁平的文字叠加、千篇一律的模板设计、文字渲染错误、人物变形、虚假风景、卡通风格以及真实的受版权保护的品牌标志。\n\n仅生成一张完整的最终海报。\n\n==================== 元素取值（将不同元素填入同一模板，各生成一张） ====================\nPEAK（云层之上） x 清晨雪山山脊：上方是嶙峋的雪峰，一道细细的旅人足迹沿着山脊延伸，一位身穿红色外套的小旅人站在山脊上，仅占画面极小部分以体现比例感，真实摄影质感，晨光从侧面打在雪面上 x 暖色纸张（米白色纸底）+ 雪山的冷蓝色与晨光的暖金色\nMIST（森林呼吸之处） x 晨雾中的原始针叶林：高大的云杉在雾气中层层递进，一束柔和的光线穿透树冠，森林小径上一个徒步者的背影，仅占画面极小部分，真实摄影质感 x 深绿色（深绿色纸底）+ 雾白与苔藓绿\nTIDE（海天之间） x 黄昏海岸礁石：慢门长曝光的海浪在黑色礁石间拉出白色水雾，远处是橙粉色的地平线，一位小旅人站在礁石上，仅占画面极小部分，真实摄影质感 x 深藏青色（深蓝色纸底）+ 大海的青绿色与浪花的白色\nDUNE（沙上的慢光） x 日出时的沙漠沙丘：连绵的沙丘脊线形成清晰的光影分界，沙面上细腻的风纹，一串沿着山脊延伸的足迹，一位小旅人行走在山脊上，仅占画面极小部分，真实摄影质感 x 暖色纸张（沙色纸底）+ 沙丘的赭红色与阴影的深棕色",
+      "promptPreview": "GPT-Image x {元素 A 单词} x {元素 B 风景} x {元素 C 纸张颜色} x 字体框景 ==================== 元素（每次生成一个） ==================== [元素 A | 单词] {WORD}（4 个大写字母，字形带有开口或圆圈结构，粗体且清晰易读；副标题 {SUB}） [元素 B | 风景] {SCENE} [元素 C | 纸张颜色与配色] {PALETTE} [固定项] 项",
+      "category": "Posters & Typography",
+      "styles": [
+        "Poster",
+        "Brand",
+        "Character"
+      ],
+      "scenes": [
+        "Social",
+        "Story"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-1952"
+    },
+    {
+      "id": 1951,
+      "title": "社交媒体帖子 - 戴玫瑰花冠的跪姿女性大理石雕像",
+      "image": "https://cms-assets.youmind.com/media/1792914379630_qre78x_HVbJJrfWMAA404_.jpg",
+      "imageAlt": "社交媒体帖子 - 戴玫瑰花冠的跪姿女性大理石雕像",
+      "sourceLabel": "@InchainAlice",
+      "sourceUrl": "https://x.com/InchainAlice",
+      "prompt": "一张精美的高清照片，拍摄对象是一尊古典白色大理石雕像，刻画了一位跪姿女子，姿态中流露出深切的哀伤或虔诚的祈祷。人物身披垂坠飘逸的长袍，一袭半透明的长面纱倾泻而下直至底座，营造出空灵缥缈的视觉效果，面料质感宛如轻薄的真丝。在面纱之上、她的头顶，安放着一顶深红色的玫瑰花冠，与纯色的石材形成强烈的色彩对比。雕像面容宁静却难掩忧郁，双眸低垂。画面采用极具戏剧张力的明暗对照法布光，一束光线自上方投射于雕像之上，背景漆黑如墨，将大理石温润细腻的质地与衣褶轻盈柔美的线条展现得淋漓尽致。",
+      "promptPreview": "一张精美的高清照片，拍摄对象是一尊古典白色大理石雕像，刻画了一位跪姿女子，姿态中流露出深切的哀伤或虔诚的祈祷。人物身披垂坠飘逸的长袍，一袭半透明的长面纱倾泻而下直至底座，营造出空灵缥缈的视觉效果，面料质感宛如轻薄的真丝。在面纱之上、她的头顶，安放着一顶深红色的玫瑰花冠，与纯色的石材形成强烈的色彩对比。雕像面容宁静却难掩忧郁，双眸低垂。画面采用极具戏剧张力的明暗对照法布光，一束光线自上方投射于雕像之上，背景漆黑如墨，将大理石温润细腻的质地",
+      "category": "Characters & People",
+      "styles": [
+        "Character"
+      ],
+      "scenes": [
+        "Creative"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-1951"
+    },
+    {
+      "id": 1950,
+      "title": "社交媒体帖子 - 铜绿青铜坐姿女性雕像",
+      "image": "https://cms-assets.youmind.com/media/1793001766525_benoxp_HVbLVNrXoAIik8u.jpg",
+      "imageAlt": "社交媒体帖子 - 铜绿青铜坐姿女性雕像",
+      "sourceLabel": "@InchainAlice",
+      "sourceUrl": "https://x.com/InchainAlice",
+      "prompt": "一张照片级写实的竖构图肖像，描绘了墓地中一尊饱经风霜的青铜坐像，形象为一位女性。雕像表面覆盖着厚重的绿色铜锈，缝隙处则呈现出深褐色的氧化痕迹。她身披垂坠的长袍，衣料如面纱般遮住头部，并在石质基座四周堆叠于脚边。她的面庞微微仰向天空，双眼轻闭，神情宁静，仿佛在虔诚祈祷或坦然顺从。一只手轻搭在膝上，另一只手自然垂落于身侧。她身后是一块朴素的、长满青苔的墓碑。背景是虚化的树木，秋叶呈现出柔和的绿色与褐色，营造出浅景深的视觉效果。光影氛围浓郁而富有戏剧性，将金属的质感从幽暗的环境中凸显出来。",
+      "promptPreview": "一张照片级写实的竖构图肖像，描绘了墓地中一尊饱经风霜的青铜坐像，形象为一位女性。雕像表面覆盖着厚重的绿色铜锈，缝隙处则呈现出深褐色的氧化痕迹。她身披垂坠的长袍，衣料如面纱般遮住头部，并在石质基座四周堆叠于脚边。她的面庞微微仰向天空，双眼轻闭，神情宁静，仿佛在虔诚祈祷或坦然顺从。一只手轻搭在膝上，另一只手自然垂落于身侧。她身后是一块朴素的、长满青苔的墓碑。背景是虚化的树木，秋叶呈现出柔和的绿色与褐色，营造出浅景深的视觉效果。光影氛围浓郁而",
+      "category": "Photography & Realism",
+      "styles": [
+        "Realistic"
+      ],
+      "scenes": [
+        "Creative"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-1950"
+    },
+    {
+      "id": 1949,
+      "title": "社交媒体帖子 - 从照片生成水彩编辑插画",
+      "image": "https://cms-assets.youmind.com/media/1793001760872_9a32tc_HVdAMnSbEAA0JbJ.jpg",
+      "imageAlt": "社交媒体帖子 - 从照片生成水彩编辑插画",
+      "sourceLabel": "@Sairah_0",
+      "sourceUrl": "https://x.com/Sairah_0",
+      "prompt": "将上传的照片转化为精美的极简主义杂志插画，呈现柔和的手绘水彩与水粉质感。\n\n艺术风格：复古旅行海报插画、细腻的水彩晕染、淡雅的水粉笔触、清晰可见的手工纸纹理、柔和的颜料肌理、自然随性的手绘边缘、低饱和度的柔和色调，以及梦幻浪漫的氛围。\n\n构图：2:3 竖版海报。将主体人物置于画面下方三分之一处，上方约 65%–70% 的区域留白，呈现带有自然纹理的温暖象牙色纸张质感。整体构图需通透、宁静、克制且均衡。\n\n主体：保留参考照片中人物的辨识度、发型、服饰、姿态与情感互动。将五官特征简化为优雅的手绘轮廓，弱化面部细节，保持自然的人体比例。营造一种真实抓拍般的亲密感与故事感。\n\n背景：用写意洒脱的笔触和简化的剪影来描绘周围环境。地标建筑、自然风光、树木、楼宇或城市街景应保持可辨识但不过分抢眼。配色以柔和的海军蓝、灰蓝色、暖米色、淡茱萸粉为主，并点缀温润的金黄色。\n\n光影与质感：柔和的自然光、细腻的阴影、微妙的色彩晕染、层次丰富的水彩叠色、哑光效果以及真实的纸张纹理。将细节集中在人物及画面下方的背景区域。\n\n整体氛围：浪漫、怀旧、宁静、诗意、隽永而亲密——宛如精美旅行手账中的一页插画。\n\n严格规则：极简构图、大量留白；拒绝照片级写实、3D 渲染、生硬轮廓线、过度饱和的色彩、多余细节、边框、文字排版及水印。最终图像必须呈现出在纹理纸上纯手工绘制的真实质感。",
+      "promptPreview": "将上传的照片转化为精美的极简主义杂志插画，呈现柔和的手绘水彩与水粉质感。 艺术风格：复古旅行海报插画、细腻的水彩晕染、淡雅的水粉笔触、清晰可见的手工纸纹理、柔和的颜料肌理、自然随性的手绘边缘、低饱和度的柔和色调，以及梦幻浪漫的氛围。 构图：2:3 竖版海报。将主体人物置于画面下方三分之一处，上方约 65%–70% 的区域留白，呈现带有自然纹理的温暖象牙色纸张质感。整体构图需通透、宁静、克制且均衡。 主体：保留参考照片中人物的辨识度、发型",
+      "category": "Posters & Typography",
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Illustration"
+      ],
+      "scenes": [
+        "Fashion",
+        "Travel",
+        "Story"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-1949"
+    },
+    {
+      "id": 1948,
+      "title": "社交媒体帖子 - 秋叶原的 Suica 企鹅",
+      "image": "https://cms-assets.youmind.com/media/1793001764472_4az5cm_HVd_K6AbEAASRYf.jpg",
+      "imageAlt": "社交媒体帖子 - 秋叶原的 Suica 企鹅",
+      "sourceLabel": "@fugurina",
+      "sourceUrl": "https://x.com/fugurina",
+      "prompt": "一幅充满活力的波普艺术风格插画，描绘了 Suica 企鹅吉祥物站在繁忙的秋叶原街道中央。这只企鹅被拟人化，拥有黑色皮肤和白色眼睛，身穿一件时髦的黄色棒球夹克，内搭印有粉色星星的白色 T 恤，下穿带黄色星星的青绿色工装裤，脚踩彩色运动鞋。它脖子上挂着一副大耳机，手里提着一个标有“メイド CAFE”（女仆咖啡厅）字样的购物袋。画面左侧是一列绿白相间的山手线列车，显示屏上写着“AKIHABARA AKB”。背景中布满了色彩鲜艳的竖立招牌，上面绘有动漫角色，并写有“電気街”（电器街）、“PCパーツ”（电脑配件）、“アニメ”（动漫）和“ゲーム”（游戏）等字样。整体视觉呈现高对比度、高饱和度的色彩搭配，并辅以粗线条轮廓。",
+      "promptPreview": "一幅充满活力的波普艺术风格插画，描绘了 Suica 企鹅吉祥物站在繁忙的秋叶原街道中央。这只企鹅被拟人化，拥有黑色皮肤和白色眼睛，身穿一件时髦的黄色棒球夹克，内搭印有粉色星星的白色 T 恤，下穿带黄色星星的青绿色工装裤，脚踩彩色运动鞋。它脖子上挂着一副大耳机，手里提着一个标有“メイド CAFE”（女仆咖啡厅）字样的购物袋。画面左侧是一列绿白相间的山手线列车，显示屏上写着“AKIHABARA AKB”。背景中布满了色彩鲜艳的竖立招牌，上面",
+      "category": "UI & Interfaces",
+      "styles": [
+        "UI",
+        "Illustration",
+        "Character"
+      ],
+      "scenes": [
+        "Food"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-1948"
+    },
+    {
+      "id": 1947,
+      "title": "个人资料 / 头像 - 使用 GPT Image 2 生成温馨咖啡馆人像",
+      "image": "https://cms-assets.youmind.com/media/1792914375004_3tpa10_HVVn-gibQAAbDuD.jpg",
+      "imageAlt": "个人资料 / 头像 - 使用 GPT Image 2 生成温馨咖啡馆人像",
+      "sourceLabel": "@Itx_Sophie",
+      "sourceUrl": "https://x.com/Itx_Sophie",
+      "prompt": "一位年轻东亚女性的肖像，她坐在温馨的咖啡馆里，面朝镜头，头部微微倾斜，目光平静柔和。超长的深栗棕色层次长发，搭配轻盈的空气感八字刘海，发丝松散微乱，带有自然光泽，几缕头发垂落在肩头。肌肤水润无瑕，妆容清透自然，唇色为温暖的蜜桃粉，眼线是淡淡的棕色。身穿一件米色 oversized V 领针织毛衣，质感柔软蓬松；佩戴叠戴的精致金色项链，搭配圆形吊坠，以及小巧的金色贴耳圈形耳环。她坐在一把藤编咖啡椅上。背景：一扇黑色大边框窗户，窗外的秋日绿植呈现虚化效果；深色木质书架搭配暖木色层板，上面摆放着相框和一小盆绿植，所有背景元素均处于柔和的失焦状态。黄金时刻的温暖阳光，透过窗户洒下柔和的漫射光，营造出惬意的秋日氛围；整体采用大地色系，以米色和棕色为主调；韩式生活方式杂志大片美学风格，浅景深，85mm 镜头，f/1.8，照片级真实感，皮肤与发丝纹理极致细腻，2:3 竖构图。",
+      "promptPreview": "一位年轻东亚女性的肖像，她坐在温馨的咖啡馆里，面朝镜头，头部微微倾斜，目光平静柔和。超长的深栗棕色层次长发，搭配轻盈的空气感八字刘海，发丝松散微乱，带有自然光泽，几缕头发垂落在肩头。肌肤水润无瑕，妆容清透自然，唇色为温暖的蜜桃粉，眼线是淡淡的棕色。身穿一件米色 oversized V 领针织毛衣，质感柔软蓬松；佩戴叠戴的精致金色项链，搭配圆形吊坠，以及小巧的金色贴耳圈形耳环。她坐在一把藤编咖啡椅上。背景：一扇黑色大边框窗户，窗外的秋日绿",
+      "category": "Characters & People",
+      "styles": [
+        "Characters"
+      ],
+      "scenes": [
+        "Food"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-1947"
+    },
+    {
+      "id": 1946,
+      "title": "个人资料 / 头像 - 车内电影感公路旅行人像",
+      "image": "https://cms-assets.youmind.com/media/1793001762333_ioci5n_HVaBnPQaoAAE7DS.jpg",
+      "imageAlt": "个人资料 / 头像 - 车内电影感公路旅行人像",
+      "sourceLabel": "@Itx_Sophie",
+      "sourceUrl": "https://x.com/Itx_Sophie",
+      "prompt": "年轻女性的自然生活感人像，坐在行驶中汽车的后排座椅上，头向后靠在椅背上，双眼轻闭，脸庞朝向敞开的车窗，沐浴着阳光与微风。深棕黑色的长发搭配轻盈的碎刘海，被风吹向后方，几缕发丝随风飘舞。妆容柔和自然，肌肤水润透亮，神情放松恬静，蜜桃色双唇微微张开。身穿纯白色宽松圆领 T 恤和浅灰色运动裤，单膝蜷起，双臂环抱膝盖。车内光线偏暗，前景可见黑色车门内饰板与银色门把手。车窗外，飞速掠过的绿树因动态而严重模糊。温暖明亮的正午阳光洒入车内，在她的脸庞与颈部投下柔和的高光。梦幻惬意的夏日公路旅行氛围，韩式电影感美学，背景动态模糊，浅景深，50mm 镜头，f/2，照片级真实感，超精细的皮肤与发丝纹理，9:16 竖版构图。",
+      "promptPreview": "年轻女性的自然生活感人像，坐在行驶中汽车的后排座椅上，头向后靠在椅背上，双眼轻闭，脸庞朝向敞开的车窗，沐浴着阳光与微风。深棕黑色的长发搭配轻盈的碎刘海，被风吹向后方，几缕发丝随风飘舞。妆容柔和自然，肌肤水润透亮，神情放松恬静，蜜桃色双唇微微张开。身穿纯白色宽松圆领 T 恤和浅灰色运动裤，单膝蜷起，双臂环抱膝盖。车内光线偏暗，前景可见黑色车门内饰板与银色门把手。车窗外，飞速掠过的绿树因动态而严重模糊。温暖明亮的正午阳光洒入车内，在她的脸庞",
+      "category": "Characters & People",
+      "styles": [
+        "Characters"
+      ],
+      "scenes": [
+        "Creative"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-1946"
+    },
+    {
+      "id": 1945,
+      "title": "个人资料 / 头像 - 复古肖像：头顶毛绒狗的女孩",
+      "image": "https://cms-assets.youmind.com/media/1793001763836_vqp5w4_HVd7EWVbEAAWX_T.jpg",
+      "imageAlt": "个人资料 / 头像 - 复古肖像：头顶毛绒狗的女孩",
+      "sourceLabel": "@Kmsbdd0GXBOcrXQ",
+      "sourceUrl": "https://x.com/Kmsbdd0GXBOcrXQ",
+      "prompt": "一张充满怀旧气息的复古风格照片，画面中一位年轻的亚洲女性坐在木椅上。她留着带刘海的黑色短发，身穿米白色碎花衬衫搭配牛仔短裤。一只米色的大毛绒玩具狗趴在她的头顶。她双膝抱在胸前，直视镜头，神情忧郁而疏离。背景是深色的木质百叶门或百叶窗。整张照片呈现出老胶片般的质感，带有明显的颗粒感与划痕，色调温暖而泛旧，颇具昭和时代摄影的典型韵味。",
+      "promptPreview": "一张充满怀旧气息的复古风格照片，画面中一位年轻的亚洲女性坐在木椅上。她留着带刘海的黑色短发，身穿米白色碎花衬衫搭配牛仔短裤。一只米色的大毛绒玩具狗趴在她的头顶。她双膝抱在胸前，直视镜头，神情忧郁而疏离。背景是深色的木质百叶门或百叶窗。整张照片呈现出老胶片般的质感，带有明显的颗粒感与划痕，色调温暖而泛旧，颇具昭和时代摄影的典型韵味。",
+      "category": "Photography & Realism",
+      "styles": [
+        "Classical",
+        "3D"
+      ],
+      "scenes": [
+        "Creative"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-1945"
+    },
+    {
+      "id": 1944,
+      "title": "个人资料 / 头像 - 水豚柚子温泉贴纸",
+      "image": "https://cms-assets.youmind.com/media/1793001766423_9k7oyc_HVez3FGWcAAsMsL.jpg",
+      "imageAlt": "个人资料 / 头像 - 水豚柚子温泉贴纸",
+      "sourceLabel": "@aiartalley",
+      "sourceUrl": "https://x.com/aiartalley",
+      "prompt": "一幅可爱的扁平风格矢量插画，描绘了一只正在泡柚子温泉的水豚。水豚双眼半闭，神情呆萌又放松，嘴里叼着一颗黄色的柚子。它头顶上叠放着三颗摇摇晃晃的柚子。温泉水呈淡黄色，四周环绕着光滑的灰色石头。左侧有一个白色小束口袋，里面装着一颗柚子。水面上飘起缕缕热气。整个画面被设计成一枚贴纸，带有粗白描边，背景为纯薄荷绿色。",
+      "promptPreview": "一幅可爱的扁平风格矢量插画，描绘了一只正在泡柚子温泉的水豚。水豚双眼半闭，神情呆萌又放松，嘴里叼着一颗黄色的柚子。它头顶上叠放着三颗摇摇晃晃的柚子。温泉水呈淡黄色，四周环绕着光滑的灰色石头。左侧有一个白色小束口袋，里面装着一颗柚子。水面上飘起缕缕热气。整个画面被设计成一枚贴纸，带有粗白描边，背景为纯薄荷绿色。",
+      "category": "Illustration & Art",
+      "styles": [
+        "Illustration"
+      ],
+      "scenes": [
+        "Creative"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-1944"
+    },
+    {
+      "id": 1943,
+      "title": "个人资料 / 头像 - GPT Image 2 微缩强制透视提示词",
+      "image": "https://cms-assets.youmind.com/media/1793001762385_2hrqpq_HVh8-JmbcAAEdKA.jpg",
+      "imageAlt": "个人资料 / 头像 - GPT Image 2 微缩强制透视提示词",
+      "sourceLabel": "@Sairah_0",
+      "sourceUrl": "https://x.com/Sairah_0",
+      "prompt": "根据上传的自拍照片，生成一张 1:1 正方形、超写实的俯拍照片。该自拍是确认人物身份的唯一参考依据。请保留清晰可辨的成人面部特征、自然的面部比例、肤色、发型、原始表情、可见衣物（包括原有图案）以及配饰。对于画面中未露出的裤子和鞋子，请自然地补全，使其与原有穿搭保持一致。\n\n相机与环境\n将相机置于人物几乎正上方，垂直向下俯拍。场景为干净、宽敞的浅色室内石材地面或室外铺装路面，整体风格需与原自拍的美学氛围相契合。使用大尺寸铺路石板，整个画面中仅出现 2–3 条细窄且间距较宽的接缝。每块石板的尺寸约为微缩全身人像高度的两倍。石材纹理应保持细腻低调，画面中不得出现任何道具、植物或杂物。画面上边缘可隐约露出远处的墙根。\n\n构图与比例\n画面中仅有一人，位置略低于中心点，从头到脚完整可见。整个人物仅占画面高度的 40%，头部上方及两侧留出大面积的地面留白。\n\n运用超广角强制透视手法，打造出巨大逼真的头部与微缩的身体。从头顶到下巴，头部占人物整体轮廓高度的 75%。肩宽仅为头宽的 50%。头部以下，呈现极短且窄小的躯干、微缩的手臂、因透视压缩而显得短小的双腿，以及两只紧挨在一起的迷你鞋子。\n\n头部与身体必须无缝衔接。双臂自然下垂并贴近身体两侧。人物微微仰头，直视位于高处的相机镜头。请保持真实的人体面部结构、自然的皮肤纹理和栩栩如生的双眼。严禁出现任何卡通风格或拼贴效果。\n\n光影与写实感\n采用自然光照，呈现逼真的发丝细节、真实的布料质感、精细的石材表面、符合物理规律的接触阴影以及淡淡的胶片颗粒感。最终图像必须看起来像是用真实相机拍摄的照片。",
+      "promptPreview": "根据上传的自拍照片，生成一张 1:1 正方形、超写实的俯拍照片。该自拍是确认人物身份的唯一参考依据。请保留清晰可辨的成人面部特征、自然的面部比例、肤色、发型、原始表情、可见衣物（包括原有图案）以及配饰。对于画面中未露出的裤子和鞋子，请自然地补全，使其与原有穿搭保持一致。 相机与环境 将相机置于人物几乎正上方，垂直向下俯拍。场景为干净、宽敞的浅色室内石材地面或室外铺装路面，整体风格需与原自拍的美学氛围相契合。使用大尺寸铺路石板，整个画面中",
+      "category": "Architecture & Spaces",
+      "styles": [
+        "Realistic",
+        "Character"
+      ],
+      "scenes": [
+        "Story"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-1943"
+    },
     {
       "id": 1942,
       "title": "电商主图 - 街头风格全身时尚肖像",
