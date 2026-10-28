@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-10-27T20:00:26.317Z",
+  "updatedAt": "2026-10-28T20:00:32.187Z",
   "starThreshold": 200,
   "candidates": [
     {
       "fullName": "ConardLi/garden-skills",
-      "stars": 13338,
+      "stars": 13370,
       "url": "https://github.com/ConardLi/garden-skills",
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
     },
     {
       "fullName": "ningzimu/codex-ppt-skill",
-      "stars": 7372,
+      "stars": 7412,
       "url": "https://github.com/ningzimu/codex-ppt-skill",
       "description": "GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents"
     },
     {
       "fullName": "ikaijua/Awesome-AITools",
-      "stars": 6257,
+      "stars": 6260,
       "url": "https://github.com/ikaijua/Awesome-AITools",
       "description": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests"
     },
     {
       "fullName": "liangdabiao/ecom-details-image",
-      "stars": 1510,
+      "stars": 1523,
       "url": "https://github.com/liangdabiao/ecom-details-image",
       "description": "一个面向workbuddy / Codex 等agent 的跨境电商和国内电商通用视觉创作 Skill。我精选25个高质量案例，涵盖纯色底产品主图、场景化生活图、平铺图、电商详情图、真实场景等等，全部配完整提示词，都可以利用 GPT-Image-2 API生成最终效果。一键生成电商相关图片！输入产品图片和需求描述，自动生成完整的电商主图、详情页图片、社媒推广图、直播间场景图等全套视觉素材。 与众不同之处是：**Campaign Style Lock** 机制 和 **强推广** 和 **重视转化效果**。"
     },
     {
       "fullName": "JuneYaooo/gpt-image2-ppt-skills",
-      "stars": 1399,
+      "stars": 1401,
       "url": "https://github.com/JuneYaooo/gpt-image2-ppt-skills",
       "description": "Clone any .pptx into your own deck — OpenAI gpt-image-2 mimics the layout, you supply the content. 10 bundled styles. | 把任何 .pptx 模板\"抄\"成你的 PPT：gpt-image-2 仿版式、你换内容，另含 10 套精选风格。Claude Code / OpenClaw skill. "
     },
     {
       "fullName": "YouMind-OpenLab/ai-image-prompts-skill",
-      "stars": 1341,
+      "stars": 1349,
       "url": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill",
       "description": "AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more."
     },
@@ -70,13 +70,13 @@
     },
     {
       "fullName": "smixs/visual-skills",
-      "stars": 589,
+      "stars": 595,
       "url": "https://github.com/smixs/visual-skills",
       "description": "AI film director skills for agents: cinematic dramaturgy (Murch, blocking, montage) + exact prompt syntax for Seedance 2.5, Kling 3.0 Turbo/Omni, Veo 3.1, Nano Banana 2, GPT Image 2.5."
     },
     {
       "fullName": "tianjiangqiji/nova-image-studio",
-      "stars": 467,
+      "stars": 468,
       "url": "https://github.com/tianjiangqiji/nova-image-studio",
       "description": "自托管的 AI 视频/图像生成工作台 · 自定义模型 · 多模式 · PWA · 实时任务 支持Agent模式，UI设计模式，工作台模式，无限画布，反推提示词，提示词广场，GIF生成。前后端任务机制轻量后端；三端兼容 UI：桌面端、平板端、移动端自适应布局"
     },
@@ -88,7 +88,7 @@
     },
     {
       "fullName": "buluslan/gpt-image2-ecommerce",
-      "stars": 428,
+      "stars": 430,
       "url": "https://github.com/buluslan/gpt-image2-ecommerce",
       "description": "E-commerce product image generator skill — 39 scenario templates, GPT-Image-2/2.5 (Flare/Sunburst) model routing, campaign consistency lock, platform compliance. 电商做图 Skill：39 场景模板×双模型路由×套图一致性×平台合规。"
     },
