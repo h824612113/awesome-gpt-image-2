@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/freestylefly/awesome-gpt-image-2",
-  "totalCases": 1981,
+  "totalCases": 1982,
   "categories": [
     "Architecture & Spaces",
     "Brand & Logos",
@@ -50,6 +50,27 @@
     "Travel"
   ],
   "cases": [
+    {
+      "id": 2037,
+      "title": "社交媒体帖子 - 从照片生成动漫风编辑海报",
+      "image": "https://cms-assets.youmind.com/media/1794123630856_xkx1x9_HWiQHBrbIAAWn0G.jpg",
+      "imageAlt": "社交媒体帖子 - 从照片生成动漫风编辑海报",
+      "sourceLabel": "@Tech_Harry1",
+      "sourceUrl": "https://x.com/Tech_Harry1",
+      "prompt": "将参考照片转化为一张高端、风格化的动漫风时尚海报，同时精准保留人物的面部特征、发型、姿势、太阳镜、珍珠耳环以及红色羽绒服。\n\n打造惊艳的双联垂直构图：\n\n上幅画面：以湛蓝天空为背景的女性超写实肖像，沐浴在温暖的黄金时刻阳光下，微风自然吹拂发丝，佩戴亮橙色镜片太阳镜，皮肤纹理真实细腻，呈现电影级摄影质感。\n\n下幅画面：将同一位女性重新演绎为细节丰富的“动漫+美漫”风格插画。完整保留她的面部特征、表情、发型、穿搭、配饰及姿势。运用极具张力的橙色轮廓光、富有表现力的精细线条、浓郁的色彩以及高级图像小说级别的阴影处理。\n\n海报设计：\n\n* 深炭灰色背景搭配活力橙色点缀。\n* 醒目的大号粗斜体文字“URBAN GLOW”。\n* 较小的副标题：“CITY VIBES IN COLOR”。\n* 动感的对角线橙色图形与几何元素。\n* 现代街头潮流大片美学。\n* 高对比度，高端杂志封面级设计。\n\n重要提示：插画中的面部需与原照片高度一致。切勿改变人物身份、面部比例或标志性特征。超精细画质，4K 分辨率，专业海报设计，3:4 垂直构图。",
+      "promptPreview": "将参考照片转化为一张高端、风格化的动漫风时尚海报，同时精准保留人物的面部特征、发型、姿势、太阳镜、珍珠耳环以及红色羽绒服。 打造惊艳的双联垂直构图： 上幅画面：以湛蓝天空为背景的女性超写实肖像，沐浴在温暖的黄金时刻阳光下，微风自然吹拂发丝，佩戴亮橙色镜片太阳镜，皮肤纹理真实细腻，呈现电影级摄影质感。 下幅画面：将同一位女性重新演绎为细节丰富的“动漫+美漫”风格插画。完整保留她的面部特征、表情、发型、穿搭、配饰及姿势。运用极具张力的橙色轮",
+      "category": "Posters & Typography",
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Illustration"
+      ],
+      "scenes": [
+        "Travel"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-2037"
+    },
     {
       "id": 2036,
       "title": "产品营销 - 经典咖啡馆约会穿搭提示词",
